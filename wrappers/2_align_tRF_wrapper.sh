@@ -31,3 +31,4 @@ for SAMPLE in *.fastq; do
 done
 
 mv /grid/schorn/home/mpeacey/scripts/small_RNA_seq/wrappers/align_tRF_wrapper_output.txt ${DATA_DIRECTORY}/alignment/
+cp /grid/schorn/home/mpeacey/scripts/small_RNA_seq/2_align_tRF.sh  ${DATA_DIRECTORY}/scripts
