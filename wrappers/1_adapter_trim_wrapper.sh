@@ -23,9 +23,10 @@
 # 2 : fixed number of bases to trim from the 5' end.
 # Note that the 3' adapter sequence(s) must be in a fasta file named adapter.fasta, located in the fastq directory (input 1).
 
-FASTQ_DIRECTORY=$1
-TRIM=$2
-POLY_A=$3
+DATA_DIRECTORY=$1
+FASTQ_DIRECTORY=$2
+TRIM=$3
+POLY_A=$4
 
 cd ${FASTQ_DIRECTORY}
 
@@ -41,6 +42,6 @@ for SAMPLE in *.fastq; do
 	-o ${SAMPLE_NAME}_adapter_trim_output.txt -e ${SAMPLE_NAME}_adapter_trim_output.txt \
 	/grid/schorn/home/mpeacey/scripts/small_RNA_seq/1_adapter_trim.sh \
 	${SAMPLE} ${SAMPLE_NAME} \
-	${FASTQ_DIRECTORY} ${TRIM} ${POLY_A}
+	${DATA_DIRECTORY} ${FASTQ_DIRECTORY} ${TRIM} ${POLY_A}
 
 done

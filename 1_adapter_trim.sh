@@ -21,9 +21,10 @@ echo "##################################################"
 
 SAMPLE=$1
 SAMPLE_NAME=$2
-FASTQ_DIRECTORY=$3
-TRIM=$4
-POLY_A=$5
+HOME_DIRECTORY=$3
+FASTQ_DIRECTORY=$4
+TRIM=$5
+POLY_A=$6
 
 cd ${FASTQ_DIRECTORY}
 
@@ -53,5 +54,7 @@ fastq_quality_filter -i cutadapt_processed/${SAMPLE_NAME}_cut.fastq \
 		     -Q33 -q 20 -p 95
 
 fastqc quality_filtered/${SAMPLE_NAME}_filtered.fastq -o fastqc
+
+cp /grid/schorn/home/mpeacey/scripts/small_RNA_seq/1_adapter_trim.sh ${HOME_DIRECTORY}/scripts
 
 echo "Finished run on $(date)"
