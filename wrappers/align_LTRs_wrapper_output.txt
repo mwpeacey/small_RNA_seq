@@ -1,0 +1,15 @@
+Your job 9029764 ("SRR072951_align_LTRs") has been submitted
+Your job 9029765 ("SRR072952_align_LTRs") has been submitted
+Your job 9029766 ("SRR072953_align_LTRs") has been submitted
+Your job 9029767 ("SRR072954_align_LTRs") has been submitted
+Your job 9029768 ("SRR072955_align_LTRs") has been submitted
+Your job 9030204 ("SRR072951_align_LTRs") has been submitted
+Your job 9030205 ("SRR072952_align_LTRs") has been submitted
+Your job 9030206 ("SRR072953_align_LTRs") has been submitted
+Your job 9030207 ("SRR072954_align_LTRs") has been submitted
+Your job 9030208 ("SRR072955_align_LTRs") has been submitted
+Your job 9030211 ("SRR072951_align_LTRs") has been submitted
+Your job 9030212 ("SRR072952_align_LTRs") has been submitted
+Your job 9030213 ("SRR072953_align_LTRs") has been submitted
+Your job 9030214 ("SRR072954_align_LTRs") has been submitted
+Your job 9030215 ("SRR072955_align_LTRs") has been submitted

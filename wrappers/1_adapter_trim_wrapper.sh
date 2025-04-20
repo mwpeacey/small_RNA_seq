@@ -1,0 +1,46 @@
+#!/bin/bash
+#$ -cwd
+#$ -pe threads 1
+#$ -l m_mem_free=4G
+#$ -N adapter_trim_wrapper 
+#$ -o adapter_trim_wrapper_output.txt
+#$ -e adapter_trim_wrapper_output.txt
+
+# Description
+#
+# Trims sequencing adapters from reads, quality and length filters, and returns a quality control summary.
+
+# Requirements
+#
+# Environment: small_RNA_sequencing
+# cutadapt v4.6
+# fastQC v0.12.1
+# FASTX toolkit v0.0.14
+
+# Inputs
+#
+# 1 : directory containing untrimmed reads in fastq format.
+# 2 : fixed number of bases to trim from the 5' end.
+# Note that the 3' adapter sequence(s) must be in a fasta file named adapter.fasta, located in the fastq directory (input 1).
+
+FASTQ_DIRECTORY=$1
+TRIM=$2
+POLY_A=$3
+
+cd ${FASTQ_DIRECTORY}
+
+mkdir cutadapt_processed
+mkdir fastqc
+mkdir quality_filtered
+
+for SAMPLE in *.fastq; do
+
+	SAMPLE_NAME=`echo ${SAMPLE} | cut -d'.' -f 1`
+
+	qsub -N ${SAMPLE_NAME}_adapter_trim \
+	-o ${SAMPLE_NAME}_adapter_trim_output.txt -e ${SAMPLE_NAME}_adapter_trim_output.txt \
+	/grid/schorn/home/mpeacey/scripts/small_RNA_seq/1_adapter_trim.sh \
+	${SAMPLE} ${SAMPLE_NAME} \
+	${FASTQ_DIRECTORY} ${TRIM} ${POLY_A}
+
+done

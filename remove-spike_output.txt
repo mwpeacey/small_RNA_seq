@@ -1,0 +1,2009 @@
+New run started on Tue Oct 10 13:45:43 EDT 2023
+Processing sample SRR24391608_cut
+java -ea -Xmx154624m -Xms154624m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391608_cut.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391608_cut_spike.fastq stats=spike_depleted/SRR24391608_cut_stats.txt k=15
+Executing jgi.Seal [in=SRR24391608_cut.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391608_cut_spike.fastq, stats=spike_depleted/SRR24391608_cut_stats.txt, k=15]
+Version 38.93
+
+0.206 seconds.
+Initial:
+Memory: max=162135m, total=162135m, free=162034m, used=101m
+
+Added 22 kmers; time: 	0.732 seconds.
+Memory: max=162135m, total=162135m, free=161866m, used=269m
+
+Input is being processed as unpaired
+Started output streams:	0.140 seconds.
+Processing time:   		270.065 seconds.
+
+Input:                  	73769788 reads 		1876003606 bases.
+Matched reads:          	392823 reads (0.53%) 	11550322 bases (0.62%)
+Unmatched reads:        	73376965 reads (99.47%) 	1864453284 bases (99.38%)
+
+Time:                         	271.086 seconds.
+Reads Processed:      73769k 	272.13k reads/sec
+Bases Processed:       1876m 	6.92m bases/sec
+Processing sample SRR24391612_cut
+java -ea -Xmx150855m -Xms150855m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391612_cut.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391612_cut_spike.fastq stats=spike_depleted/SRR24391612_cut_stats.txt k=15
+Executing jgi.Seal [in=SRR24391612_cut.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391612_cut_spike.fastq, stats=spike_depleted/SRR24391612_cut_stats.txt, k=15]
+Version 38.93
+
+0.022 seconds.
+Initial:
+Memory: max=158209m, total=158209m, free=158119m, used=90m
+
+Added 22 kmers; time: 	0.030 seconds.
+Memory: max=158209m, total=158209m, free=157974m, used=235m
+
+Input is being processed as unpaired
+Started output streams:	0.089 seconds.
+Processing time:   		107.044 seconds.
+
+Input:                  	48233114 reads 		1185105713 bases.
+Matched reads:          	263228 reads (0.55%) 	7094113 bases (0.60%)
+Unmatched reads:        	47969886 reads (99.45%) 	1178011600 bases (99.40%)
+
+Time:                         	107.214 seconds.
+Reads Processed:      48233k 	449.88k reads/sec
+Bases Processed:       1185m 	11.05m bases/sec
+Processing sample SRR24391620_cut
+java -ea -Xmx151570m -Xms151570m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391620_cut.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391620_cut_spike.fastq stats=spike_depleted/SRR24391620_cut_stats.txt k=15
+Executing jgi.Seal [in=SRR24391620_cut.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391620_cut_spike.fastq, stats=spike_depleted/SRR24391620_cut_stats.txt, k=15]
+Version 38.93
+
+0.020 seconds.
+Initial:
+Memory: max=158947m, total=158947m, free=158874m, used=73m
+
+Added 22 kmers; time: 	0.023 seconds.
+Memory: max=158947m, total=158947m, free=158712m, used=235m
+
+Input is being processed as unpaired
+Started output streams:	0.044 seconds.
+Processing time:   		303.797 seconds.
+
+Input:                  	68916449 reads 		1578858244 bases.
+Matched reads:          	267624 reads (0.39%) 	7804365 bases (0.49%)
+Unmatched reads:        	68648825 reads (99.61%) 	1571053879 bases (99.51%)
+
+Time:                         	303.920 seconds.
+Reads Processed:      68916k 	226.76k reads/sec
+Bases Processed:       1578m 	5.19m bases/sec
+Processing sample SRR24391632_cut
+java -ea -Xmx151712m -Xms151712m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391632_cut.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391632_cut_spike.fastq stats=spike_depleted/SRR24391632_cut_stats.txt k=15
+Executing jgi.Seal [in=SRR24391632_cut.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391632_cut_spike.fastq, stats=spike_depleted/SRR24391632_cut_stats.txt, k=15]
+Version 38.93
+
+0.022 seconds.
+Initial:
+Memory: max=159081m, total=159081m, free=158992m, used=89m
+
+Added 22 kmers; time: 	0.031 seconds.
+Memory: max=159081m, total=159081m, free=158846m, used=235m
+
+Input is being processed as unpaired
+Started output streams:	0.029 seconds.
+Processing time:   		302.620 seconds.
+
+Input:                  	40275614 reads 		983945923 bases.
+Matched reads:          	216974 reads (0.54%) 	5845857 bases (0.59%)
+Unmatched reads:        	40058640 reads (99.46%) 	978100066 bases (99.41%)
+
+Time:                         	302.790 seconds.
+Reads Processed:      40275k 	133.02k reads/sec
+Bases Processed:        983m 	3.25m bases/sec
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/small_RNA_seq/remove_spike_output.txt': No such file or directory
+New run started on Wed Nov  1 21:22:32 EDT 2023
+Processing sample SRR24391604_filtered
+java -ea -Xmx88301m -Xms88301m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391604_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391604_filtered_spike.fastq stats=spike_depleted/SRR24391604_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391604_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391604_filtered_spike.fastq, stats=spike_depleted/SRR24391604_filtered_stats.txt, k=15]
+Version 38.93
+
+0.294 seconds.
+Initial:
+Memory: max=92610m, total=92610m, free=92526m, used=84m
+
+Added 22 kmers; time: 	6.351 seconds.
+Memory: max=92610m, total=92610m, free=92408m, used=202m
+
+Input is being processed as unpaired
+Started output streams:	0.127 seconds.
+Processing time:   		1041.466 seconds.
+
+Input:                  	87348010 reads 		2170494685 bases.
+Matched reads:          	553046 reads (0.63%) 	16191005 bases (0.75%)
+Unmatched reads:        	86794964 reads (99.37%) 	2154303680 bases (99.25%)
+
+Time:                         	1048.124 seconds.
+Reads Processed:      87348k 	83.34k reads/sec
+Bases Processed:       2170m 	2.07m bases/sec
+Processing sample SRR24391605_filtered
+java -ea -Xmx72848m -Xms72848m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391605_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391605_filtered_spike.fastq stats=spike_depleted/SRR24391605_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391605_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391605_filtered_spike.fastq, stats=spike_depleted/SRR24391605_filtered_stats.txt, k=15]
+Version 38.93
+
+0.011 seconds.
+Initial:
+Memory: max=76403m, total=76403m, free=76319m, used=84m
+
+Added 22 kmers; time: 	0.020 seconds.
+Memory: max=76403m, total=76403m, free=76168m, used=235m
+
+Input is being processed as unpaired
+Started output streams:	0.034 seconds.
+Processing time:   		396.093 seconds.
+
+Input:                  	39443268 reads 		989243122 bases.
+Matched reads:          	246286 reads (0.62%) 	7194615 bases (0.73%)
+Unmatched reads:        	39196982 reads (99.38%) 	982048507 bases (99.27%)
+
+Time:                         	396.204 seconds.
+Reads Processed:      39443k 	99.55k reads/sec
+Bases Processed:        989m 	2.50m bases/sec
+Processing sample SRR24391606_filtered
+java -ea -Xmx47418m -Xms47418m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391606_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391606_filtered_spike.fastq stats=spike_depleted/SRR24391606_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391606_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391606_filtered_spike.fastq, stats=spike_depleted/SRR24391606_filtered_stats.txt, k=15]
+Version 38.93
+
+0.013 seconds.
+Initial:
+Memory: max=49727m, total=49727m, free=49627m, used=100m
+
+Added 22 kmers; time: 	0.019 seconds.
+Memory: max=49727m, total=49727m, free=49492m, used=235m
+
+Input is being processed as unpaired
+Started output streams:	0.029 seconds.
+Processing time:   		832.702 seconds.
+
+Input:                  	82382581 reads 		2019024257 bases.
+Matched reads:          	424738 reads (0.52%) 	12339037 bases (0.61%)
+Unmatched reads:        	81957843 reads (99.48%) 	2006685220 bases (99.39%)
+
+Time:                         	832.808 seconds.
+Reads Processed:      82382k 	98.92k reads/sec
+Bases Processed:       2019m 	2.42m bases/sec
+Processing sample SRR24391607_filtered
+java -ea -Xmx6454m -Xms6454m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391607_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391607_filtered_spike.fastq stats=spike_depleted/SRR24391607_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391607_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391607_filtered_spike.fastq, stats=spike_depleted/SRR24391607_filtered_stats.txt, k=15]
+Version 38.93
+
+0.015 seconds.
+Initial:
+Memory: max=6769m, total=6769m, free=6729m, used=40m
+
+Added 22 kmers; time: 	0.019 seconds.
+Memory: max=6769m, total=6769m, free=6710m, used=59m
+
+Input is being processed as unpaired
+Started output streams:	0.045 seconds.
+Processing time:   		709.736 seconds.
+
+Input:                  	66380345 reads 		1626025718 bases.
+Matched reads:          	340459 reads (0.51%) 	9948256 bases (0.61%)
+Unmatched reads:        	66039886 reads (99.49%) 	1616077462 bases (99.39%)
+
+Time:                         	709.878 seconds.
+Reads Processed:      66380k 	93.51k reads/sec
+Bases Processed:       1626m 	2.29m bases/sec
+Processing sample SRR24391608_filtered
+java -ea -Xmx340793m -Xms340793m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391608_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391608_filtered_spike.fastq stats=spike_depleted/SRR24391608_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391608_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391608_filtered_spike.fastq, stats=spike_depleted/SRR24391608_filtered_stats.txt, k=15]
+Version 38.93
+
+0.012 seconds.
+Initial:
+Memory: max=357354m, total=357354m, free=357270m, used=84m
+
+Added 22 kmers; time: 	0.020 seconds.
+Memory: max=357354m, total=357354m, free=357136m, used=218m
+
+Input is being processed as unpaired
+Started output streams:	0.031 seconds.
+Processing time:   		780.749 seconds.
+
+Input:                  	71879168 reads 		1828736879 bases.
+Matched reads:          	385557 reads (0.54%) 	11350834 bases (0.62%)
+Unmatched reads:        	71493611 reads (99.46%) 	1817386045 bases (99.38%)
+
+Time:                         	780.896 seconds.
+Reads Processed:      71879k 	92.05k reads/sec
+Bases Processed:       1828m 	2.34m bases/sec
+Processing sample SRR24391609_filtered
+java -ea -Xmx318783m -Xms318783m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391609_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391609_filtered_spike.fastq stats=spike_depleted/SRR24391609_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391609_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391609_filtered_spike.fastq, stats=spike_depleted/SRR24391609_filtered_stats.txt, k=15]
+Version 38.93
+
+0.012 seconds.
+Initial:
+Memory: max=334269m, total=334269m, free=334185m, used=84m
+
+Added 22 kmers; time: 	0.021 seconds.
+Memory: max=334269m, total=334269m, free=334051m, used=218m
+
+Input is being processed as unpaired
+Started output streams:	0.026 seconds.
+Processing time:   		544.116 seconds.
+
+Input:                  	60025292 reads 		1537347130 bases.
+Matched reads:          	487598 reads (0.81%) 	14311347 bases (0.93%)
+Unmatched reads:        	59537694 reads (99.19%) 	1523035783 bases (99.07%)
+
+Time:                         	544.227 seconds.
+Reads Processed:      60025k 	110.29k reads/sec
+Bases Processed:       1537m 	2.82m bases/sec
+Processing sample SRR24391610_filtered
+java -ea -Xmx303145m -Xms303145m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391610_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391610_filtered_spike.fastq stats=spike_depleted/SRR24391610_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391610_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391610_filtered_spike.fastq, stats=spike_depleted/SRR24391610_filtered_stats.txt, k=15]
+Version 38.93
+
+0.011 seconds.
+Initial:
+Memory: max=317894m, total=317894m, free=317810m, used=84m
+
+Added 22 kmers; time: 	0.018 seconds.
+Memory: max=317894m, total=317894m, free=317693m, used=201m
+
+Input is being processed as unpaired
+Started output streams:	0.288 seconds.
+Processing time:   		1449.835 seconds.
+
+Input:                  	86807809 reads 		2176822186 bases.
+Matched reads:          	509695 reads (0.59%) 	14960383 bases (0.69%)
+Unmatched reads:        	86298114 reads (99.41%) 	2161861803 bases (99.31%)
+
+Time:                         	1450.191 seconds.
+Reads Processed:      86807k 	59.86k reads/sec
+Bases Processed:       2176m 	1.50m bases/sec
+Processing sample SRR24391611_filtered
+java -ea -Xmx3028m -Xms3028m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391611_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391611_filtered_spike.fastq stats=spike_depleted/SRR24391611_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391611_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391611_filtered_spike.fastq, stats=spike_depleted/SRR24391611_filtered_stats.txt, k=15]
+Version 38.93
+
+0.011 seconds.
+Initial:
+Memory: max=3175m, total=3175m, free=3152m, used=23m
+
+Added 22 kmers; time: 	0.019 seconds.
+Memory: max=3175m, total=3175m, free=3143m, used=32m
+
+Input is being processed as unpaired
+Started output streams:	0.053 seconds.
+Processing time:   		1427.884 seconds.
+
+Input:                  	72163235 reads 		1837630177 bases.
+Matched reads:          	502270 reads (0.70%) 	14774891 bases (0.80%)
+Unmatched reads:        	71660965 reads (99.30%) 	1822855286 bases (99.20%)
+
+Time:                         	1428.018 seconds.
+Reads Processed:      72163k 	50.53k reads/sec
+Bases Processed:       1837m 	1.29m bases/sec
+Processing sample SRR24391612_filtered
+java -ea -Xmx303849m -Xms303849m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391612_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391612_filtered_spike.fastq stats=spike_depleted/SRR24391612_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391612_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391612_filtered_spike.fastq, stats=spike_depleted/SRR24391612_filtered_stats.txt, k=15]
+Version 38.93
+
+0.011 seconds.
+Initial:
+Memory: max=318632m, total=318632m, free=318548m, used=84m
+
+Added 22 kmers; time: 	0.021 seconds.
+Memory: max=318632m, total=318632m, free=318414m, used=218m
+
+Input is being processed as unpaired
+Started output streams:	0.040 seconds.
+Processing time:   		1052.648 seconds.
+
+Input:                  	47335938 reads 		1163307562 bases.
+Matched reads:          	259207 reads (0.55%) 	6995399 bases (0.60%)
+Unmatched reads:        	47076731 reads (99.45%) 	1156312163 bases (99.40%)
+
+Time:                         	1052.750 seconds.
+Reads Processed:      47335k 	44.96k reads/sec
+Bases Processed:       1163m 	1.11m bases/sec
+Processing sample SRR24391613_filtered
+java -ea -Xmx64824m -Xms64824m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391613_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391613_filtered_spike.fastq stats=spike_depleted/SRR24391613_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391613_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391613_filtered_spike.fastq, stats=spike_depleted/SRR24391613_filtered_stats.txt, k=15]
+Version 38.93
+
+0.016 seconds.
+Initial:
+Memory: max=67981m, total=67981m, free=67880m, used=101m
+
+Added 22 kmers; time: 	0.020 seconds.
+Memory: max=67981m, total=67981m, free=67729m, used=252m
+
+Input is being processed as unpaired
+Started output streams:	0.025 seconds.
+Processing time:   		337.503 seconds.
+
+Input:                  	37886075 reads 		894836193 bases.
+Matched reads:          	174220 reads (0.46%) 	4591413 bases (0.51%)
+Unmatched reads:        	37711855 reads (99.54%) 	890244780 bases (99.49%)
+
+Time:                         	337.606 seconds.
+Reads Processed:      37886k 	112.22k reads/sec
+Bases Processed:        894m 	2.65m bases/sec
+Processing sample SRR24391614_filtered
+java -ea -Xmx67910m -Xms67910m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391614_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391614_filtered_spike.fastq stats=spike_depleted/SRR24391614_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391614_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391614_filtered_spike.fastq, stats=spike_depleted/SRR24391614_filtered_stats.txt, k=15]
+Version 38.93
+
+0.011 seconds.
+Initial:
+Memory: max=71236m, total=71236m, free=71152m, used=84m
+
+Added 22 kmers; time: 	0.020 seconds.
+Memory: max=71236m, total=71236m, free=71001m, used=235m
+
+Input is being processed as unpaired
+Started output streams:	0.031 seconds.
+Processing time:   		583.618 seconds.
+
+Input:                  	32912693 reads 		789442031 bases.
+Matched reads:          	188573 reads (0.57%) 	5137660 bases (0.65%)
+Unmatched reads:        	32724120 reads (99.43%) 	784304371 bases (99.35%)
+
+Time:                         	583.738 seconds.
+Reads Processed:      32912k 	56.38k reads/sec
+Bases Processed:        789m 	1.35m bases/sec
+Processing sample SRR24391615_filtered
+java -ea -Xmx77759m -Xms77759m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391615_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391615_filtered_spike.fastq stats=spike_depleted/SRR24391615_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391615_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391615_filtered_spike.fastq, stats=spike_depleted/SRR24391615_filtered_stats.txt, k=15]
+Version 38.93
+
+0.012 seconds.
+Initial:
+Memory: max=81537m, total=81537m, free=81453m, used=84m
+
+Added 22 kmers; time: 	0.018 seconds.
+Memory: max=81537m, total=81537m, free=81335m, used=202m
+
+Input is being processed as unpaired
+Started output streams:	0.028 seconds.
+Processing time:   		1024.587 seconds.
+
+Input:                  	54870014 reads 		1337256389 bases.
+Matched reads:          	326615 reads (0.60%) 	8904174 bases (0.67%)
+Unmatched reads:        	54543399 reads (99.40%) 	1328352215 bases (99.33%)
+
+Time:                         	1024.681 seconds.
+Reads Processed:      54870k 	53.55k reads/sec
+Bases Processed:       1337m 	1.31m bases/sec
+Processing sample SRR24391616_filtered
+java -ea -Xmx39132m -Xms39132m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391616_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391616_filtered_spike.fastq stats=spike_depleted/SRR24391616_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391616_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391616_filtered_spike.fastq, stats=spike_depleted/SRR24391616_filtered_stats.txt, k=15]
+Version 38.93
+
+0.012 seconds.
+Initial:
+Memory: max=41037m, total=41037m, free=40952m, used=85m
+
+Added 22 kmers; time: 	0.018 seconds.
+Memory: max=41037m, total=41037m, free=40818m, used=219m
+
+Input is being processed as unpaired
+Started output streams:	0.038 seconds.
+Processing time:   		196.147 seconds.
+
+Input:                  	14782923 reads 		349957966 bases.
+Matched reads:          	94810 reads (0.64%) 	2460037 bases (0.70%)
+Unmatched reads:        	14688113 reads (99.36%) 	347497929 bases (99.30%)
+
+Time:                         	196.256 seconds.
+Reads Processed:      14782k 	75.32k reads/sec
+Bases Processed:        349m 	1.78m bases/sec
+Processing sample SRR24391617_filtered
+java -ea -Xmx15971m -Xms15971m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391617_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391617_filtered_spike.fastq stats=spike_depleted/SRR24391617_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391617_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391617_filtered_spike.fastq, stats=spike_depleted/SRR24391617_filtered_stats.txt, k=15]
+Version 38.93
+
+0.013 seconds.
+Initial:
+Memory: max=16752m, total=16752m, free=16710m, used=42m
+
+Added 22 kmers; time: 	0.034 seconds.
+Memory: max=16752m, total=16752m, free=16680m, used=72m
+
+Input is being processed as unpaired
+Started output streams:	0.069 seconds.
+Processing time:   		391.407 seconds.
+
+Input:                  	26615999 reads 		662942460 bases.
+Matched reads:          	135207 reads (0.51%) 	3668390 bases (0.55%)
+Unmatched reads:        	26480792 reads (99.49%) 	659274070 bases (99.45%)
+
+Time:                         	391.552 seconds.
+Reads Processed:      26615k 	67.98k reads/sec
+Bases Processed:        662m 	1.69m bases/sec
+Processing sample SRR24391618_filtered
+java -ea -Xmx338335m -Xms338335m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391618_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391618_filtered_spike.fastq stats=spike_depleted/SRR24391618_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391618_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391618_filtered_spike.fastq, stats=spike_depleted/SRR24391618_filtered_stats.txt, k=15]
+Version 38.93
+
+0.016 seconds.
+Initial:
+Memory: max=354771m, total=354771m, free=354703m, used=68m
+
+Added 22 kmers; time: 	0.017 seconds.
+Memory: max=354771m, total=354771m, free=354536m, used=235m
+
+Input is being processed as unpaired
+Started output streams:	0.030 seconds.
+Processing time:   		557.606 seconds.
+
+Input:                  	22224619 reads 		493077364 bases.
+Matched reads:          	40620 reads (0.18%) 	1073123 bases (0.22%)
+Unmatched reads:        	22183999 reads (99.82%) 	492004241 bases (99.78%)
+
+Time:                         	557.716 seconds.
+Reads Processed:      22224k 	39.85k reads/sec
+Bases Processed:        493m 	0.88m bases/sec
+Processing sample SRR24391619_filtered
+java -ea -Xmx302043m -Xms302043m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391619_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391619_filtered_spike.fastq stats=spike_depleted/SRR24391619_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391619_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391619_filtered_spike.fastq, stats=spike_depleted/SRR24391619_filtered_stats.txt, k=15]
+Version 38.93
+
+0.011 seconds.
+Initial:
+Memory: max=316720m, total=316720m, free=316636m, used=84m
+
+Added 22 kmers; time: 	0.019 seconds.
+Memory: max=316720m, total=316720m, free=316502m, used=218m
+
+Input is being processed as unpaired
+Started output streams:	0.036 seconds.
+Processing time:   		281.525 seconds.
+
+Input:                  	20055328 reads 		473530999 bases.
+Matched reads:          	102257 reads (0.51%) 	2739372 bases (0.58%)
+Unmatched reads:        	19953071 reads (99.49%) 	470791627 bases (99.42%)
+
+Time:                         	281.608 seconds.
+Reads Processed:      20055k 	71.22k reads/sec
+Bases Processed:        473m 	1.68m bases/sec
+Processing sample SRR24391620_filtered
+java -ea -Xmx283464m -Xms283464m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391620_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391620_filtered_spike.fastq stats=spike_depleted/SRR24391620_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391620_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391620_filtered_spike.fastq, stats=spike_depleted/SRR24391620_filtered_stats.txt, k=15]
+Version 38.93
+
+0.010 seconds.
+Initial:
+Memory: max=297258m, total=297258m, free=297191m, used=67m
+
+Added 22 kmers; time: 	0.018 seconds.
+Memory: max=297258m, total=297258m, free=297057m, used=201m
+
+Input is being processed as unpaired
+Started output streams:	0.037 seconds.
+Processing time:   		1096.555 seconds.
+
+Input:                  	66280051 reads 		1519121248 bases.
+Matched reads:          	262409 reads (0.40%) 	7663210 bases (0.50%)
+Unmatched reads:        	66017642 reads (99.60%) 	1511458038 bases (99.50%)
+
+Time:                         	1096.627 seconds.
+Reads Processed:      66280k 	60.44k reads/sec
+Bases Processed:       1519m 	1.39m bases/sec
+Processing sample SRR24391621_filtered
+java -ea -Xmx305978m -Xms305978m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391621_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391621_filtered_spike.fastq stats=spike_depleted/SRR24391621_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391621_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391621_filtered_spike.fastq, stats=spike_depleted/SRR24391621_filtered_stats.txt, k=15]
+Version 38.93
+
+0.011 seconds.
+Initial:
+Memory: max=320847m, total=320847m, free=320763m, used=84m
+
+Added 22 kmers; time: 	0.018 seconds.
+Memory: max=320847m, total=320847m, free=320629m, used=218m
+
+Input is being processed as unpaired
+Started output streams:	2.823 seconds.
+Processing time:   		977.375 seconds.
+
+Input:                  	68534376 reads 		1738716545 bases.
+Matched reads:          	521980 reads (0.76%) 	15342723 bases (0.88%)
+Unmatched reads:        	68012396 reads (99.24%) 	1723373822 bases (99.12%)
+
+Time:                         	980.263 seconds.
+Reads Processed:      68534k 	69.91k reads/sec
+Bases Processed:       1738m 	1.77m bases/sec
+Processing sample SRR24391622_filtered
+java -ea -Xmx302635m -Xms302635m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391622_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391622_filtered_spike.fastq stats=spike_depleted/SRR24391622_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391622_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391622_filtered_spike.fastq, stats=spike_depleted/SRR24391622_filtered_stats.txt, k=15]
+Version 38.93
+
+0.011 seconds.
+Initial:
+Memory: max=317357m, total=317357m, free=317273m, used=84m
+
+Added 22 kmers; time: 	0.019 seconds.
+Memory: max=317357m, total=317357m, free=317122m, used=235m
+
+Input is being processed as unpaired
+Started output streams:	0.064 seconds.
+Processing time:   		1334.180 seconds.
+
+Input:                  	68306615 reads 		1670645735 bases.
+Matched reads:          	389272 reads (0.57%) 	11674488 bases (0.70%)
+Unmatched reads:        	67917343 reads (99.43%) 	1658971247 bases (99.30%)
+
+Time:                         	1334.327 seconds.
+Reads Processed:      68306k 	51.19k reads/sec
+Bases Processed:       1670m 	1.25m bases/sec
+Processing sample SRR24391623_filtered
+java -ea -Xmx5045m -Xms5045m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391623_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391623_filtered_spike.fastq stats=spike_depleted/SRR24391623_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391623_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391623_filtered_spike.fastq, stats=spike_depleted/SRR24391623_filtered_stats.txt, k=15]
+Version 38.93
+
+0.012 seconds.
+Initial:
+Memory: max=5293m, total=5293m, free=5261m, used=32m
+
+Added 22 kmers; time: 	0.018 seconds.
+Memory: max=5293m, total=5293m, free=5242m, used=51m
+
+Input is being processed as unpaired
+Started output streams:	0.040 seconds.
+Processing time:   		709.392 seconds.
+
+Input:                  	74450997 reads 		1885946575 bases.
+Matched reads:          	506535 reads (0.68%) 	14819054 bases (0.79%)
+Unmatched reads:        	73944462 reads (99.32%) 	1871127521 bases (99.21%)
+
+Time:                         	709.493 seconds.
+Reads Processed:      74450k 	104.94k reads/sec
+Bases Processed:       1885m 	2.66m bases/sec
+Processing sample SRR24391624_filtered
+java -ea -Xmx32699m -Xms32699m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391624_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391624_filtered_spike.fastq stats=spike_depleted/SRR24391624_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391624_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391624_filtered_spike.fastq, stats=spike_depleted/SRR24391624_filtered_stats.txt, k=15]
+Version 38.93
+
+0.013 seconds.
+Initial:
+Memory: max=34292m, total=34292m, free=34236m, used=56m
+
+Added 22 kmers; time: 	0.022 seconds.
+Memory: max=34292m, total=34292m, free=34158m, used=134m
+
+Input is being processed as unpaired
+Started output streams:	0.071 seconds.
+Processing time:   		682.607 seconds.
+
+Input:                  	46771843 reads 		1042905840 bases.
+Matched reads:          	157350 reads (0.34%) 	4542800 bases (0.44%)
+Unmatched reads:        	46614493 reads (99.66%) 	1038363040 bases (99.56%)
+
+Time:                         	682.776 seconds.
+Reads Processed:      46771k 	68.50k reads/sec
+Bases Processed:       1042m 	1.53m bases/sec
+Processing sample SRR24391625_filtered
+java -ea -Xmx68044m -Xms68044m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391625_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391625_filtered_spike.fastq stats=spike_depleted/SRR24391625_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391625_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391625_filtered_spike.fastq, stats=spike_depleted/SRR24391625_filtered_stats.txt, k=15]
+Version 38.93
+
+0.013 seconds.
+Initial:
+Memory: max=71370m, total=71370m, free=71286m, used=84m
+
+Added 22 kmers; time: 	0.020 seconds.
+Memory: max=71370m, total=71370m, free=71152m, used=218m
+
+Input is being processed as unpaired
+Started output streams:	0.062 seconds.
+Processing time:   		712.010 seconds.
+
+Input:                  	48043212 reads 		1236417430 bases.
+Matched reads:          	277889 reads (0.58%) 	8066086 bases (0.65%)
+Unmatched reads:        	47765323 reads (99.42%) 	1228351344 bases (99.35%)
+
+Time:                         	712.136 seconds.
+Reads Processed:      48043k 	67.46k reads/sec
+Bases Processed:       1236m 	1.74m bases/sec
+Processing sample SRR24391626_filtered
+java -ea -Xmx85300m -Xms85300m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391626_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391626_filtered_spike.fastq stats=spike_depleted/SRR24391626_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391626_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391626_filtered_spike.fastq, stats=spike_depleted/SRR24391626_filtered_stats.txt, k=15]
+Version 38.93
+
+0.011 seconds.
+Initial:
+Memory: max=89456m, total=89456m, free=89389m, used=67m
+
+Added 22 kmers; time: 	0.024 seconds.
+Memory: max=89456m, total=89456m, free=89238m, used=218m
+
+Input is being processed as unpaired
+Started output streams:	0.042 seconds.
+Processing time:   		953.339 seconds.
+
+Input:                  	57577227 reads 		1558034809 bases.
+Matched reads:          	295976 reads (0.51%) 	8646800 bases (0.55%)
+Unmatched reads:        	57281251 reads (99.49%) 	1549388009 bases (99.45%)
+
+Time:                         	953.441 seconds.
+Reads Processed:      57577k 	60.39k reads/sec
+Bases Processed:       1558m 	1.63m bases/sec
+Processing sample SRR24391627_filtered
+java -ea -Xmx3429m -Xms3429m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391627_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391627_filtered_spike.fastq stats=spike_depleted/SRR24391627_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391627_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391627_filtered_spike.fastq, stats=spike_depleted/SRR24391627_filtered_stats.txt, k=15]
+Version 38.93
+
+0.011 seconds.
+Initial:
+Memory: max=3596m, total=3596m, free=3573m, used=23m
+
+Added 22 kmers; time: 	0.018 seconds.
+Memory: max=3596m, total=3596m, free=3564m, used=32m
+
+Input is being processed as unpaired
+Started output streams:	0.023 seconds.
+Processing time:   		532.193 seconds.
+
+Input:                  	43961933 reads 		1074370709 bases.
+Matched reads:          	109112 reads (0.25%) 	3150401 bases (0.29%)
+Unmatched reads:        	43852821 reads (99.75%) 	1071220308 bases (99.71%)
+
+Time:                         	532.325 seconds.
+Reads Processed:      43961k 	82.58k reads/sec
+Bases Processed:       1074m 	2.02m bases/sec
+Processing sample SRR24391628_filtered
+java -ea -Xmx32844m -Xms32844m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391628_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391628_filtered_spike.fastq stats=spike_depleted/SRR24391628_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391628_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391628_filtered_spike.fastq, stats=spike_depleted/SRR24391628_filtered_stats.txt, k=15]
+Version 38.93
+
+0.013 seconds.
+Initial:
+Memory: max=34460m, total=34460m, free=34376m, used=84m
+
+Added 22 kmers; time: 	0.019 seconds.
+Memory: max=34460m, total=34460m, free=34242m, used=218m
+
+Input is being processed as unpaired
+Started output streams:	0.052 seconds.
+Processing time:   		448.434 seconds.
+
+Input:                  	37515782 reads 		894429071 bases.
+Matched reads:          	197626 reads (0.53%) 	5331817 bases (0.60%)
+Unmatched reads:        	37318156 reads (99.47%) 	889097254 bases (99.40%)
+
+Time:                         	448.549 seconds.
+Reads Processed:      37515k 	83.64k reads/sec
+Bases Processed:        894m 	1.99m bases/sec
+Processing sample SRR24391629_filtered
+java -ea -Xmx30701m -Xms30701m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391629_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391629_filtered_spike.fastq stats=spike_depleted/SRR24391629_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391629_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391629_filtered_spike.fastq, stats=spike_depleted/SRR24391629_filtered_stats.txt, k=15]
+Version 38.93
+
+0.010 seconds.
+Initial:
+Memory: max=32195m, total=32195m, free=32139m, used=56m
+
+Added 22 kmers; time: 	0.036 seconds.
+Memory: max=32195m, total=32195m, free=32078m, used=117m
+
+Input is being processed as unpaired
+Started output streams:	0.031 seconds.
+Processing time:   		253.358 seconds.
+
+Input:                  	34961931 reads 		817805722 bases.
+Matched reads:          	190246 reads (0.54%) 	5002037 bases (0.61%)
+Unmatched reads:        	34771685 reads (99.46%) 	812803685 bases (99.39%)
+
+Time:                         	253.517 seconds.
+Reads Processed:      34961k 	137.91k reads/sec
+Bases Processed:        817m 	3.23m bases/sec
+Processing sample SRR24391630_filtered
+java -ea -Xmx30063m -Xms30063m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391630_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391630_filtered_spike.fastq stats=spike_depleted/SRR24391630_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391630_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391630_filtered_spike.fastq, stats=spike_depleted/SRR24391630_filtered_stats.txt, k=15]
+Version 38.93
+
+0.011 seconds.
+Initial:
+Memory: max=31524m, total=31524m, free=31467m, used=57m
+
+Added 22 kmers; time: 	0.018 seconds.
+Memory: max=31524m, total=31524m, free=31406m, used=118m
+
+Input is being processed as unpaired
+Started output streams:	0.028 seconds.
+Processing time:   		209.486 seconds.
+
+Input:                  	37633150 reads 		865862499 bases.
+Matched reads:          	153982 reads (0.41%) 	4028958 bases (0.47%)
+Unmatched reads:        	37479168 reads (99.59%) 	861833541 bases (99.53%)
+
+Time:                         	209.574 seconds.
+Reads Processed:      37633k 	179.57k reads/sec
+Bases Processed:        865m 	4.13m bases/sec
+Processing sample SRR24391631_filtered
+java -ea -Xmx31637m -Xms31637m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391631_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391631_filtered_spike.fastq stats=spike_depleted/SRR24391631_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391631_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391631_filtered_spike.fastq, stats=spike_depleted/SRR24391631_filtered_stats.txt, k=15]
+Version 38.93
+
+0.010 seconds.
+Initial:
+Memory: max=33185m, total=33185m, free=33128m, used=57m
+
+Added 22 kmers; time: 	0.017 seconds.
+Memory: max=33185m, total=33185m, free=33067m, used=118m
+
+Input is being processed as unpaired
+Started output streams:	0.022 seconds.
+Processing time:   		201.000 seconds.
+
+Input:                  	38349606 reads 		915875417 bases.
+Matched reads:          	162131 reads (0.42%) 	4413746 bases (0.48%)
+Unmatched reads:        	38187475 reads (99.58%) 	911461671 bases (99.52%)
+
+Time:                         	201.082 seconds.
+Reads Processed:      38349k 	190.72k reads/sec
+Bases Processed:        915m 	4.55m bases/sec
+Processing sample SRR24391632_filtered
+java -ea -Xmx31442m -Xms31442m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391632_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391632_filtered_spike.fastq stats=spike_depleted/SRR24391632_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391632_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391632_filtered_spike.fastq, stats=spike_depleted/SRR24391632_filtered_stats.txt, k=15]
+Version 38.93
+
+0.010 seconds.
+Initial:
+Memory: max=32984m, total=32984m, free=32927m, used=57m
+
+Added 22 kmers; time: 	0.017 seconds.
+Memory: max=32984m, total=32984m, free=32866m, used=118m
+
+Input is being processed as unpaired
+Started output streams:	0.024 seconds.
+Processing time:   		219.123 seconds.
+
+Input:                  	39555882 reads 		966828159 bases.
+Matched reads:          	213817 reads (0.54%) 	5768509 bases (0.60%)
+Unmatched reads:        	39342065 reads (99.46%) 	961059650 bases (99.40%)
+
+Time:                         	219.225 seconds.
+Reads Processed:      39555k 	180.44k reads/sec
+Bases Processed:        966m 	4.41m bases/sec
+Processing sample SRR24391633_filtered
+java -ea -Xmx30533m -Xms30533m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391633_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391633_filtered_spike.fastq stats=spike_depleted/SRR24391633_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391633_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391633_filtered_spike.fastq, stats=spike_depleted/SRR24391633_filtered_stats.txt, k=15]
+Version 38.93
+
+0.010 seconds.
+Initial:
+Memory: max=32027m, total=32027m, free=31971m, used=56m
+
+Added 22 kmers; time: 	0.017 seconds.
+Memory: max=32027m, total=32027m, free=31910m, used=117m
+
+Input is being processed as unpaired
+Started output streams:	0.025 seconds.
+Processing time:   		315.896 seconds.
+
+Input:                  	43283996 reads 		1053561265 bases.
+Matched reads:          	257038 reads (0.59%) 	6880806 bases (0.65%)
+Unmatched reads:        	43026958 reads (99.41%) 	1046680459 bases (99.35%)
+
+Time:                         	315.971 seconds.
+Reads Processed:      43283k 	136.99k reads/sec
+Bases Processed:       1053m 	3.33m bases/sec
+Processing sample SRR24391634_filtered
+java -ea -Xmx48775m -Xms48775m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391634_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391634_filtered_spike.fastq stats=spike_depleted/SRR24391634_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391634_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391634_filtered_spike.fastq, stats=spike_depleted/SRR24391634_filtered_stats.txt, k=15]
+Version 38.93
+
+0.013 seconds.
+Initial:
+Memory: max=51170m, total=51170m, free=51082m, used=88m
+
+Added 22 kmers; time: 	0.017 seconds.
+Memory: max=51170m, total=51170m, free=50935m, used=235m
+
+Input is being processed as unpaired
+Started output streams:	0.023 seconds.
+Processing time:   		496.551 seconds.
+
+Input:                  	23871251 reads 		585956580 bases.
+Matched reads:          	120743 reads (0.51%) 	3255921 bases (0.56%)
+Unmatched reads:        	23750508 reads (99.49%) 	582700659 bases (99.44%)
+
+Time:                         	496.637 seconds.
+Reads Processed:      23871k 	48.07k reads/sec
+Bases Processed:        585m 	1.18m bases/sec
+Processing sample SRR24391635_filtered
+java -ea -Xmx21697m -Xms21697m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391635_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391635_filtered_spike.fastq stats=spike_depleted/SRR24391635_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391635_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391635_filtered_spike.fastq, stats=spike_depleted/SRR24391635_filtered_stats.txt, k=15]
+Version 38.93
+
+0.016 seconds.
+Initial:
+Memory: max=22766m, total=22766m, free=22697m, used=69m
+
+Added 22 kmers; time: 	0.020 seconds.
+Memory: max=22766m, total=22766m, free=22632m, used=134m
+
+Input is being processed as unpaired
+Started output streams:	0.035 seconds.
+Processing time:   		651.206 seconds.
+
+Input:                  	25524983 reads 		640273906 bases.
+Matched reads:          	179343 reads (0.70%) 	4913858 bases (0.77%)
+Unmatched reads:        	25345640 reads (99.30%) 	635360048 bases (99.23%)
+
+Time:                         	651.297 seconds.
+Reads Processed:      25524k 	39.19k reads/sec
+Bases Processed:        640m 	0.98m bases/sec
+Processing sample SRR24391636_filtered
+java -ea -Xmx21886m -Xms21886m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391636_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391636_filtered_spike.fastq stats=spike_depleted/SRR24391636_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391636_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391636_filtered_spike.fastq, stats=spike_depleted/SRR24391636_filtered_stats.txt, k=15]
+Version 38.93
+
+0.016 seconds.
+Initial:
+Memory: max=22951m, total=22951m, free=22874m, used=77m
+
+Added 22 kmers; time: 	0.021 seconds.
+Memory: max=22951m, total=22951m, free=22817m, used=134m
+
+Input is being processed as unpaired
+Started output streams:	0.028 seconds.
+Processing time:   		1145.107 seconds.
+
+Input:                  	70447615 reads 		1800052886 bases.
+Matched reads:          	507092 reads (0.72%) 	14738734 bases (0.82%)
+Unmatched reads:        	69940523 reads (99.28%) 	1785314152 bases (99.18%)
+
+Time:                         	1145.228 seconds.
+Reads Processed:      70447k 	61.51k reads/sec
+Bases Processed:       1800m 	1.57m bases/sec
+Processing sample SRR24391637_filtered
+java -ea -Xmx371154m -Xms371154m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391637_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391637_filtered_spike.fastq stats=spike_depleted/SRR24391637_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391637_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391637_filtered_spike.fastq, stats=spike_depleted/SRR24391637_filtered_stats.txt, k=15]
+Version 38.93
+
+0.012 seconds.
+Initial:
+Memory: max=389197m, total=389197m, free=389112m, used=85m
+
+Added 22 kmers; time: 	0.026 seconds.
+Memory: max=389197m, total=389197m, free=388979m, used=218m
+
+Input is being processed as unpaired
+Started output streams:	0.040 seconds.
+Processing time:   		1085.453 seconds.
+
+Input:                  	62218761 reads 		1597292692 bases.
+Matched reads:          	354840 reads (0.57%) 	10279244 bases (0.64%)
+Unmatched reads:        	61863921 reads (99.43%) 	1587013448 bases (99.36%)
+
+Time:                         	1085.561 seconds.
+Reads Processed:      62218k 	57.31k reads/sec
+Bases Processed:       1597m 	1.47m bases/sec
+Processing sample SRR24391638_filtered
+java -ea -Xmx380866m -Xms380866m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391638_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391638_filtered_spike.fastq stats=spike_depleted/SRR24391638_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391638_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391638_filtered_spike.fastq, stats=spike_depleted/SRR24391638_filtered_stats.txt, k=15]
+Version 38.93
+
+0.012 seconds.
+Initial:
+Memory: max=399398m, total=399398m, free=399312m, used=86m
+
+Added 22 kmers; time: 	0.017 seconds.
+Memory: max=399398m, total=399398m, free=399163m, used=235m
+
+Input is being processed as unpaired
+Started output streams:	0.031 seconds.
+Processing time:   		910.595 seconds.
+
+Input:                  	70479391 reads 		1894493137 bases.
+Matched reads:          	354644 reads (0.50%) 	10364587 bases (0.55%)
+Unmatched reads:        	70124747 reads (99.50%) 	1884128550 bases (99.45%)
+
+Time:                         	910.692 seconds.
+Reads Processed:      70479k 	77.39k reads/sec
+Bases Processed:       1894m 	2.08m bases/sec
+Processing sample SRR24391639_filtered
+java -ea -Xmx24715m -Xms24715m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391639_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391639_filtered_spike.fastq stats=spike_depleted/SRR24391639_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391639_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391639_filtered_spike.fastq, stats=spike_depleted/SRR24391639_filtered_stats.txt, k=15]
+Version 38.93
+
+0.010 seconds.
+Initial:
+Memory: max=25920m, total=25920m, free=25864m, used=56m
+
+Added 22 kmers; time: 	0.018 seconds.
+Memory: max=25920m, total=25920m, free=25803m, used=117m
+
+Input is being processed as unpaired
+Started output streams:	0.047 seconds.
+Processing time:   		444.599 seconds.
+
+Input:                  	60858633 reads 		1521869311 bases.
+Matched reads:          	350116 reads (0.58%) 	10165139 bases (0.67%)
+Unmatched reads:        	60508517 reads (99.42%) 	1511704172 bases (99.33%)
+
+Time:                         	444.704 seconds.
+Reads Processed:      60858k 	136.85k reads/sec
+Bases Processed:       1521m 	3.42m bases/sec
+Processing sample SRR24391640_filtered
+java -ea -Xmx24941m -Xms24941m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391640_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391640_filtered_spike.fastq stats=spike_depleted/SRR24391640_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391640_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391640_filtered_spike.fastq, stats=spike_depleted/SRR24391640_filtered_stats.txt, k=15]
+Version 38.93
+
+0.010 seconds.
+Initial:
+Memory: max=26155m, total=26155m, free=26099m, used=56m
+
+Added 22 kmers; time: 	0.018 seconds.
+Memory: max=26155m, total=26155m, free=26038m, used=117m
+
+Input is being processed as unpaired
+Started output streams:	0.034 seconds.
+Processing time:   		398.292 seconds.
+
+Input:                  	59994720 reads 		1469537696 bases.
+Matched reads:          	356304 reads (0.59%) 	10375693 bases (0.71%)
+Unmatched reads:        	59638416 reads (99.41%) 	1459162003 bases (99.29%)
+
+Time:                         	398.390 seconds.
+Reads Processed:      59994k 	150.59k reads/sec
+Bases Processed:       1469m 	3.69m bases/sec
+Processing sample SRR24391641_filtered
+java -ea -Xmx22263m -Xms22263m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391641_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391641_filtered_spike.fastq stats=spike_depleted/SRR24391641_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391641_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391641_filtered_spike.fastq, stats=spike_depleted/SRR24391641_filtered_stats.txt, k=15]
+Version 38.93
+
+0.016 seconds.
+Initial:
+Memory: max=23353m, total=23353m, free=23276m, used=77m
+
+Added 22 kmers; time: 	0.020 seconds.
+Memory: max=23353m, total=23353m, free=23211m, used=142m
+
+Input is being processed as unpaired
+Started output streams:	0.024 seconds.
+Processing time:   		442.799 seconds.
+
+Input:                  	46126362 reads 		1156139896 bases.
+Matched reads:          	292748 reads (0.63%) 	8534321 bases (0.74%)
+Unmatched reads:        	45833614 reads (99.37%) 	1147605575 bases (99.26%)
+
+Time:                         	442.911 seconds.
+Reads Processed:      46126k 	104.14k reads/sec
+Bases Processed:       1156m 	2.61m bases/sec
+Processing sample SRR24391642_filtered
+java -ea -Xmx46994m -Xms46994m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391642_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391642_filtered_spike.fastq stats=spike_depleted/SRR24391642_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391642_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391642_filtered_spike.fastq, stats=spike_depleted/SRR24391642_filtered_stats.txt, k=15]
+Version 38.93
+
+0.013 seconds.
+Initial:
+Memory: max=49291m, total=49291m, free=49190m, used=101m
+
+Added 22 kmers; time: 	0.018 seconds.
+Memory: max=49291m, total=49291m, free=49056m, used=235m
+
+Input is being processed as unpaired
+Started output streams:	0.023 seconds.
+Processing time:   		743.803 seconds.
+
+Input:                  	58104976 reads 		1404948497 bases.
+Matched reads:          	284959 reads (0.49%) 	8285030 bases (0.59%)
+Unmatched reads:        	57820017 reads (99.51%) 	1396663467 bases (99.41%)
+
+Time:                         	743.892 seconds.
+Reads Processed:      58104k 	78.11k reads/sec
+Bases Processed:       1404m 	1.89m bases/sec
+Processing sample SRR24391643_filtered
+java -ea -Xmx75501m -Xms75501m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391643_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391643_filtered_spike.fastq stats=spike_depleted/SRR24391643_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391643_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391643_filtered_spike.fastq, stats=spike_depleted/SRR24391643_filtered_stats.txt, k=15]
+Version 38.93
+
+0.010 seconds.
+Initial:
+Memory: max=79188m, total=79188m, free=79121m, used=67m
+
+Added 22 kmers; time: 	0.018 seconds.
+Memory: max=79188m, total=79188m, free=78987m, used=201m
+
+Input is being processed as unpaired
+Started output streams:	0.026 seconds.
+Processing time:   		694.247 seconds.
+
+Input:                  	65761267 reads 		1584849940 bases.
+Matched reads:          	296275 reads (0.45%) 	8667008 bases (0.55%)
+Unmatched reads:        	65464992 reads (99.55%) 	1576182932 bases (99.45%)
+
+Time:                         	694.344 seconds.
+Reads Processed:      65761k 	94.71k reads/sec
+Bases Processed:       1584m 	2.28m bases/sec
+Processing sample SRR24391644_filtered
+java -ea -Xmx87435m -Xms87435m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391644_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391644_filtered_spike.fastq stats=spike_depleted/SRR24391644_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391644_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391644_filtered_spike.fastq, stats=spike_depleted/SRR24391644_filtered_stats.txt, k=15]
+Version 38.93
+
+0.010 seconds.
+Initial:
+Memory: max=91704m, total=91704m, free=91620m, used=84m
+
+Added 22 kmers; time: 	0.018 seconds.
+Memory: max=91704m, total=91704m, free=91469m, used=235m
+
+Input is being processed as unpaired
+Started output streams:	0.055 seconds.
+Processing time:   		478.497 seconds.
+
+Input:                  	41892911 reads 		1026067974 bases.
+Matched reads:          	296341 reads (0.71%) 	7914541 bases (0.77%)
+Unmatched reads:        	41596570 reads (99.29%) 	1018153433 bases (99.23%)
+
+Time:                         	478.609 seconds.
+Reads Processed:      41892k 	87.53k reads/sec
+Bases Processed:       1026m 	2.14m bases/sec
+Processing sample SRR24391645_filtered
+java -ea -Xmx60674m -Xms60674m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391645_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391645_filtered_spike.fastq stats=spike_depleted/SRR24391645_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391645_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391645_filtered_spike.fastq, stats=spike_depleted/SRR24391645_filtered_stats.txt, k=15]
+Version 38.93
+
+0.014 seconds.
+Initial:
+Memory: max=63652m, total=63652m, free=63552m, used=100m
+
+Added 22 kmers; time: 	0.018 seconds.
+Memory: max=63652m, total=63652m, free=63417m, used=235m
+
+Input is being processed as unpaired
+Started output streams:	0.028 seconds.
+Processing time:   		399.995 seconds.
+
+Input:                  	39065315 reads 		954529604 bases.
+Matched reads:          	275038 reads (0.70%) 	7398069 bases (0.78%)
+Unmatched reads:        	38790277 reads (99.30%) 	947131535 bases (99.22%)
+
+Time:                         	400.087 seconds.
+Reads Processed:      39065k 	97.64k reads/sec
+Bases Processed:        954m 	2.39m bases/sec
+Processing sample SRR24391646_filtered
+java -ea -Xmx84386m -Xms84386m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391646_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391646_filtered_spike.fastq stats=spike_depleted/SRR24391646_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391646_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391646_filtered_spike.fastq, stats=spike_depleted/SRR24391646_filtered_stats.txt, k=15]
+Version 38.93
+
+0.010 seconds.
+Initial:
+Memory: max=88516m, total=88516m, free=88432m, used=84m
+
+Added 22 kmers; time: 	0.018 seconds.
+Memory: max=88516m, total=88516m, free=88298m, used=218m
+
+Input is being processed as unpaired
+Started output streams:	0.042 seconds.
+Processing time:   		266.537 seconds.
+
+Input:                  	48451849 reads 		1278307077 bases.
+Matched reads:          	252825 reads (0.52%) 	6886937 bases (0.54%)
+Unmatched reads:        	48199024 reads (99.48%) 	1271420140 bases (99.46%)
+
+Time:                         	266.654 seconds.
+Reads Processed:      48451k 	181.70k reads/sec
+Bases Processed:       1278m 	4.79m bases/sec
+Processing sample SRR24391647_filtered
+java -ea -Xmx84640m -Xms84640m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391647_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391647_filtered_spike.fastq stats=spike_depleted/SRR24391647_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391647_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391647_filtered_spike.fastq, stats=spike_depleted/SRR24391647_filtered_stats.txt, k=15]
+Version 38.93
+
+0.010 seconds.
+Initial:
+Memory: max=88751m, total=88751m, free=88667m, used=84m
+
+Added 22 kmers; time: 	0.018 seconds.
+Memory: max=88751m, total=88751m, free=88533m, used=218m
+
+Input is being processed as unpaired
+Started output streams:	0.028 seconds.
+Processing time:   		177.225 seconds.
+
+Input:                  	36801102 reads 		899414671 bases.
+Matched reads:          	214375 reads (0.58%) 	5760908 bases (0.64%)
+Unmatched reads:        	36586727 reads (99.42%) 	893653763 bases (99.36%)
+
+Time:                         	177.298 seconds.
+Reads Processed:      36801k 	207.57k reads/sec
+Bases Processed:        899m 	5.07m bases/sec
+Processing sample SRR24391648_filtered
+java -ea -Xmx104494m -Xms104494m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391648_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391648_filtered_spike.fastq stats=spike_depleted/SRR24391648_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391648_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391648_filtered_spike.fastq, stats=spike_depleted/SRR24391648_filtered_stats.txt, k=15]
+Version 38.93
+
+0.011 seconds.
+Initial:
+Memory: max=109588m, total=109588m, free=109504m, used=84m
+
+Added 22 kmers; time: 	0.018 seconds.
+Memory: max=109588m, total=109588m, free=109353m, used=235m
+
+Input is being processed as unpaired
+Started output streams:	0.075 seconds.
+Processing time:   		253.311 seconds.
+
+Input:                  	42360223 reads 		1022470288 bases.
+Matched reads:          	235966 reads (0.56%) 	6373468 bases (0.62%)
+Unmatched reads:        	42124257 reads (99.44%) 	1016096820 bases (99.38%)
+
+Time:                         	253.462 seconds.
+Reads Processed:      42360k 	167.13k reads/sec
+Bases Processed:       1022m 	4.03m bases/sec
+Processing sample SRR24391649_filtered
+java -ea -Xmx107738m -Xms107738m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391649_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391649_filtered_spike.fastq stats=spike_depleted/SRR24391649_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391649_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391649_filtered_spike.fastq, stats=spike_depleted/SRR24391649_filtered_stats.txt, k=15]
+Version 38.93
+
+0.011 seconds.
+Initial:
+Memory: max=112977m, total=112977m, free=112910m, used=67m
+
+Added 22 kmers; time: 	0.018 seconds.
+Memory: max=112977m, total=112977m, free=112776m, used=201m
+
+Input is being processed as unpaired
+Started output streams:	0.027 seconds.
+Processing time:   		936.351 seconds.
+
+Input:                  	134217904 reads 		3232304264 bases.
+Matched reads:          	807173 reads (0.60%) 	21675519 bases (0.67%)
+Unmatched reads:        	133410731 reads (99.40%) 	3210628745 bases (99.33%)
+
+Time:                         	936.444 seconds.
+Reads Processed:        134m 	143.33k reads/sec
+Bases Processed:       3232m 	3.45m bases/sec
+Processing sample SRR24391650_filtered
+java -ea -Xmx78639m -Xms78639m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391650_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391650_filtered_spike.fastq stats=spike_depleted/SRR24391650_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391650_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391650_filtered_spike.fastq, stats=spike_depleted/SRR24391650_filtered_stats.txt, k=15]
+Version 38.93
+
+0.011 seconds.
+Initial:
+Memory: max=82476m, total=82476m, free=82409m, used=67m
+
+Added 22 kmers; time: 	0.018 seconds.
+Memory: max=82476m, total=82476m, free=82241m, used=235m
+
+Input is being processed as unpaired
+Started output streams:	0.027 seconds.
+Processing time:   		439.011 seconds.
+
+Input:                  	69440405 reads 		1618333079 bases.
+Matched reads:          	338649 reads (0.49%) 	9030530 bases (0.56%)
+Unmatched reads:        	69101756 reads (99.51%) 	1609302549 bases (99.44%)
+
+Time:                         	439.113 seconds.
+Reads Processed:      69440k 	158.14k reads/sec
+Bases Processed:       1618m 	3.69m bases/sec
+Processing sample SRR24391651_filtered
+java -ea -Xmx24397m -Xms24397m -cp /grid/schorn/home/mpeacey/anaconda3/envs/sequence_tools/opt/bbmap-38.93-0/current/ jgi.Seal in=SRR24391651_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta outu=spike_depleted/SRR24391651_filtered_spike.fastq stats=spike_depleted/SRR24391651_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR24391651_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Shi_2023_GSE231450_Placenta/spike.fasta, outu=spike_depleted/SRR24391651_filtered_spike.fastq, stats=spike_depleted/SRR24391651_filtered_stats.txt, k=15]
+Version 38.93
+
+0.010 seconds.
+Initial:
+Memory: max=25585m, total=25585m, free=25528m, used=57m
+
+Added 22 kmers; time: 	0.018 seconds.
+Memory: max=25585m, total=25585m, free=25467m, used=118m
+
+Input is being processed as unpaired
+Started output streams:	0.029 seconds.
+Processing time:   		468.083 seconds.
+
+Input:                  	55715887 reads 		1292180739 bases.
+Matched reads:          	257662 reads (0.46%) 	6971610 bases (0.54%)
+Unmatched reads:        	55458225 reads (99.54%) 	1285209129 bases (99.46%)
+
+Time:                         	468.197 seconds.
+Reads Processed:      55715k 	119.00k reads/sec
+Bases Processed:       1292m 	2.76m bases/sec
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/small_RNA_seq/remove_spike_output.txt': No such file or directory
+New run started on Sun Mar 17 09:43:21 EDT 2024
+Processing sample SRR13264637_filtered
+java -ea -Xmx260286m -Xms260286m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR13264637_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta outu=spike_depleted/SRR13264637_filtered_spike.fastq stats=spike_depleted/SRR13264637_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR13264637_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta, outu=spike_depleted/SRR13264637_filtered_spike.fastq, stats=spike_depleted/SRR13264637_filtered_stats.txt, k=15]
+Version 38.18
+
+0.157 seconds.
+Initial:
+Memory: max=272931m, total=272931m, free=272846m, used=85m
+
+Added 22 kmers; time: 	0.410 seconds.
+Memory: max=272931m, total=272931m, free=272695m, used=236m
+
+Input is being processed as unpaired
+Started output streams:	0.134 seconds.
+Processing time:   		3.021 seconds.
+
+Input:                  	8024045 reads 		181981803 bases.
+Matched reads:          	230178 reads (2.87%) 	5333924 bases (2.93%)
+Unmatched reads:        	7793867 reads (97.13%) 	176647879 bases (97.07%)
+
+Time:                         	3.627 seconds.
+Reads Processed:       8024k 	2212.50k reads/sec
+Bases Processed:        181m 	50.18m bases/sec
+Processing sample SRR13264638_filtered
+java -ea -Xmx260203m -Xms260203m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR13264638_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta outu=spike_depleted/SRR13264638_filtered_spike.fastq stats=spike_depleted/SRR13264638_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR13264638_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta, outu=spike_depleted/SRR13264638_filtered_spike.fastq, stats=spike_depleted/SRR13264638_filtered_stats.txt, k=15]
+Version 38.18
+
+0.009 seconds.
+Initial:
+Memory: max=272864m, total=272864m, free=272779m, used=85m
+
+Added 22 kmers; time: 	0.023 seconds.
+Memory: max=272864m, total=272864m, free=272645m, used=219m
+
+Input is being processed as unpaired
+Started output streams:	0.026 seconds.
+Processing time:   		3.345 seconds.
+
+Input:                  	8347255 reads 		194133342 bases.
+Matched reads:          	326193 reads (3.91%) 	7591583 bases (3.91%)
+Unmatched reads:        	8021062 reads (96.09%) 	186541759 bases (96.09%)
+
+Time:                         	3.403 seconds.
+Reads Processed:       8347k 	2452.58k reads/sec
+Bases Processed:        194m 	57.04m bases/sec
+Processing sample SRR13264639_filtered
+java -ea -Xmx260252m -Xms260252m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR13264639_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta outu=spike_depleted/SRR13264639_filtered_spike.fastq stats=spike_depleted/SRR13264639_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR13264639_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta, outu=spike_depleted/SRR13264639_filtered_spike.fastq, stats=spike_depleted/SRR13264639_filtered_stats.txt, k=15]
+Version 38.18
+
+0.010 seconds.
+Initial:
+Memory: max=272898m, total=272898m, free=272812m, used=86m
+
+Added 22 kmers; time: 	0.023 seconds.
+Memory: max=272898m, total=272898m, free=272678m, used=220m
+
+Input is being processed as unpaired
+Started output streams:	0.030 seconds.
+Processing time:   		2.784 seconds.
+
+Input:                  	7904742 reads 		176005929 bases.
+Matched reads:          	292372 reads (3.70%) 	6596146 bases (3.75%)
+Unmatched reads:        	7612370 reads (96.30%) 	169409783 bases (96.25%)
+
+Time:                         	2.846 seconds.
+Reads Processed:       7904k 	2777.43k reads/sec
+Bases Processed:        176m 	61.84m bases/sec
+Processing sample SRR13264640_filtered
+java -ea -Xmx260258m -Xms260258m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR13264640_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta outu=spike_depleted/SRR13264640_filtered_spike.fastq stats=spike_depleted/SRR13264640_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR13264640_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta, outu=spike_depleted/SRR13264640_filtered_spike.fastq, stats=spike_depleted/SRR13264640_filtered_stats.txt, k=15]
+Version 38.18
+
+0.010 seconds.
+Initial:
+Memory: max=272931m, total=272931m, free=272846m, used=85m
+
+Added 22 kmers; time: 	0.022 seconds.
+Memory: max=272931m, total=272931m, free=272712m, used=219m
+
+Input is being processed as unpaired
+Started output streams:	0.024 seconds.
+Processing time:   		3.244 seconds.
+
+Input:                  	8354469 reads 		194991036 bases.
+Matched reads:          	356511 reads (4.27%) 	8277698 bases (4.25%)
+Unmatched reads:        	7997958 reads (95.73%) 	186713338 bases (95.75%)
+
+Time:                         	3.301 seconds.
+Reads Processed:       8354k 	2531.26k reads/sec
+Bases Processed:        194m 	59.08m bases/sec
+Processing sample SRR13264641_filtered
+java -ea -Xmx260288m -Xms260288m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR13264641_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta outu=spike_depleted/SRR13264641_filtered_spike.fastq stats=spike_depleted/SRR13264641_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR13264641_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta, outu=spike_depleted/SRR13264641_filtered_spike.fastq, stats=spike_depleted/SRR13264641_filtered_stats.txt, k=15]
+Version 38.18
+
+0.010 seconds.
+Initial:
+Memory: max=272931m, total=272931m, free=272846m, used=85m
+
+Added 22 kmers; time: 	0.023 seconds.
+Memory: max=272931m, total=272931m, free=272712m, used=219m
+
+Input is being processed as unpaired
+Started output streams:	0.051 seconds.
+Processing time:   		3.040 seconds.
+
+Input:                  	7800859 reads 		176875306 bases.
+Matched reads:          	361288 reads (4.63%) 	8180938 bases (4.63%)
+Unmatched reads:        	7439571 reads (95.37%) 	168694368 bases (95.37%)
+
+Time:                         	3.123 seconds.
+Reads Processed:       7800k 	2497.72k reads/sec
+Bases Processed:        176m 	56.63m bases/sec
+Processing sample SRR13264642_filtered
+java -ea -Xmx260301m -Xms260301m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR13264642_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta outu=spike_depleted/SRR13264642_filtered_spike.fastq stats=spike_depleted/SRR13264642_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR13264642_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta, outu=spike_depleted/SRR13264642_filtered_spike.fastq, stats=spike_depleted/SRR13264642_filtered_stats.txt, k=15]
+Version 38.18
+
+0.010 seconds.
+Initial:
+Memory: max=272965m, total=272965m, free=272879m, used=86m
+
+Added 22 kmers; time: 	0.022 seconds.
+Memory: max=272965m, total=272965m, free=272745m, used=220m
+
+Input is being processed as unpaired
+Started output streams:	0.032 seconds.
+Processing time:   		3.357 seconds.
+
+Input:                  	8964425 reads 		208016294 bases.
+Matched reads:          	358740 reads (4.00%) 	7966226 bases (3.83%)
+Unmatched reads:        	8605685 reads (96.00%) 	200050068 bases (96.17%)
+
+Time:                         	3.421 seconds.
+Reads Processed:       8964k 	2620.68k reads/sec
+Bases Processed:        208m 	60.81m bases/sec
+Processing sample SRR13264643_filtered
+java -ea -Xmx260287m -Xms260287m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR13264643_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta outu=spike_depleted/SRR13264643_filtered_spike.fastq stats=spike_depleted/SRR13264643_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR13264643_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta, outu=spike_depleted/SRR13264643_filtered_spike.fastq, stats=spike_depleted/SRR13264643_filtered_stats.txt, k=15]
+Version 38.18
+
+0.010 seconds.
+Initial:
+Memory: max=272931m, total=272931m, free=272846m, used=85m
+
+Added 22 kmers; time: 	0.024 seconds.
+Memory: max=272931m, total=272931m, free=272712m, used=219m
+
+Input is being processed as unpaired
+Started output streams:	0.030 seconds.
+Processing time:   		1.948 seconds.
+
+Input:                  	4829126 reads 		108043223 bases.
+Matched reads:          	138476 reads (2.87%) 	4391083 bases (4.06%)
+Unmatched reads:        	4690650 reads (97.13%) 	103652140 bases (95.94%)
+
+Time:                         	2.011 seconds.
+Reads Processed:       4829k 	2401.38k reads/sec
+Bases Processed:        108m 	53.73m bases/sec
+Processing sample SRR13264644_filtered
+java -ea -Xmx260320m -Xms260320m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR13264644_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta outu=spike_depleted/SRR13264644_filtered_spike.fastq stats=spike_depleted/SRR13264644_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR13264644_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta, outu=spike_depleted/SRR13264644_filtered_spike.fastq, stats=spike_depleted/SRR13264644_filtered_stats.txt, k=15]
+Version 38.18
+
+0.010 seconds.
+Initial:
+Memory: max=272965m, total=272965m, free=272879m, used=86m
+
+Added 22 kmers; time: 	0.023 seconds.
+Memory: max=272965m, total=272965m, free=272745m, used=220m
+
+Input is being processed as unpaired
+Started output streams:	0.030 seconds.
+Processing time:   		3.364 seconds.
+
+Input:                  	8128794 reads 		187362194 bases.
+Matched reads:          	409241 reads (5.03%) 	12959617 bases (6.92%)
+Unmatched reads:        	7719553 reads (94.97%) 	174402577 bases (93.08%)
+
+Time:                         	3.426 seconds.
+Reads Processed:       8128k 	2372.81k reads/sec
+Bases Processed:        187m 	54.69m bases/sec
+Processing sample SRR13264645_filtered
+java -ea -Xmx260325m -Xms260325m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR13264645_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta outu=spike_depleted/SRR13264645_filtered_spike.fastq stats=spike_depleted/SRR13264645_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR13264645_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta, outu=spike_depleted/SRR13264645_filtered_spike.fastq, stats=spike_depleted/SRR13264645_filtered_stats.txt, k=15]
+Version 38.18
+
+0.010 seconds.
+Initial:
+Memory: max=272998m, total=272998m, free=272913m, used=85m
+
+Added 22 kmers; time: 	0.023 seconds.
+Memory: max=272998m, total=272998m, free=272779m, used=219m
+
+Input is being processed as unpaired
+Started output streams:	0.031 seconds.
+Processing time:   		3.319 seconds.
+
+Input:                  	9101328 reads 		195252400 bases.
+Matched reads:          	255132 reads (2.80%) 	8006111 bases (4.10%)
+Unmatched reads:        	8846196 reads (97.20%) 	187246289 bases (95.90%)
+
+Time:                         	3.383 seconds.
+Reads Processed:       9101k 	2690.25k reads/sec
+Bases Processed:        195m 	57.71m bases/sec
+Processing sample SRR13264646_filtered
+java -ea -Xmx260333m -Xms260333m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR13264646_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta outu=spike_depleted/SRR13264646_filtered_spike.fastq stats=spike_depleted/SRR13264646_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR13264646_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta, outu=spike_depleted/SRR13264646_filtered_spike.fastq, stats=spike_depleted/SRR13264646_filtered_stats.txt, k=15]
+Version 38.18
+
+0.010 seconds.
+Initial:
+Memory: max=272998m, total=272998m, free=272913m, used=85m
+
+Added 22 kmers; time: 	0.022 seconds.
+Memory: max=272998m, total=272998m, free=272779m, used=219m
+
+Input is being processed as unpaired
+Started output streams:	0.038 seconds.
+Processing time:   		3.869 seconds.
+
+Input:                  	10728219 reads 		236663525 bases.
+Matched reads:          	423153 reads (3.94%) 	13358287 bases (5.64%)
+Unmatched reads:        	10305066 reads (96.06%) 	223305238 bases (94.36%)
+
+Time:                         	3.941 seconds.
+Reads Processed:      10728k 	2721.89k reads/sec
+Bases Processed:        236m 	60.04m bases/sec
+Processing sample SRR13264647_filtered
+java -ea -Xmx260355m -Xms260355m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR13264647_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta outu=spike_depleted/SRR13264647_filtered_spike.fastq stats=spike_depleted/SRR13264647_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR13264647_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta, outu=spike_depleted/SRR13264647_filtered_spike.fastq, stats=spike_depleted/SRR13264647_filtered_stats.txt, k=15]
+Version 38.18
+
+0.010 seconds.
+Initial:
+Memory: max=273032m, total=273032m, free=272947m, used=85m
+
+Added 22 kmers; time: 	0.022 seconds.
+Memory: max=273032m, total=273032m, free=272812m, used=220m
+
+Input is being processed as unpaired
+Started output streams:	0.037 seconds.
+Processing time:   		3.539 seconds.
+
+Input:                  	9289623 reads 		197551622 bases.
+Matched reads:          	238292 reads (2.57%) 	7475626 bases (3.78%)
+Unmatched reads:        	9051331 reads (97.43%) 	190075996 bases (96.22%)
+
+Time:                         	3.610 seconds.
+Reads Processed:       9289k 	2573.37k reads/sec
+Bases Processed:        197m 	54.72m bases/sec
+Processing sample SRR13264648_filtered
+java -ea -Xmx260283m -Xms260283m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR13264648_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta outu=spike_depleted/SRR13264648_filtered_spike.fastq stats=spike_depleted/SRR13264648_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR13264648_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta, outu=spike_depleted/SRR13264648_filtered_spike.fastq, stats=spike_depleted/SRR13264648_filtered_stats.txt, k=15]
+Version 38.18
+
+0.009 seconds.
+Initial:
+Memory: max=272931m, total=272931m, free=272846m, used=85m
+
+Added 22 kmers; time: 	0.023 seconds.
+Memory: max=272931m, total=272931m, free=272712m, used=219m
+
+Input is being processed as unpaired
+Started output streams:	0.028 seconds.
+Processing time:   		3.534 seconds.
+
+Input:                  	8007314 reads 		166189435 bases.
+Matched reads:          	228385 reads (2.85%) 	7175858 bases (4.32%)
+Unmatched reads:        	7778929 reads (97.15%) 	159013577 bases (95.68%)
+
+Time:                         	3.593 seconds.
+Reads Processed:       8007k 	2228.48k reads/sec
+Bases Processed:        166m 	46.25m bases/sec
+Processing sample SRR13264649_filtered
+java -ea -Xmx260298m -Xms260298m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR13264649_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta outu=spike_depleted/SRR13264649_filtered_spike.fastq stats=spike_depleted/SRR13264649_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR13264649_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta, outu=spike_depleted/SRR13264649_filtered_spike.fastq, stats=spike_depleted/SRR13264649_filtered_stats.txt, k=15]
+Version 38.18
+
+0.010 seconds.
+Initial:
+Memory: max=272965m, total=272965m, free=272879m, used=86m
+
+Added 22 kmers; time: 	0.022 seconds.
+Memory: max=272965m, total=272965m, free=272745m, used=220m
+
+Input is being processed as unpaired
+Started output streams:	0.042 seconds.
+Processing time:   		4.643 seconds.
+
+Input:                  	13370717 reads 		285635522 bases.
+Matched reads:          	372040 reads (2.78%) 	11754452 bases (4.12%)
+Unmatched reads:        	12998677 reads (97.22%) 	273881070 bases (95.88%)
+
+Time:                         	4.720 seconds.
+Reads Processed:      13370k 	2833.01k reads/sec
+Bases Processed:        285m 	60.52m bases/sec
+Processing sample SRR13264650_filtered
+java -ea -Xmx260309m -Xms260309m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR13264650_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta outu=spike_depleted/SRR13264650_filtered_spike.fastq stats=spike_depleted/SRR13264650_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR13264650_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta, outu=spike_depleted/SRR13264650_filtered_spike.fastq, stats=spike_depleted/SRR13264650_filtered_stats.txt, k=15]
+Version 38.18
+
+0.009 seconds.
+Initial:
+Memory: max=272965m, total=272965m, free=272879m, used=86m
+
+Added 22 kmers; time: 	0.023 seconds.
+Memory: max=272965m, total=272965m, free=272745m, used=220m
+
+Input is being processed as unpaired
+Started output streams:	0.029 seconds.
+Processing time:   		4.974 seconds.
+
+Input:                  	14378484 reads 		309975009 bases.
+Matched reads:          	284240 reads (1.98%) 	8987987 bases (2.90%)
+Unmatched reads:        	14094244 reads (98.02%) 	300987022 bases (97.10%)
+
+Time:                         	5.037 seconds.
+Reads Processed:      14378k 	2854.47k reads/sec
+Bases Processed:        309m 	61.54m bases/sec
+Processing sample SRR13264651_filtered
+java -ea -Xmx260303m -Xms260303m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR13264651_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta outu=spike_depleted/SRR13264651_filtered_spike.fastq stats=spike_depleted/SRR13264651_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR13264651_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta, outu=spike_depleted/SRR13264651_filtered_spike.fastq, stats=spike_depleted/SRR13264651_filtered_stats.txt, k=15]
+Version 38.18
+
+0.010 seconds.
+Initial:
+Memory: max=272965m, total=272965m, free=272879m, used=86m
+
+Added 22 kmers; time: 	0.023 seconds.
+Memory: max=272965m, total=272965m, free=272745m, used=220m
+
+Input is being processed as unpaired
+Started output streams:	0.041 seconds.
+Processing time:   		5.321 seconds.
+
+Input:                  	16078536 reads 		348301624 bases.
+Matched reads:          	363193 reads (2.26%) 	11494505 bases (3.30%)
+Unmatched reads:        	15715343 reads (97.74%) 	336807119 bases (96.70%)
+
+Time:                         	5.394 seconds.
+Reads Processed:      16078k 	2980.82k reads/sec
+Bases Processed:        348m 	64.57m bases/sec
+Processing sample SRR13264652_filtered
+java -ea -Xmx260316m -Xms260316m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR13264652_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta outu=spike_depleted/SRR13264652_filtered_spike.fastq stats=spike_depleted/SRR13264652_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR13264652_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta, outu=spike_depleted/SRR13264652_filtered_spike.fastq, stats=spike_depleted/SRR13264652_filtered_stats.txt, k=15]
+Version 38.18
+
+0.010 seconds.
+Initial:
+Memory: max=272965m, total=272965m, free=272879m, used=86m
+
+Added 22 kmers; time: 	0.023 seconds.
+Memory: max=272965m, total=272965m, free=272745m, used=220m
+
+Input is being processed as unpaired
+Started output streams:	0.035 seconds.
+Processing time:   		3.680 seconds.
+
+Input:                  	10712607 reads 		230583963 bases.
+Matched reads:          	236804 reads (2.21%) 	7492483 bases (3.25%)
+Unmatched reads:        	10475803 reads (97.79%) 	223091480 bases (96.75%)
+
+Time:                         	3.746 seconds.
+Reads Processed:      10712k 	2859.44k reads/sec
+Bases Processed:        230m 	61.55m bases/sec
+Processing sample SRR13264653_filtered
+java -ea -Xmx260314m -Xms260314m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR13264653_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta outu=spike_depleted/SRR13264653_filtered_spike.fastq stats=spike_depleted/SRR13264653_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR13264653_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta, outu=spike_depleted/SRR13264653_filtered_spike.fastq, stats=spike_depleted/SRR13264653_filtered_stats.txt, k=15]
+Version 38.18
+
+0.009 seconds.
+Initial:
+Memory: max=272965m, total=272965m, free=272879m, used=86m
+
+Added 22 kmers; time: 	0.023 seconds.
+Memory: max=272965m, total=272965m, free=272745m, used=220m
+
+Input is being processed as unpaired
+Started output streams:	0.027 seconds.
+Processing time:   		3.268 seconds.
+
+Input:                  	9833869 reads 		207916203 bases.
+Matched reads:          	120511 reads (1.23%) 	3807492 bases (1.83%)
+Unmatched reads:        	9713358 reads (98.77%) 	204108711 bases (98.17%)
+
+Time:                         	3.328 seconds.
+Reads Processed:       9833k 	2955.29k reads/sec
+Bases Processed:        207m 	62.48m bases/sec
+Processing sample SRR13264707_filtered
+java -ea -Xmx260327m -Xms260327m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR13264707_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta outu=spike_depleted/SRR13264707_filtered_spike.fastq stats=spike_depleted/SRR13264707_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR13264707_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta, outu=spike_depleted/SRR13264707_filtered_spike.fastq, stats=spike_depleted/SRR13264707_filtered_stats.txt, k=15]
+Version 38.18
+
+0.010 seconds.
+Initial:
+Memory: max=272998m, total=272998m, free=272913m, used=85m
+
+Added 22 kmers; time: 	0.024 seconds.
+Memory: max=272998m, total=272998m, free=272762m, used=236m
+
+Input is being processed as unpaired
+Started output streams:	0.029 seconds.
+Processing time:   		6.063 seconds.
+
+Input:                  	14581148 reads 		356893044 bases.
+Matched reads:          	121345 reads (0.83%) 	3281508 bases (0.92%)
+Unmatched reads:        	14459803 reads (99.17%) 	353611536 bases (99.08%)
+
+Time:                         	6.125 seconds.
+Reads Processed:      14581k 	2380.77k reads/sec
+Bases Processed:        356m 	58.27m bases/sec
+Processing sample SRR13264708_filtered
+java -ea -Xmx260341m -Xms260341m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR13264708_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta outu=spike_depleted/SRR13264708_filtered_spike.fastq stats=spike_depleted/SRR13264708_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR13264708_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta, outu=spike_depleted/SRR13264708_filtered_spike.fastq, stats=spike_depleted/SRR13264708_filtered_stats.txt, k=15]
+Version 38.18
+
+0.009 seconds.
+Initial:
+Memory: max=272998m, total=272998m, free=272913m, used=85m
+
+Added 22 kmers; time: 	0.023 seconds.
+Memory: max=272998m, total=272998m, free=272779m, used=219m
+
+Input is being processed as unpaired
+Started output streams:	0.034 seconds.
+Processing time:   		5.749 seconds.
+
+Input:                  	14619185 reads 		348562386 bases.
+Matched reads:          	123044 reads (0.84%) 	3310715 bases (0.95%)
+Unmatched reads:        	14496141 reads (99.16%) 	345251671 bases (99.05%)
+
+Time:                         	5.816 seconds.
+Reads Processed:      14619k 	2513.76k reads/sec
+Bases Processed:        348m 	59.94m bases/sec
+Processing sample SRR13264709_filtered
+java -ea -Xmx260341m -Xms260341m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR13264709_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta outu=spike_depleted/SRR13264709_filtered_spike.fastq stats=spike_depleted/SRR13264709_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR13264709_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta, outu=spike_depleted/SRR13264709_filtered_spike.fastq, stats=spike_depleted/SRR13264709_filtered_stats.txt, k=15]
+Version 38.18
+
+0.010 seconds.
+Initial:
+Memory: max=272998m, total=272998m, free=272913m, used=85m
+
+Added 22 kmers; time: 	0.024 seconds.
+Memory: max=272998m, total=272998m, free=272762m, used=236m
+
+Input is being processed as unpaired
+Started output streams:	0.023 seconds.
+Processing time:   		7.050 seconds.
+
+Input:                  	17265549 reads 		404474825 bases.
+Matched reads:          	122507 reads (0.71%) 	3258896 bases (0.81%)
+Unmatched reads:        	17143042 reads (99.29%) 	401215929 bases (99.19%)
+
+Time:                         	7.106 seconds.
+Reads Processed:      17265k 	2429.69k reads/sec
+Bases Processed:        404m 	56.92m bases/sec
+Processing sample SRR13264710_filtered
+java -ea -Xmx260280m -Xms260280m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR13264710_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta outu=spike_depleted/SRR13264710_filtered_spike.fastq stats=spike_depleted/SRR13264710_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR13264710_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta, outu=spike_depleted/SRR13264710_filtered_spike.fastq, stats=spike_depleted/SRR13264710_filtered_stats.txt, k=15]
+Version 38.18
+
+0.009 seconds.
+Initial:
+Memory: max=272931m, total=272931m, free=272846m, used=85m
+
+Added 22 kmers; time: 	0.023 seconds.
+Memory: max=272931m, total=272931m, free=272712m, used=219m
+
+Input is being processed as unpaired
+Started output streams:	0.027 seconds.
+Processing time:   		6.688 seconds.
+
+Input:                  	14947808 reads 		359030344 bases.
+Matched reads:          	109720 reads (0.73%) 	2983471 bases (0.83%)
+Unmatched reads:        	14838088 reads (99.27%) 	356046873 bases (99.17%)
+
+Time:                         	6.748 seconds.
+Reads Processed:      14947k 	2215.29k reads/sec
+Bases Processed:        359m 	53.21m bases/sec
+Processing sample SRR13264711_filtered
+java -ea -Xmx260376m -Xms260376m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR13264711_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta outu=spike_depleted/SRR13264711_filtered_spike.fastq stats=spike_depleted/SRR13264711_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR13264711_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta, outu=spike_depleted/SRR13264711_filtered_spike.fastq, stats=spike_depleted/SRR13264711_filtered_stats.txt, k=15]
+Version 38.18
+
+0.010 seconds.
+Initial:
+Memory: max=273032m, total=273032m, free=272947m, used=85m
+
+Added 22 kmers; time: 	0.023 seconds.
+Memory: max=273032m, total=273032m, free=272812m, used=220m
+
+Input is being processed as unpaired
+Started output streams:	0.033 seconds.
+Processing time:   		5.726 seconds.
+
+Input:                  	13906037 reads 		316491281 bases.
+Matched reads:          	101781 reads (0.73%) 	2725114 bases (0.86%)
+Unmatched reads:        	13804256 reads (99.27%) 	313766167 bases (99.14%)
+
+Time:                         	5.791 seconds.
+Reads Processed:      13906k 	2401.25k reads/sec
+Bases Processed:        316m 	54.65m bases/sec
+Processing sample SRR13264712_filtered
+java -ea -Xmx260380m -Xms260380m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR13264712_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta outu=spike_depleted/SRR13264712_filtered_spike.fastq stats=spike_depleted/SRR13264712_filtered_stats.txt k=15
+Executing jgi.Seal [in=SRR13264712_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Homo_sapiens/Shi_2020_GSE160304/spike.fasta, outu=spike_depleted/SRR13264712_filtered_spike.fastq, stats=spike_depleted/SRR13264712_filtered_stats.txt, k=15]
+Version 38.18
+
+0.010 seconds.
+Initial:
+Memory: max=273032m, total=273032m, free=272947m, used=85m
+
+Added 22 kmers; time: 	0.024 seconds.
+Memory: max=273032m, total=273032m, free=272812m, used=220m
+
+Input is being processed as unpaired
+Started output streams:	0.024 seconds.
+Processing time:   		5.680 seconds.
+
+Input:                  	13642752 reads 		317366526 bases.
+Matched reads:          	75470 reads (0.55%) 	2021423 bases (0.64%)
+Unmatched reads:        	13567282 reads (99.45%) 	315345103 bases (99.36%)
+
+Time:                         	5.764 seconds.
+Reads Processed:      13642k 	2366.79k reads/sec
+Bases Processed:        317m 	55.06m bases/sec
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/small_RNA_seq/remove_spike_output.txt': No such file or directory
+New run started on Mon Oct 28 13:14:34 EDT 2024
+Processing sample SRR14267861
+java -ea -Xmx318721m -Xms318721m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR14267861_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Gutbrod_2022_GSE172282/fastq/spike.fasta outu=spike_depleted/SRR14267861_spike.fastq stats=spike_depleted/SRR14267861_stats.txt k=15
+Executing jgi.Seal [in=SRR14267861_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Gutbrod_2022_GSE172282/fastq/spike.fasta, outu=spike_depleted/SRR14267861_spike.fastq, stats=spike_depleted/SRR14267861_stats.txt, k=15]
+Version 38.18
+
+0.133 seconds.
+Initial:
+Memory: max=334235m, total=334235m, free=334150m, used=85m
+
+Added 8 kmers; time: 	0.271 seconds.
+Memory: max=334235m, total=334235m, free=334016m, used=219m
+
+Input is being processed as unpaired
+Started output streams:	0.133 seconds.
+Processing time:   		2.106 seconds.
+
+Input:                  	4655138 reads 		108900315 bases.
+Matched reads:          	58027 reads (1.25%) 	1276230 bases (1.17%)
+Unmatched reads:        	4597111 reads (98.75%) 	107624085 bases (98.83%)
+
+Time:                         	2.571 seconds.
+Reads Processed:       4655k 	1810.60k reads/sec
+Bases Processed:        108m 	42.36m bases/sec
+Processing sample SRR14267862
+java -ea -Xmx318636m -Xms318636m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR14267862_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Gutbrod_2022_GSE172282/fastq/spike.fasta outu=spike_depleted/SRR14267862_spike.fastq stats=spike_depleted/SRR14267862_stats.txt k=15
+Executing jgi.Seal [in=SRR14267862_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Gutbrod_2022_GSE172282/fastq/spike.fasta, outu=spike_depleted/SRR14267862_spike.fastq, stats=spike_depleted/SRR14267862_stats.txt, k=15]
+Version 38.18
+
+0.012 seconds.
+Initial:
+Memory: max=334135m, total=334135m, free=334049m, used=86m
+
+Added 8 kmers; time: 	0.027 seconds.
+Memory: max=334135m, total=334135m, free=333915m, used=220m
+
+Input is being processed as unpaired
+Started output streams:	0.041 seconds.
+Processing time:   		4.217 seconds.
+
+Input:                  	10763215 reads 		251641502 bases.
+Matched reads:          	140785 reads (1.31%) 	3096818 bases (1.23%)
+Unmatched reads:        	10622430 reads (98.69%) 	248544684 bases (98.77%)
+
+Time:                         	4.296 seconds.
+Reads Processed:      10763k 	2505.25k reads/sec
+Bases Processed:        251m 	58.57m bases/sec
+Processing sample SRR14267863
+java -ea -Xmx318771m -Xms318771m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR14267863_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Gutbrod_2022_GSE172282/fastq/spike.fasta outu=spike_depleted/SRR14267863_spike.fastq stats=spike_depleted/SRR14267863_stats.txt k=15
+Executing jgi.Seal [in=SRR14267863_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Gutbrod_2022_GSE172282/fastq/spike.fasta, outu=spike_depleted/SRR14267863_spike.fastq, stats=spike_depleted/SRR14267863_stats.txt, k=15]
+Version 38.18
+
+0.012 seconds.
+Initial:
+Memory: max=334269m, total=334269m, free=334183m, used=86m
+
+Added 8 kmers; time: 	0.027 seconds.
+Memory: max=334269m, total=334269m, free=334049m, used=220m
+
+Input is being processed as unpaired
+Started output streams:	0.039 seconds.
+Processing time:   		2.821 seconds.
+
+Input:                  	7089419 reads 		164493576 bases.
+Matched reads:          	82503 reads (1.16%) 	1814965 bases (1.10%)
+Unmatched reads:        	7006916 reads (98.84%) 	162678611 bases (98.90%)
+
+Time:                         	2.933 seconds.
+Reads Processed:       7089k 	2416.92k reads/sec
+Bases Processed:        164m 	56.08m bases/sec
+Processing sample SRR14267864
+java -ea -Xmx318643m -Xms318643m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR14267864_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Gutbrod_2022_GSE172282/fastq/spike.fasta outu=spike_depleted/SRR14267864_spike.fastq stats=spike_depleted/SRR14267864_stats.txt k=15
+Executing jgi.Seal [in=SRR14267864_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Gutbrod_2022_GSE172282/fastq/spike.fasta, outu=spike_depleted/SRR14267864_spike.fastq, stats=spike_depleted/SRR14267864_stats.txt, k=15]
+Version 38.18
+
+0.012 seconds.
+Initial:
+Memory: max=334135m, total=334135m, free=334049m, used=86m
+
+Added 8 kmers; time: 	0.027 seconds.
+Memory: max=334135m, total=334135m, free=333915m, used=220m
+
+Input is being processed as unpaired
+Started output streams:	0.041 seconds.
+Processing time:   		1.933 seconds.
+
+Input:                  	4522676 reads 		103929351 bases.
+Matched reads:          	73899 reads (1.63%) 	1625098 bases (1.56%)
+Unmatched reads:        	4448777 reads (98.37%) 	102304253 bases (98.44%)
+
+Time:                         	2.015 seconds.
+Reads Processed:       4522k 	2244.80k reads/sec
+Bases Processed:        103m 	51.58m bases/sec
+Processing sample SRR14267865
+java -ea -Xmx318635m -Xms318635m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR14267865_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Gutbrod_2022_GSE172282/fastq/spike.fasta outu=spike_depleted/SRR14267865_spike.fastq stats=spike_depleted/SRR14267865_stats.txt k=15
+Executing jgi.Seal [in=SRR14267865_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Gutbrod_2022_GSE172282/fastq/spike.fasta, outu=spike_depleted/SRR14267865_spike.fastq, stats=spike_depleted/SRR14267865_stats.txt, k=15]
+Version 38.18
+
+0.012 seconds.
+Initial:
+Memory: max=334135m, total=334135m, free=334049m, used=86m
+
+Added 8 kmers; time: 	0.027 seconds.
+Memory: max=334135m, total=334135m, free=333915m, used=220m
+
+Input is being processed as unpaired
+Started output streams:	0.028 seconds.
+Processing time:   		1.699 seconds.
+
+Input:                  	3610091 reads 		87850344 bases.
+Matched reads:          	137165 reads (3.80%) 	3016117 bases (3.43%)
+Unmatched reads:        	3472926 reads (96.20%) 	84834227 bases (96.57%)
+
+Time:                         	1.765 seconds.
+Reads Processed:       3610k 	2045.67k reads/sec
+Bases Processed:      87850k 	49.78m bases/sec
+Processing sample SRR14267866
+java -ea -Xmx318632m -Xms318632m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR14267866_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Gutbrod_2022_GSE172282/fastq/spike.fasta outu=spike_depleted/SRR14267866_spike.fastq stats=spike_depleted/SRR14267866_stats.txt k=15
+Executing jgi.Seal [in=SRR14267866_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Gutbrod_2022_GSE172282/fastq/spike.fasta, outu=spike_depleted/SRR14267866_spike.fastq, stats=spike_depleted/SRR14267866_stats.txt, k=15]
+Version 38.18
+
+0.012 seconds.
+Initial:
+Memory: max=334135m, total=334135m, free=334049m, used=86m
+
+Added 8 kmers; time: 	0.027 seconds.
+Memory: max=334135m, total=334135m, free=333915m, used=220m
+
+Input is being processed as unpaired
+Started output streams:	0.077 seconds.
+Processing time:   		1.278 seconds.
+
+Input:                  	2435995 reads 		60417668 bases.
+Matched reads:          	70859 reads (2.91%) 	1558332 bases (2.58%)
+Unmatched reads:        	2365136 reads (97.09%) 	58859336 bases (97.42%)
+
+Time:                         	1.431 seconds.
+Reads Processed:       2435k 	1702.48k reads/sec
+Bases Processed:      60417k 	42.23m bases/sec
+Processing sample SRR14267867
+java -ea -Xmx318670m -Xms318670m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR14267867_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Gutbrod_2022_GSE172282/fastq/spike.fasta outu=spike_depleted/SRR14267867_spike.fastq stats=spike_depleted/SRR14267867_stats.txt k=15
+Executing jgi.Seal [in=SRR14267867_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Gutbrod_2022_GSE172282/fastq/spike.fasta, outu=spike_depleted/SRR14267867_spike.fastq, stats=spike_depleted/SRR14267867_stats.txt, k=15]
+Version 38.18
+
+0.011 seconds.
+Initial:
+Memory: max=334168m, total=334168m, free=334083m, used=85m
+
+Added 8 kmers; time: 	0.026 seconds.
+Memory: max=334168m, total=334168m, free=333948m, used=220m
+
+Input is being processed as unpaired
+Started output streams:	0.034 seconds.
+Processing time:   		1.368 seconds.
+
+Input:                  	2820220 reads 		67410625 bases.
+Matched reads:          	76192 reads (2.70%) 	1675444 bases (2.49%)
+Unmatched reads:        	2744028 reads (97.30%) 	65735181 bases (97.51%)
+
+Time:                         	1.439 seconds.
+Reads Processed:       2820k 	1960.14k reads/sec
+Bases Processed:      67410k 	46.85m bases/sec
+Processing sample SRR14267868
+java -ea -Xmx318802m -Xms318802m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR14267868_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Gutbrod_2022_GSE172282/fastq/spike.fasta outu=spike_depleted/SRR14267868_spike.fastq stats=spike_depleted/SRR14267868_stats.txt k=15
+Executing jgi.Seal [in=SRR14267868_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Gutbrod_2022_GSE172282/fastq/spike.fasta, outu=spike_depleted/SRR14267868_spike.fastq, stats=spike_depleted/SRR14267868_stats.txt, k=15]
+Version 38.18
+
+0.011 seconds.
+Initial:
+Memory: max=334302m, total=334302m, free=334217m, used=85m
+
+Added 8 kmers; time: 	0.027 seconds.
+Memory: max=334302m, total=334302m, free=334083m, used=219m
+
+Input is being processed as unpaired
+Started output streams:	0.045 seconds.
+Processing time:   		1.186 seconds.
+
+Input:                  	2406853 reads 		55361656 bases.
+Matched reads:          	67209 reads (2.79%) 	1477352 bases (2.67%)
+Unmatched reads:        	2339644 reads (97.21%) 	53884304 bases (97.33%)
+
+Time:                         	1.268 seconds.
+Reads Processed:       2406k 	1898.59k reads/sec
+Bases Processed:      55361k 	43.67m bases/sec
+Processing sample SRR14267869
+java -ea -Xmx318805m -Xms318805m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR14267869_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Gutbrod_2022_GSE172282/fastq/spike.fasta outu=spike_depleted/SRR14267869_spike.fastq stats=spike_depleted/SRR14267869_stats.txt k=15
+Executing jgi.Seal [in=SRR14267869_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Gutbrod_2022_GSE172282/fastq/spike.fasta, outu=spike_depleted/SRR14267869_spike.fastq, stats=spike_depleted/SRR14267869_stats.txt, k=15]
+Version 38.18
+
+0.012 seconds.
+Initial:
+Memory: max=334302m, total=334302m, free=334217m, used=85m
+
+Added 8 kmers; time: 	0.026 seconds.
+Memory: max=334302m, total=334302m, free=334083m, used=219m
+
+Input is being processed as unpaired
+Started output streams:	0.068 seconds.
+Processing time:   		1.819 seconds.
+
+Input:                  	4431256 reads 		102675331 bases.
+Matched reads:          	161497 reads (3.64%) 	3551283 bases (3.46%)
+Unmatched reads:        	4269759 reads (96.36%) 	99124048 bases (96.54%)
+
+Time:                         	1.923 seconds.
+Reads Processed:       4431k 	2304.64k reads/sec
+Bases Processed:        102m 	53.40m bases/sec
+Processing sample SRR14267870
+java -ea -Xmx318785m -Xms318785m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR14267870_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Gutbrod_2022_GSE172282/fastq/spike.fasta outu=spike_depleted/SRR14267870_spike.fastq stats=spike_depleted/SRR14267870_stats.txt k=15
+Executing jgi.Seal [in=SRR14267870_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Gutbrod_2022_GSE172282/fastq/spike.fasta, outu=spike_depleted/SRR14267870_spike.fastq, stats=spike_depleted/SRR14267870_stats.txt, k=15]
+Version 38.18
+
+0.012 seconds.
+Initial:
+Memory: max=334302m, total=334302m, free=334217m, used=85m
+
+Added 8 kmers; time: 	0.027 seconds.
+Memory: max=334302m, total=334302m, free=334083m, used=219m
+
+Input is being processed as unpaired
+Started output streams:	0.036 seconds.
+Processing time:   		2.097 seconds.
+
+Input:                  	5087515 reads 		120743832 bases.
+Matched reads:          	127459 reads (2.51%) 	2803418 bases (2.32%)
+Unmatched reads:        	4960056 reads (97.49%) 	117940414 bases (97.68%)
+
+Time:                         	2.170 seconds.
+Reads Processed:       5087k 	2344.42k reads/sec
+Bases Processed:        120m 	55.64m bases/sec
+Processing sample SRR14267871
+java -ea -Xmx318728m -Xms318728m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR14267871_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Gutbrod_2022_GSE172282/fastq/spike.fasta outu=spike_depleted/SRR14267871_spike.fastq stats=spike_depleted/SRR14267871_stats.txt k=15
+Executing jgi.Seal [in=SRR14267871_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Gutbrod_2022_GSE172282/fastq/spike.fasta, outu=spike_depleted/SRR14267871_spike.fastq, stats=spike_depleted/SRR14267871_stats.txt, k=15]
+Version 38.18
+
+0.012 seconds.
+Initial:
+Memory: max=334235m, total=334235m, free=334150m, used=85m
+
+Added 8 kmers; time: 	0.027 seconds.
+Memory: max=334235m, total=334235m, free=334016m, used=219m
+
+Input is being processed as unpaired
+Started output streams:	0.043 seconds.
+Processing time:   		1.077 seconds.
+
+Input:                  	2336672 reads 		55341779 bases.
+Matched reads:          	65960 reads (2.82%) 	1450173 bases (2.62%)
+Unmatched reads:        	2270712 reads (97.18%) 	53891606 bases (97.38%)
+
+Time:                         	1.157 seconds.
+Reads Processed:       2336k 	2019.59k reads/sec
+Bases Processed:      55341k 	47.83m bases/sec
+Processing sample SRR14267872
+java -ea -Xmx318782m -Xms318782m -cp /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq/opt/bbmap-38.18/current/ jgi.Seal in=SRR14267872_filtered.fastq ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Gutbrod_2022_GSE172282/fastq/spike.fasta outu=spike_depleted/SRR14267872_spike.fastq stats=spike_depleted/SRR14267872_stats.txt k=15
+Executing jgi.Seal [in=SRR14267872_filtered.fastq, ref=/grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Gutbrod_2022_GSE172282/fastq/spike.fasta, outu=spike_depleted/SRR14267872_spike.fastq, stats=spike_depleted/SRR14267872_stats.txt, k=15]
+Version 38.18
+
+0.012 seconds.
+Initial:
+Memory: max=334269m, total=334269m, free=334183m, used=86m
+
+Added 8 kmers; time: 	0.027 seconds.
+Memory: max=334269m, total=334269m, free=334049m, used=220m
+
+Input is being processed as unpaired
+Started output streams:	0.048 seconds.
+Processing time:   		2.165 seconds.
+
+Input:                  	4762982 reads 		114363600 bases.
+Matched reads:          	114641 reads (2.41%) 	2522012 bases (2.21%)
+Unmatched reads:        	4648341 reads (97.59%) 	111841588 bases (97.79%)
+
+Time:                         	2.248 seconds.
+Reads Processed:       4762k 	2118.76k reads/sec
+Bases Processed:        114m 	50.87m bases/sec
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/small_RNA_seq/remove_spike_output.txt': No such file or directory

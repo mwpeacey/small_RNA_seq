@@ -1,0 +1,5 @@
+Your job 9030293 ("SRR072951_filter_alignments") has been submitted
+Your job 9030294 ("SRR072952_filter_alignments") has been submitted
+Your job 9030295 ("SRR072953_filter_alignments") has been submitted
+Your job 9030296 ("SRR072954_filter_alignments") has been submitted
+Your job 9030297 ("SRR072955_filter_alignments") has been submitted

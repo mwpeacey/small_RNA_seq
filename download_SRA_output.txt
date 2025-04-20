@@ -1,0 +1,2068 @@
+###########################
+New run started on Mon Oct 16 11:07:40 EDT 2023
+Downloading SRR code: SRR24391651
+Read 59942803 spots for SRR24391651
+Written 59942803 spots for SRR24391651
+Download complete.
+Downloading SRR code: SRR24391650
+Read 74548441 spots for SRR24391650
+Written 74548441 spots for SRR24391650
+Download complete.
+Downloading SRR code: SRR24391645
+Read 42915895 spots for SRR24391645
+Written 42915895 spots for SRR24391645
+Download complete.
+Downloading SRR code: SRR24391644
+Read 45828454 spots for SRR24391644
+Written 45828454 spots for SRR24391644
+Download complete.
+Downloading SRR code: SRR24391648
+Read 45942604 spots for SRR24391648
+Written 45942604 spots for SRR24391648
+Download complete.
+Downloading SRR code: SRR24391649
+Read 147589293 spots for SRR24391649
+Written 147589293 spots for SRR24391649
+Download complete.
+Downloading SRR code: SRR24391647
+Read 40740399 spots for SRR24391647
+Written 40740399 spots for SRR24391647
+Download complete.
+Downloading SRR code: SRR24391642
+Read 64623242 spots for SRR24391642
+Written 64623242 spots for SRR24391642
+Download complete.
+Downloading SRR code: SRR24391643
+Read 73774041 spots for SRR24391643
+Written 73774041 spots for SRR24391643
+Download complete.
+Downloading SRR code: SRR24391641
+Read 51708230 spots for SRR24391641
+Written 51708230 spots for SRR24391641
+Download complete.
+Downloading SRR code: SRR24391640
+Read 71016223 spots for SRR24391640
+Written 71016223 spots for SRR24391640
+Download complete.
+Downloading SRR code: SRR24391639
+Read 70404996 spots for SRR24391639
+Written 70404996 spots for SRR24391639
+Download complete.
+Downloading SRR code: SRR24391638
+Read 79597214 spots for SRR24391638
+Written 79597214 spots for SRR24391638
+Download complete.
+Downloading SRR code: SRR24391635
+Read 27108958 spots for SRR24391635
+Written 27108958 spots for SRR24391635
+Download complete.
+Downloading SRR code: SRR24391634
+Read 25347093 spots for SRR24391634
+Written 25347093 spots for SRR24391634
+Download complete.
+Downloading SRR code: SRR24391633
+Read 46796091 spots for SRR24391633
+Written 46796091 spots for SRR24391633
+Download complete.
+Downloading SRR code: SRR24391630
+Read 41946533 spots for SRR24391630
+Written 41946533 spots for SRR24391630
+Download complete.
+Downloading SRR code: SRR24391629
+Read 38735535 spots for SRR24391629
+Written 38735535 spots for SRR24391629
+Download complete.
+Downloading SRR code: SRR24391628
+Read 39750433 spots for SRR24391628
+Written 39750433 spots for SRR24391628
+Download complete.
+Downloading SRR code: SRR24391627
+Read 48391283 spots for SRR24391627
+Written 48391283 spots for SRR24391627
+Download complete.
+Downloading SRR code: SRR24391626
+Read 63227907 spots for SRR24391626
+Written 63227907 spots for SRR24391626
+Download complete.
+Downloading SRR code: SRR24391625
+Read 52638023 spots for SRR24391625
+Written 52638023 spots for SRR24391625
+Download complete.
+Downloading SRR code: SRR24391624
+Read 66133425 spots for SRR24391624
+Written 66133425 spots for SRR24391624
+Download complete.
+Downloading SRR code: SRR24391623
+Read 81521369 spots for SRR24391623
+Written 81521369 spots for SRR24391623
+Download complete.
+Downloading SRR code: SRR24391622
+Read 74421749 spots for SRR24391622
+Written 74421749 spots for SRR24391622
+Download complete.
+Downloading SRR code: SRR24391621
+Read 75425694 spots for SRR24391621
+Written 75425694 spots for SRR24391621
+Download complete.
+Downloading SRR code: SRR24391620
+Read 83239806 spots for SRR24391620
+Written 83239806 spots for SRR24391620
+Download complete.
+Downloading SRR code: SRR24391619
+Read 27017176 spots for SRR24391619
+Written 27017176 spots for SRR24391619
+Download complete.
+Downloading SRR code: SRR24391618
+Read 30552358 spots for SRR24391618
+Written 30552358 spots for SRR24391618
+Download complete.
+Downloading SRR code: SRR24391617
+Read 31228993 spots for SRR24391617
+Written 31228993 spots for SRR24391617
+Download complete.
+Downloading SRR code: SRR24391646
+Read 52895358 spots for SRR24391646
+Written 52895358 spots for SRR24391646
+Download complete.
+Downloading SRR code: SRR24391636
+Read 78152188 spots for SRR24391636
+Written 78152188 spots for SRR24391636
+Download complete.
+Downloading SRR code: SRR24391637
+Read 71723257 spots for SRR24391637
+Written 71723257 spots for SRR24391637
+Download complete.
+Downloading SRR code: SRR24391613
+Read 49882130 spots for SRR24391613
+Written 49882130 spots for SRR24391613
+Download complete.
+Downloading SRR code: SRR24391614
+Read 35882110 spots for SRR24391614
+Written 35882110 spots for SRR24391614
+Download complete.
+Downloading SRR code: SRR24391612
+Read 53218973 spots for SRR24391612
+Written 53218973 spots for SRR24391612
+Download complete.
+Downloading SRR code: SRR24391611
+Read 77367641 spots for SRR24391611
+Written 77367641 spots for SRR24391611
+Download complete.
+Downloading SRR code: SRR24391610
+Read 93629909 spots for SRR24391610
+Written 93629909 spots for SRR24391610
+Download complete.
+Downloading SRR code: SRR24391609
+Read 65005648 spots for SRR24391609
+Written 65005648 spots for SRR24391609
+Download complete.
+Downloading SRR code: SRR24391608
+Read 78169141 spots for SRR24391608
+Written 78169141 spots for SRR24391608
+Download complete.
+Downloading SRR code: SRR24391607
+Read 71125429 spots for SRR24391607
+Written 71125429 spots for SRR24391607
+Download complete.
+Downloading SRR code: SRR24391606
+Read 86364137 spots for SRR24391606
+Written 86364137 spots for SRR24391606
+Download complete.
+Downloading SRR code: SRR24391605
+Read 41628145 spots for SRR24391605
+Written 41628145 spots for SRR24391605
+Download complete.
+Downloading SRR code: SRR24391604
+Read 91893671 spots for SRR24391604
+Written 91893671 spots for SRR24391604
+Download complete.
+Downloading SRR code: SRR24391632
+Read 42878284 spots for SRR24391632
+Written 42878284 spots for SRR24391632
+Download complete.
+Downloading SRR code: SRR24391631
+Read 40566585 spots for SRR24391631
+Written 40566585 spots for SRR24391631
+Download complete.
+Downloading SRR code: SRR24391615
+Read 60521155 spots for SRR24391615
+Written 60521155 spots for SRR24391615
+Download complete.
+Downloading SRR code: SRR24391616
+Read 17982843 spots for SRR24391616
+Written 17982843 spots for SRR24391616
+Download complete.
+Finished on Tue Oct 17 06:48:52 EDT 2023.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+###########################
+New run started on Thu Feb  8 18:36:10 EST 2024
+Downloading SRR code: SRR11004103
+Read 21771799 spots for SRR11004103
+Written 21771799 spots for SRR11004103
+Download complete.
+Downloading SRR code: SRR11004130
+Read 12984846 spots for SRR11004130
+Written 12984846 spots for SRR11004130
+Download complete.
+Downloading SRR code: SRR11004131
+Read 17619085 spots for SRR11004131
+Written 17619085 spots for SRR11004131
+Download complete.
+Downloading SRR code: SRR11004120
+Read 19533245 spots for SRR11004120
+Written 19533245 spots for SRR11004120
+Download complete.
+Downloading SRR code: SRR11004105
+Read 18191005 spots for SRR11004105
+Written 18191005 spots for SRR11004105
+Download complete.
+Downloading SRR code: SRR11004104
+Read 18679418 spots for SRR11004104
+Written 18679418 spots for SRR11004104
+Download complete.
+Downloading SRR code: SRR11004119
+Read 12970999 spots for SRR11004119
+Written 12970999 spots for SRR11004119
+Download complete.
+Downloading SRR code: SRR11004118
+###########################
+New run started on Thu Feb  8 18:54:53 EST 2024
+Downloading SRR code: SRR13264639
+Read 15727852 spots for SRR11004118
+Written 15727852 spots for SRR11004118
+Download complete.
+Finished on Thu Feb  8 18:55:26 EST 2024.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+Read 10946261 spots for SRR13264639
+Written 10946261 spots for SRR13264639
+Download complete.
+Downloading SRR code: SRR13264637
+Read 10861616 spots for SRR13264637
+Written 10861616 spots for SRR13264637
+Download complete.
+Downloading SRR code: SRR13264640
+Read 10856893 spots for SRR13264640
+Written 10856893 spots for SRR13264640
+Download complete.
+Downloading SRR code: SRR13264638
+Read 11228420 spots for SRR13264638
+Written 11228420 spots for SRR13264638
+Download complete.
+Downloading SRR code: SRR13264642
+Read 12036717 spots for SRR13264642
+Written 12036717 spots for SRR13264642
+Download complete.
+Downloading SRR code: SRR13264641
+Read 10492359 spots for SRR13264641
+Written 10492359 spots for SRR13264641
+Download complete.
+Downloading SRR code: SRR13264644
+Read 11599163 spots for SRR13264644
+Written 11599163 spots for SRR13264644
+Download complete.
+Downloading SRR code: SRR13264643
+Read 7025983 spots for SRR13264643
+Written 7025983 spots for SRR13264643
+Download complete.
+Downloading SRR code: SRR13264645
+Read 12868876 spots for SRR13264645
+Written 12868876 spots for SRR13264645
+Download complete.
+Downloading SRR code: SRR13264646
+Read 15205205 spots for SRR13264646
+Written 15205205 spots for SRR13264646
+Download complete.
+Downloading SRR code: SRR13264647
+Read 13620773 spots for SRR13264647
+Written 13620773 spots for SRR13264647
+Download complete.
+Downloading SRR code: SRR13264648
+Read 11773225 spots for SRR13264648
+Written 11773225 spots for SRR13264648
+Download complete.
+Downloading SRR code: SRR13264708
+Read 21756047 spots for SRR13264708
+Written 21756047 spots for SRR13264708
+Download complete.
+Downloading SRR code: SRR13264710
+Read 24438522 spots for SRR13264710
+Written 24438522 spots for SRR13264710
+Download complete.
+Downloading SRR code: SRR13264711
+Read 23561386 spots for SRR13264711
+Written 23561386 spots for SRR13264711
+Download complete.
+Downloading SRR code: SRR13264709
+Read 26030316 spots for SRR13264709
+Written 26030316 spots for SRR13264709
+Download complete.
+Downloading SRR code: SRR13264707
+Read 21190963 spots for SRR13264707
+Written 21190963 spots for SRR13264707
+Download complete.
+Downloading SRR code: SRR13264712
+Read 26739965 spots for SRR13264712
+Written 26739965 spots for SRR13264712
+Download complete.
+Downloading SRR code: SRR13264649
+Read 18270859 spots for SRR13264649
+Written 18270859 spots for SRR13264649
+Download complete.
+Downloading SRR code: SRR13264653
+Read 13516388 spots for SRR13264653
+Written 13516388 spots for SRR13264653
+Download complete.
+Downloading SRR code: SRR13264650
+Read 20381967 spots for SRR13264650
+Written 20381967 spots for SRR13264650
+Download complete.
+Downloading SRR code: SRR13264652
+Read 14719864 spots for SRR13264652
+Written 14719864 spots for SRR13264652
+Download complete.
+Downloading SRR code: SRR13264651
+Read 22291103 spots for SRR13264651
+Written 22291103 spots for SRR13264651
+Download complete.
+Finished on Thu Feb  8 19:39:23 EST 2024.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+###########################
+New run started on Fri Mar 15 16:04:27 EDT 2024
+Downloading SRR code: SRR11004103
+Read 21771799 spots for SRR11004103
+Written 21771799 spots for SRR11004103
+Download complete.
+Downloading SRR code: SRR11004109
+Read 20694079 spots for SRR11004109
+Written 20694079 spots for SRR11004109
+Download complete.
+Downloading SRR code: SRR11004110
+Read 19965542 spots for SRR11004110
+Written 19965542 spots for SRR11004110
+Download complete.
+Downloading SRR code: SRR11004105
+Read 18191005 spots for SRR11004105
+Written 18191005 spots for SRR11004105
+Download complete.
+Downloading SRR code: SRR11004106
+Read 19264796 spots for SRR11004106
+Written 19264796 spots for SRR11004106
+Download complete.
+Downloading SRR code: SRR11004108
+Read 18022610 spots for SRR11004108
+Written 18022610 spots for SRR11004108
+Download complete.
+Downloading SRR code: SRR11004107
+Read 15744148 spots for SRR11004107
+Written 15744148 spots for SRR11004107
+Download complete.
+Downloading SRR code: SRR11004104
+Read 18679418 spots for SRR11004104
+Written 18679418 spots for SRR11004104
+Download complete.
+Downloading SRR code: SRR11004111
+Read 20654991 spots for SRR11004111
+Written 20654991 spots for SRR11004111
+Download complete.
+Downloading SRR code: SRR11004112
+Read 20793421 spots for SRR11004112
+Written 20793421 spots for SRR11004112
+Download complete.
+Downloading SRR code: SRR11004113
+Read 22238178 spots for SRR11004113
+Written 22238178 spots for SRR11004113
+Download complete.
+Downloading SRR code: SRR11004114
+Read 15483317 spots for SRR11004114
+Written 15483317 spots for SRR11004114
+Download complete.
+Downloading SRR code: SRR11004115
+Read 19346184 spots for SRR11004115
+Written 19346184 spots for SRR11004115
+Download complete.
+Downloading SRR code: SRR11004116
+Read 21524303 spots for SRR11004116
+Written 21524303 spots for SRR11004116
+Download complete.
+Downloading SRR code: SRR11004117
+Read 16926872 spots for SRR11004117
+Written 16926872 spots for SRR11004117
+Download complete.
+Downloading SRR code: SRR11004119
+Read 12970999 spots for SRR11004119
+Written 12970999 spots for SRR11004119
+Download complete.
+Downloading SRR code: SRR11004120
+Read 19533245 spots for SRR11004120
+Written 19533245 spots for SRR11004120
+Download complete.
+Downloading SRR code: SRR11004118
+Read 15727852 spots for SRR11004118
+Written 15727852 spots for SRR11004118
+Download complete.
+Downloading SRR code: SRR11004121
+Read 16599495 spots for SRR11004121
+Written 16599495 spots for SRR11004121
+Download complete.
+Downloading SRR code: SRR11004122
+Read 15474292 spots for SRR11004122
+Written 15474292 spots for SRR11004122
+Download complete.
+Downloading SRR code: SRR11004123
+Read 20608096 spots for SRR11004123
+Written 20608096 spots for SRR11004123
+Download complete.
+Downloading SRR code: SRR11004124
+Read 13771762 spots for SRR11004124
+Written 13771762 spots for SRR11004124
+Download complete.
+Downloading SRR code: SRR11004126
+Read 16878480 spots for SRR11004126
+Written 16878480 spots for SRR11004126
+Download complete.
+Downloading SRR code: SRR11004125
+Read 16114744 spots for SRR11004125
+Written 16114744 spots for SRR11004125
+Download complete.
+Downloading SRR code: SRR11004127
+Read 16411996 spots for SRR11004127
+Written 16411996 spots for SRR11004127
+Download complete.
+Downloading SRR code: SRR11004128
+Read 18709671 spots for SRR11004128
+Written 18709671 spots for SRR11004128
+Download complete.
+Downloading SRR code: SRR11004129
+Read 15920507 spots for SRR11004129
+Written 15920507 spots for SRR11004129
+Download complete.
+Downloading SRR code: SRR11004130
+Read 12984846 spots for SRR11004130
+Written 12984846 spots for SRR11004130
+Download complete.
+Downloading SRR code: SRR11004131
+Read 17619085 spots for SRR11004131
+Written 17619085 spots for SRR11004131
+Download complete.
+Downloading SRR code: SRR11004132
+Read 18075151 spots for SRR11004132
+Written 18075151 spots for SRR11004132
+Download complete.
+Downloading SRR code: SRR11004133
+Read 15178021 spots for SRR11004133
+Written 15178021 spots for SRR11004133
+Download complete.
+Finished on Fri Mar 15 17:04:48 EDT 2024.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+###########################
+New run started on Wed Apr 17 13:48:43 EDT 2024
+Downloading SRR code: SRR15712736
+Read 26887736 spots for SRR15712736
+Written 26887736 spots for SRR15712736
+Download complete.
+Downloading SRR code: SRR15712739
+Read 28582075 spots for SRR15712739
+Written 28582075 spots for SRR15712739
+Download complete.
+Downloading SRR code: SRR15712737
+Read 26251679 spots for SRR15712737
+Written 26251679 spots for SRR15712737
+Download complete.
+Downloading SRR code: SRR15712743
+Read 26699427 spots for SRR15712743
+Written 26699427 spots for SRR15712743
+Download complete.
+Downloading SRR code: SRR15712738
+Read 27148920 spots for SRR15712738
+Written 27148920 spots for SRR15712738
+Download complete.
+Downloading SRR code: SRR15712744
+Read 27330735 spots for SRR15712744
+Written 27330735 spots for SRR15712744
+Download complete.
+Downloading SRR code: SRR15712742
+Read 60079223 spots for SRR15712742
+Written 60079223 spots for SRR15712742
+Download complete.
+Downloading SRR code: SRR15712740
+Read 27696917 spots for SRR15712740
+Written 27696917 spots for SRR15712740
+Download complete.
+Downloading SRR code: SRR15712741
+Read 25165226 spots for SRR15712741
+Written 25165226 spots for SRR15712741
+Download complete.
+Downloading SRR code: SRR15712745
+Read 14265282 spots for SRR15712745
+Written 14265282 spots for SRR15712745
+Download complete.
+Downloading SRR code: SRR15712746
+Read 27365287 spots for SRR15712746
+Written 27365287 spots for SRR15712746
+Download complete.
+Downloading SRR code: SRR15712747
+Read 12072411 spots for SRR15712747
+Written 12072411 spots for SRR15712747
+Download complete.
+Finished on Wed Apr 17 15:18:00 EDT 2024.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+###########################
+New run started on Mon May 13 11:14:35 EDT 2024
+Downloading SRR code: SRR10342125
+###########################
+New run started on Mon May 13 11:18:56 EDT 2024
+Downloading SRR code: SRR10342131
+Read 2898577 spots for SRR10342131
+Written 2898577 spots for SRR10342131
+Download complete.
+Downloading SRR code: SRR10342136
+Read 900770 spots for SRR10342136
+Written 900770 spots for SRR10342136
+Download complete.
+Downloading SRR code: SRR10342135
+Read 1568187 spots for SRR10342135
+Written 1568187 spots for SRR10342135
+Download complete.
+Downloading SRR code: SRR10342132
+Read 1852361 spots for SRR10342132
+Written 1852361 spots for SRR10342132
+Download complete.
+Downloading SRR code: SRR10342134
+Read 1926728 spots for SRR10342134
+Written 1926728 spots for SRR10342134
+Download complete.
+Downloading SRR code: SRR10342133
+Read 3291186 spots for SRR10342133
+Written 3291186 spots for SRR10342133
+Download complete.
+Finished on Mon May 13 11:22:20 EDT 2024.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+Read 28673264 spots for SRR10342125
+Written 28673264 spots for SRR10342125
+Download complete.
+Downloading SRR code: SRR10342137
+Failed to call external services.
+Download complete.
+Downloading SRR code: SRR10342128
+Read 17156852 spots for SRR10342128
+Written 17156852 spots for SRR10342128
+Download complete.
+Downloading SRR code: SRR10342138
+Read 9107024 spots for SRR10342138
+Written 9107024 spots for SRR10342138
+Download complete.
+Downloading SRR code: SRR10342127
+Read 31034470 spots for SRR10342127
+Written 31034470 spots for SRR10342127
+Download complete.
+Downloading SRR code: SRR10342129
+Read 32896238 spots for SRR10342129
+Written 32896238 spots for SRR10342129
+Download complete.
+Downloading SRR code: SRR10342139
+Read 15115693 spots for SRR10342139
+Written 15115693 spots for SRR10342139
+Download complete.
+Downloading SRR code: SRR10342140
+Read 7845890 spots for SRR10342140
+Written 7845890 spots for SRR10342140
+Download complete.
+Downloading SRR code: SRR10342130
+Read 18917592 spots for SRR10342130
+Written 18917592 spots for SRR10342130
+Download complete.
+Downloading SRR code: SRR10342126
+Read 15444715 spots for SRR10342126
+Written 15444715 spots for SRR10342126
+Download complete.
+Finished on Mon May 13 12:13:05 EDT 2024.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+###########################
+New run started on Mon May 13 12:35:44 EDT 2024
+/cm/local/apps/uge/var/spool.p6444/bam09/job_scripts/7508027: line 22: cd: /grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Li_2020_GSE139344/mRNA/sra_explorer_metadata.tsv: Not a directory
+cut: /grid/schorn/home/mpeacey/public_RNAseq/Mus_musculus/Li_2020_GSE139344/mRNA: Is a directory
+Finished on Mon May 13 12:35:44 EDT 2024.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+###########################
+New run started on Mon May 13 12:37:01 EDT 2024
+Downloading SRR code: SRR10342067
+###########################
+New run started on Mon May 13 12:40:53 EDT 2024
+Downloading SRR code: SRR10342074
+Read 3900440 spots for SRR10342074
+Written 3900440 spots for SRR10342074
+Download complete.
+Downloading SRR code: SRR10342110
+Read 5716476 spots for SRR10342110
+Written 5716476 spots for SRR10342110
+Download complete.
+Downloading SRR code: SRR10342072
+Read 19764506 spots for SRR10342067
+Written 19764506 spots for SRR10342067
+Download complete.
+Downloading SRR code: SRR10342105
+Read 3712425 spots for SRR10342072
+Written 3712425 spots for SRR10342072
+Download complete.
+Downloading SRR code: SRR10342073
+Read 3599801 spots for SRR10342073
+Written 3599801 spots for SRR10342073
+Download complete.
+Downloading SRR code: SRR10342071
+Read 2845276 spots for SRR10342071
+Written 2845276 spots for SRR10342071
+Download complete.
+Downloading SRR code: SRR10342109
+Read 3739502 spots for SRR10342109
+Written 3739502 spots for SRR10342109
+Download complete.
+Downloading SRR code: SRR10342111
+Read 4312048 spots for SRR10342111
+Written 4312048 spots for SRR10342111
+Download complete.
+Downloading SRR code: SRR10342112
+Read 3582815 spots for SRR10342112
+Written 3582815 spots for SRR10342112
+Download complete.
+Downloading SRR code: SRR10342113
+Read 4701478 spots for SRR10342113
+Written 4701478 spots for SRR10342113
+Download complete.
+Downloading SRR code: SRR10342114
+Read 29267073 spots for SRR10342105
+Written 29267073 spots for SRR10342105
+Download complete.
+Downloading SRR code: SRR10342068
+Read 9998517 spots for SRR10342114
+Written 9998517 spots for SRR10342114
+Download complete.
+Downloading SRR code: SRR10342115
+Read 4003142 spots for SRR10342115
+Written 4003142 spots for SRR10342115
+Download complete.
+Downloading SRR code: SRR10342086
+Read 6331111 spots for SRR10342086
+Written 6331111 spots for SRR10342086
+Download complete.
+Downloading SRR code: SRR10342116
+Read 18913341 spots for SRR10342068
+Written 18913341 spots for SRR10342068
+Download complete.
+Downloading SRR code: SRR10342106
+Read 3289537 spots for SRR10342116
+Written 3289537 spots for SRR10342116
+Download complete.
+Downloading SRR code: SRR10342087
+Read 5491285 spots for SRR10342087
+Written 5491285 spots for SRR10342087
+Download complete.
+Downloading SRR code: SRR10342088
+Read 4678907 spots for SRR10342088
+Written 4678907 spots for SRR10342088
+Download complete.
+Downloading SRR code: SRR10342090
+Read 6811974 spots for SRR10342090
+Written 6811974 spots for SRR10342090
+Download complete.
+Downloading SRR code: SRR10342091
+Read 4164501 spots for SRR10342091
+Written 4164501 spots for SRR10342091
+Download complete.
+Downloading SRR code: SRR10342089
+Read 5601618 spots for SRR10342089
+Written 5601618 spots for SRR10342089
+Download complete.
+Finished on Mon May 13 13:10:31 EDT 2024.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+Read 30878308 spots for SRR10342106
+Written 30878308 spots for SRR10342106
+Download complete.
+Downloading SRR code: SRR10342107
+Read 22546166 spots for SRR10342107
+Written 22546166 spots for SRR10342107
+Download complete.
+Downloading SRR code: SRR10342069
+Read 16008138 spots for SRR10342069
+Written 16008138 spots for SRR10342069
+Download complete.
+Downloading SRR code: SRR10342104
+Read 27463201 spots for SRR10342104
+Written 27463201 spots for SRR10342104
+Download complete.
+Downloading SRR code: SRR10342103
+Read 27453008 spots for SRR10342103
+Written 27453008 spots for SRR10342103
+Download complete.
+Downloading SRR code: SRR10342108
+Read 36754752 spots for SRR10342108
+Written 36754752 spots for SRR10342108
+Download complete.
+Downloading SRR code: SRR10342102
+Read 22328899 spots for SRR10342102
+Written 22328899 spots for SRR10342102
+Download complete.
+Downloading SRR code: SRR10342080
+Read 33606464 spots for SRR10342080
+Written 33606464 spots for SRR10342080
+Download complete.
+Downloading SRR code: SRR10342081
+Read 24529553 spots for SRR10342081
+Written 24529553 spots for SRR10342081
+Download complete.
+Downloading SRR code: SRR10342082
+Read 22181355 spots for SRR10342082
+Written 22181355 spots for SRR10342082
+Download complete.
+Downloading SRR code: SRR10342083
+Read 33910971 spots for SRR10342083
+Written 33910971 spots for SRR10342083
+Download complete.
+Downloading SRR code: SRR10342085
+Read 23371194 spots for SRR10342085
+Written 23371194 spots for SRR10342085
+Download complete.
+Downloading SRR code: SRR10342098
+Read 25089928 spots for SRR10342098
+Written 25089928 spots for SRR10342098
+Download complete.
+Downloading SRR code: SRR10342084
+Read 23112727 spots for SRR10342084
+Written 23112727 spots for SRR10342084
+Download complete.
+Downloading SRR code: SRR10342099
+Read 26923022 spots for SRR10342099
+Written 26923022 spots for SRR10342099
+Download complete.
+Downloading SRR code: SRR10342070
+Read 24631450 spots for SRR10342070
+Written 24631450 spots for SRR10342070
+Download complete.
+Finished on Mon May 13 15:05:36 EDT 2024.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+###########################
+New run started on Tue May 14 13:18:29 EDT 2024
+Downloading SRR code: SRR10342067
+Read 19764506 spots for SRR10342067
+Written 19764506 spots for SRR10342067
+Download complete.
+Downloading SRR code: SRR10342105
+Read 29267073 spots for SRR10342105
+Written 29267073 spots for SRR10342105
+Download complete.
+Downloading SRR code: SRR10342068
+Read 18913341 spots for SRR10342068
+Written 18913341 spots for SRR10342068
+Download complete.
+Downloading SRR code: SRR10342106
+Read 30878308 spots for SRR10342106
+Written 30878308 spots for SRR10342106
+Download complete.
+Downloading SRR code: SRR10342107
+Read 22546166 spots for SRR10342107
+Written 22546166 spots for SRR10342107
+Download complete.
+Downloading SRR code: SRR10342103
+Read 27453008 spots for SRR10342103
+Written 27453008 spots for SRR10342103
+Download complete.
+Downloading SRR code: SRR10342104
+Read 27463201 spots for SRR10342104
+Written 27463201 spots for SRR10342104
+Download complete.
+Downloading SRR code: SRR10342070
+Read 24631450 spots for SRR10342070
+Written 24631450 spots for SRR10342070
+Download complete.
+Downloading SRR code: SRR10342108
+Read 36754752 spots for SRR10342108
+Written 36754752 spots for SRR10342108
+Download complete.
+Downloading SRR code: SRR10342080
+Read 33606464 spots for SRR10342080
+Written 33606464 spots for SRR10342080
+Download complete.
+Downloading SRR code: SRR10342102
+Read 22328899 spots for SRR10342102
+Written 22328899 spots for SRR10342102
+Download complete.
+Downloading SRR code: SRR10342082
+Read 22181355 spots for SRR10342082
+Written 22181355 spots for SRR10342082
+Download complete.
+Downloading SRR code: SRR10342081
+Read 24529553 spots for SRR10342081
+Written 24529553 spots for SRR10342081
+Download complete.
+Downloading SRR code: SRR10342083
+Read 33910971 spots for SRR10342083
+Written 33910971 spots for SRR10342083
+Download complete.
+Downloading SRR code: SRR10342084
+Read 23112727 spots for SRR10342084
+Written 23112727 spots for SRR10342084
+Download complete.
+Downloading SRR code: SRR10342098
+Read 25089928 spots for SRR10342098
+Written 25089928 spots for SRR10342098
+Download complete.
+Downloading SRR code: SRR10342100
+Read 13245026 spots for SRR10342100
+Written 13245026 spots for SRR10342100
+Download complete.
+Downloading SRR code: SRR10342085
+Read 23371194 spots for SRR10342085
+Written 23371194 spots for SRR10342085
+Download complete.
+Downloading SRR code: SRR10342099
+Read 26923022 spots for SRR10342099
+Written 26923022 spots for SRR10342099
+Download complete.
+Downloading SRR code: SRR10342117
+Read 9170987 spots for SRR10342117
+Written 9170987 spots for SRR10342117
+Download complete.
+Downloading SRR code: SRR10342101
+Read 33531018 spots for SRR10342101
+Written 33531018 spots for SRR10342101
+Download complete.
+Downloading SRR code: SRR10342118
+Read 8064457 spots for SRR10342118
+Written 8064457 spots for SRR10342118
+Download complete.
+Downloading SRR code: SRR10342120
+Read 10179055 spots for SRR10342120
+Written 10179055 spots for SRR10342120
+Download complete.
+Downloading SRR code: SRR10342119
+Read 10135122 spots for SRR10342119
+Written 10135122 spots for SRR10342119
+Download complete.
+Downloading SRR code: SRR10342093
+Read 9119507 spots for SRR10342093
+Written 9119507 spots for SRR10342093
+Download complete.
+Downloading SRR code: SRR10342092
+Read 10896620 spots for SRR10342092
+Written 10896620 spots for SRR10342092
+Download complete.
+Downloading SRR code: SRR10342123
+Read 12447009 spots for SRR10342123
+Written 12447009 spots for SRR10342123
+Download complete.
+Downloading SRR code: SRR10342121
+Read 9072539 spots for SRR10342121
+Written 9072539 spots for SRR10342121
+Download complete.
+Downloading SRR code: SRR10342122
+Read 13037126 spots for SRR10342122
+Written 13037126 spots for SRR10342122
+Download complete.
+Downloading SRR code: SRR10342097
+Read 9075917 spots for SRR10342097
+Written 9075917 spots for SRR10342097
+Download complete.
+Downloading SRR code: SRR10342094
+Read 9426728 spots for SRR10342094
+Written 9426728 spots for SRR10342094
+Download complete.
+Downloading SRR code: SRR10342096
+Read 10487152 spots for SRR10342096
+Written 10487152 spots for SRR10342096
+Download complete.
+Downloading SRR code: SRR10342095
+Read 7495005 spots for SRR10342095
+Written 7495005 spots for SRR10342095
+Download complete.
+Downloading SRR code: SRR10342069
+Read 16008138 spots for SRR10342069
+Written 16008138 spots for SRR10342069
+Download complete.
+Finished on Tue May 14 17:36:00 EDT 2024.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+###########################
+New run started on Thu Jun 13 19:49:46 EDT 2024
+Downloading SRR code: SRR11235161
+Read 9042545 spots for SRR11235161
+Written 9042545 spots for SRR11235161
+Download complete.
+Downloading SRR code: SRR11235166
+Read 7145056 spots for SRR11235166
+Written 7145056 spots for SRR11235166
+Download complete.
+Downloading SRR code: SRR11235165
+Read 5516719 spots for SRR11235165
+Written 5516719 spots for SRR11235165
+Download complete.
+Downloading SRR code: SRR11235163
+Read 7957747 spots for SRR11235163
+Written 7957747 spots for SRR11235163
+Download complete.
+Downloading SRR code: SRR11235164
+Read 8729511 spots for SRR11235164
+Written 8729511 spots for SRR11235164
+Download complete.
+Downloading SRR code: SRR11235162
+Read 6230011 spots for SRR11235162
+Written 6230011 spots for SRR11235162
+Download complete.
+Finished on Thu Jun 13 19:56:42 EDT 2024.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+###########################
+New run started on Tue Jun 18 21:23:34 EDT 2024
+Downloading SRR code: SRR13079627
+Read 8858330 spots for SRR13079627
+Written 8858330 spots for SRR13079627
+Download complete.
+Downloading SRR code: SRR13079633
+Read 9776694 spots for SRR13079633
+Written 9776694 spots for SRR13079633
+Download complete.
+Downloading SRR code: SRR13079634
+Read 10643703 spots for SRR13079634
+Written 10643703 spots for SRR13079634
+Download complete.
+Downloading SRR code: SRR13079628
+Read 9097462 spots for SRR13079628
+Written 9097462 spots for SRR13079628
+Download complete.
+Downloading SRR code: SRR13079629
+Read 8326308 spots for SRR13079629
+Written 8326308 spots for SRR13079629
+Download complete.
+Downloading SRR code: SRR13079630
+Read 9303781 spots for SRR13079630
+Written 9303781 spots for SRR13079630
+Download complete.
+Downloading SRR code: SRR13079632
+Read 8353720 spots for SRR13079632
+Written 8353720 spots for SRR13079632
+Download complete.
+Downloading SRR code: SRR13079631
+Read 9125886 spots for SRR13079631
+Written 9125886 spots for SRR13079631
+Download complete.
+Downloading SRR code: SRR13079635
+Read 9167014 spots for SRR13079635
+Written 9167014 spots for SRR13079635
+Download complete.
+Downloading SRR code: SRR13079637
+Read 11308419 spots for SRR13079637
+Written 11308419 spots for SRR13079637
+Download complete.
+Downloading SRR code: SRR13079636
+Read 10413512 spots for SRR13079636
+Written 10413512 spots for SRR13079636
+Download complete.
+Downloading SRR code: SRR13079638
+Read 11520641 spots for SRR13079638
+Written 11520641 spots for SRR13079638
+Download complete.
+Finished on Tue Jun 18 21:45:54 EDT 2024.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+###########################
+New run started on Thu Jul 18 11:24:10 EDT 2024
+Downloading SRR code: SRR20313268
+Read 34762128 spots for SRR20313268
+Written 34762128 spots for SRR20313268
+Download complete.
+Downloading SRR code: SRR20313266
+Read 32513074 spots for SRR20313266
+Written 32513074 spots for SRR20313266
+Download complete.
+Downloading SRR code: SRR20313267
+Read 34521407 spots for SRR20313267
+Written 34521407 spots for SRR20313267
+Download complete.
+Finished on Thu Jul 18 12:00:56 EDT 2024.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+###########################
+New run started on Thu Jul 18 14:53:27 EDT 2024
+Downloading SRR code: SRR29277576
+Read 63098593 spots for SRR29277576
+Written 63098593 spots for SRR29277576
+Download complete.
+Downloading SRR code: SRR29277570
+Read 62040901 spots for SRR29277570
+Written 62040901 spots for SRR29277570
+Download complete.
+Downloading SRR code: SRR29277569
+Read 55744525 spots for SRR29277569
+Written 55744525 spots for SRR29277569
+Download complete.
+Downloading SRR code: SRR29277575
+Read 60294903 spots for SRR29277575
+Written 60294903 spots for SRR29277575
+Download complete.
+Downloading SRR code: SRR29277574
+Read 60214334 spots for SRR29277574
+Written 60214334 spots for SRR29277574
+Download complete.
+Downloading SRR code: SRR29277571
+Read 60703590 spots for SRR29277571
+Written 60703590 spots for SRR29277571
+Download complete.
+Downloading SRR code: SRR29277572
+Read 59404627 spots for SRR29277572
+Written 59404627 spots for SRR29277572
+Download complete.
+Downloading SRR code: SRR29277573
+Read 66515401 spots for SRR29277573
+Written 66515401 spots for SRR29277573
+Download complete.
+Finished on Thu Jul 18 17:49:43 EDT 2024.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+###########################
+New run started on Fri Oct 18 12:05:41 EDT 2024
+Downloading SRR code: SRR21714698
+Read 6555146 spots for SRR21714698
+Written 6555146 spots for SRR21714698
+Download complete.
+Downloading SRR code: SRR21714692
+Read 5808921 spots for SRR21714692
+Written 5808921 spots for SRR21714692
+Download complete.
+Downloading SRR code: SRR21714691
+Read 5448955 spots for SRR21714691
+Written 5448955 spots for SRR21714691
+Download complete.
+Downloading SRR code: SRR21714696
+Read 6296675 spots for SRR21714696
+Written 6296675 spots for SRR21714696
+Download complete.
+Downloading SRR code: SRR21714694
+Read 5800697 spots for SRR21714694
+Written 5800697 spots for SRR21714694
+Download complete.
+Downloading SRR code: SRR21714693
+Read 6258971 spots for SRR21714693
+Written 6258971 spots for SRR21714693
+Download complete.
+Downloading SRR code: SRR21714689
+Read 5845334 spots for SRR21714689
+Written 5845334 spots for SRR21714689
+Download complete.
+Downloading SRR code: SRR21714695
+Read 6872661 spots for SRR21714695
+Written 6872661 spots for SRR21714695
+Download complete.
+Downloading SRR code: SRR21714687
+Read 5351001 spots for SRR21714687
+Written 5351001 spots for SRR21714687
+Download complete.
+Downloading SRR code: SRR21714697
+Read 5886655 spots for SRR21714697
+Written 5886655 spots for SRR21714697
+Download complete.
+Downloading SRR code: SRR21714690
+Read 5107885 spots for SRR21714690
+Written 5107885 spots for SRR21714690
+Download complete.
+Downloading SRR code: SRR21714688
+Read 6203919 spots for SRR21714688
+Written 6203919 spots for SRR21714688
+Download complete.
+Downloading SRR code: SRR21714686
+Read 5209387 spots for SRR21714686
+Written 5209387 spots for SRR21714686
+Download complete.
+Downloading SRR code: SRR21714685
+Read 4906191 spots for SRR21714685
+Written 4906191 spots for SRR21714685
+Download complete.
+Downloading SRR code: SRR21714684
+Read 5038708 spots for SRR21714684
+Written 5038708 spots for SRR21714684
+Download complete.
+Finished on Fri Oct 18 12:13:15 EDT 2024.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+###########################
+New run started on Fri Oct 18 12:20:49 EDT 2024
+Downloading SRR code: SRR21714696
+Read 6296675 spots for SRR21714696
+Written 6296675 spots for SRR21714696
+Download complete.
+Downloading SRR code: SRR21714695
+Read 6872661 spots for SRR21714695
+Written 6872661 spots for SRR21714695
+Download complete.
+Downloading SRR code: SRR21714693
+Read 6258971 spots for SRR21714693
+Written 6258971 spots for SRR21714693
+Download complete.
+Downloading SRR code: SRR21714691
+Read 5448955 spots for SRR21714691
+Written 5448955 spots for SRR21714691
+Download complete.
+Downloading SRR code: SRR21714689
+Read 5845334 spots for SRR21714689
+Written 5845334 spots for SRR21714689
+Download complete.
+Downloading SRR code: SRR21714690
+Read 5107885 spots for SRR21714690
+Written 5107885 spots for SRR21714690
+Download complete.
+Downloading SRR code: SRR21714697
+Read 5886655 spots for SRR21714697
+Written 5886655 spots for SRR21714697
+Download complete.
+Downloading SRR code: SRR21714692
+Read 5808921 spots for SRR21714692
+Written 5808921 spots for SRR21714692
+Download complete.
+Downloading SRR code: SRR21714694
+Read 5800697 spots for SRR21714694
+Written 5800697 spots for SRR21714694
+Download complete.
+Downloading SRR code: SRR21714698
+Read 6555146 spots for SRR21714698
+Written 6555146 spots for SRR21714698
+Download complete.
+Downloading SRR code: SRR21714688
+Read 6203919 spots for SRR21714688
+Written 6203919 spots for SRR21714688
+Download complete.
+Downloading SRR code: SRR21714685
+Read 4906191 spots for SRR21714685
+Written 4906191 spots for SRR21714685
+Download complete.
+Downloading SRR code: SRR21714686
+Read 5209387 spots for SRR21714686
+Written 5209387 spots for SRR21714686
+Download complete.
+Downloading SRR code: SRR21714684
+Read 5038708 spots for SRR21714684
+Written 5038708 spots for SRR21714684
+Download complete.
+Downloading SRR code: SRR21714687
+Read 5351001 spots for SRR21714687
+Written 5351001 spots for SRR21714687
+Download complete.
+Finished on Fri Oct 18 12:28:30 EDT 2024.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+###########################
+New run started on Fri Oct 18 13:51:35 EDT 2024
+Downloading SRR code: SRR21707836
+Read 6914681 spots for SRR21707836
+Written 6914681 spots for SRR21707836
+Download complete.
+Downloading SRR code: SRR21707834
+Read 9168225 spots for SRR21707834
+Written 9168225 spots for SRR21707834
+Download complete.
+Downloading SRR code: SRR21707835
+Read 8600077 spots for SRR21707835
+Written 8600077 spots for SRR21707835
+Download complete.
+Downloading SRR code: SRR21707833
+Read 6896607 spots for SRR21707833
+Written 6896607 spots for SRR21707833
+Download complete.
+Downloading SRR code: SRR21707831
+Read 10021391 spots for SRR21707831
+Written 10021391 spots for SRR21707831
+Download complete.
+Downloading SRR code: SRR21707832
+Read 9396510 spots for SRR21707832
+Written 9396510 spots for SRR21707832
+Download complete.
+Downloading SRR code: SRR21707830
+Read 13777380 spots for SRR21707830
+Written 13777380 spots for SRR21707830
+Download complete.
+Downloading SRR code: SRR21707829
+Read 16484753 spots for SRR21707829
+Written 16484753 spots for SRR21707829
+Download complete.
+Downloading SRR code: SRR21707828
+Read 18759232 spots for SRR21707828
+Written 18759232 spots for SRR21707828
+Download complete.
+Downloading SRR code: SRR21707827
+Read 12580728 spots for SRR21707827
+Written 12580728 spots for SRR21707827
+Download complete.
+Downloading SRR code: SRR21707826
+Read 12721659 spots for SRR21707826
+Written 12721659 spots for SRR21707826
+Download complete.
+Downloading SRR code: SRR21707825
+Read 11815790 spots for SRR21707825
+Written 11815790 spots for SRR21707825
+Download complete.
+Downloading SRR code: SRR21707815
+Read 10786652 spots for SRR21707815
+Written 10786652 spots for SRR21707815
+Download complete.
+Downloading SRR code: SRR21707814
+Failed to call external services.
+Download complete.
+Downloading SRR code: SRR21707813
+Read 9809208 spots for SRR21707813
+Written 9809208 spots for SRR21707813
+Download complete.
+Downloading SRR code: SRR21707812
+Read 7085794 spots for SRR21707812
+Written 7085794 spots for SRR21707812
+Download complete.
+Downloading SRR code: SRR21707811
+Read 10447463 spots for SRR21707811
+Written 10447463 spots for SRR21707811
+Download complete.
+Downloading SRR code: SRR21707810
+Read 8294953 spots for SRR21707810
+Written 8294953 spots for SRR21707810
+Download complete.
+Downloading SRR code: SRR21707809
+Read 19033624 spots for SRR21707809
+Written 19033624 spots for SRR21707809
+Download complete.
+Downloading SRR code: SRR21707807
+Read 12357398 spots for SRR21707807
+Written 12357398 spots for SRR21707807
+Download complete.
+Downloading SRR code: SRR21707808
+Read 14547735 spots for SRR21707808
+Written 14547735 spots for SRR21707808
+Download complete.
+Downloading SRR code: SRR21707806
+Read 11845383 spots for SRR21707806
+Written 11845383 spots for SRR21707806
+Download complete.
+Downloading SRR code: SRR21707805
+Read 9792510 spots for SRR21707805
+Written 9792510 spots for SRR21707805
+Download complete.
+Downloading SRR code: SRR21707804
+Read 9743562 spots for SRR21707804
+Written 9743562 spots for SRR21707804
+Download complete.
+Downloading SRR code: SRR21707803
+Read 12434173 spots for SRR21707803
+Written 12434173 spots for SRR21707803
+Download complete.
+Downloading SRR code: SRR21707802
+Read 10640375 spots for SRR21707802
+Written 10640375 spots for SRR21707802
+Download complete.
+Downloading SRR code: SRR21707801
+Read 12109986 spots for SRR21707801
+Written 12109986 spots for SRR21707801
+Download complete.
+Downloading SRR code: SRR21707800
+Read 9067759 spots for SRR21707800
+Written 9067759 spots for SRR21707800
+Download complete.
+Downloading SRR code: SRR21707798
+Read 7586006 spots for SRR21707798
+Written 7586006 spots for SRR21707798
+Download complete.
+Downloading SRR code: SRR21707799
+Read 10749768 spots for SRR21707799
+Written 10749768 spots for SRR21707799
+Download complete.
+Downloading SRR code: SRR21707797
+Read 7449614 spots for SRR21707797
+Written 7449614 spots for SRR21707797
+Download complete.
+Downloading SRR code: SRR21707796
+Read 7359414 spots for SRR21707796
+Written 7359414 spots for SRR21707796
+Download complete.
+Downloading SRR code: SRR21707795
+Read 9287241 spots for SRR21707795
+Written 9287241 spots for SRR21707795
+Download complete.
+Downloading SRR code: SRR21707794
+Read 8753893 spots for SRR21707794
+Written 8753893 spots for SRR21707794
+Download complete.
+Downloading SRR code: SRR21707792
+Read 12394328 spots for SRR21707792
+Written 12394328 spots for SRR21707792
+Download complete.
+Downloading SRR code: SRR21707793
+Read 12845551 spots for SRR21707793
+Written 12845551 spots for SRR21707793
+Download complete.
+Finished on Fri Oct 18 14:32:11 EDT 2024.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+###########################
+New run started on Sat Oct 19 06:18:37 EDT 2024
+Downloading SRR code: SRR048973
+Read 4155911 spots for SRR048973
+Written 4155911 spots for SRR048973
+Download complete.
+Downloading SRR code: SRR048979
+Read 5910153 spots for SRR048979
+Written 5910153 spots for SRR048979
+Download complete.
+Downloading SRR code: SRR048977
+Read 4856438 spots for SRR048977
+Written 4856438 spots for SRR048977
+Download complete.
+Downloading SRR code: SRR048974
+Read 4588647 spots for SRR048974
+Written 4588647 spots for SRR048974
+Download complete.
+Downloading SRR code: SRR048975
+Read 4122692 spots for SRR048975
+Written 4122692 spots for SRR048975
+Download complete.
+Downloading SRR code: SRR048976
+Read 6434465 spots for SRR048976
+Written 6434465 spots for SRR048976
+Download complete.
+Downloading SRR code: SRR048978
+Read 3779615 spots for SRR048978
+Written 3779615 spots for SRR048978
+Download complete.
+Finished on Sat Oct 19 06:21:17 EDT 2024.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+###########################
+New run started on Sat Oct 26 07:03:04 EDT 2024
+Downloading SRR code: SRR3370942
+Read 16418443 spots for SRR3370942
+Written 16418443 spots for SRR3370942
+Download complete.
+Downloading SRR code: SRR3370948
+Read 33644299 spots for SRR3370948
+Written 33644299 spots for SRR3370948
+Download complete.
+Downloading SRR code: SRR3370949
+Read 21210923 spots for SRR3370949
+Written 21210923 spots for SRR3370949
+Download complete.
+Downloading SRR code: SRR3370944
+Read 22090096 spots for SRR3370944
+Written 22090096 spots for SRR3370944
+Download complete.
+Downloading SRR code: SRR3370943
+Read 28564030 spots for SRR3370943
+Written 28564030 spots for SRR3370943
+Download complete.
+Downloading SRR code: SRR3370947
+Read 34159893 spots for SRR3370947
+Written 34159893 spots for SRR3370947
+Download complete.
+Downloading SRR code: SRR3370945
+Read 33978713 spots for SRR3370945
+Written 33978713 spots for SRR3370945
+Download complete.
+Downloading SRR code: SRR3370946
+Read 23501986 spots for SRR3370946
+Written 23501986 spots for SRR3370946
+Download complete.
+Downloading SRR code: SRR3370951
+Read 31246203 spots for SRR3370951
+Written 31246203 spots for SRR3370951
+Download complete.
+Downloading SRR code: SRR3370950
+Read 27787322 spots for SRR3370950
+Written 27787322 spots for SRR3370950
+Download complete.
+Downloading SRR code: SRR3370953
+Read 25349967 spots for SRR3370953
+Written 25349967 spots for SRR3370953
+Download complete.
+Downloading SRR code: SRR3370952
+Read 30082199 spots for SRR3370952
+Written 30082199 spots for SRR3370952
+Download complete.
+Finished on Sat Oct 26 07:31:35 EDT 2024.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+###########################
+New run started on Sat Oct 26 10:10:59 EDT 2024
+Downloading SRR code: SRR22959938
+Read 28436198 spots for SRR22959938
+Written 28436198 spots for SRR22959938
+Download complete.
+Downloading SRR code: SRR22959937
+Read 23418670 spots for SRR22959937
+Written 23418670 spots for SRR22959937
+Download complete.
+Downloading SRR code: SRR22959933
+Read 18936075 spots for SRR22959933
+Written 18936075 spots for SRR22959933
+Download complete.
+Downloading SRR code: SRR22959934
+Read 24072792 spots for SRR22959934
+Written 24072792 spots for SRR22959934
+Download complete.
+Downloading SRR code: SRR22959936
+Read 19577056 spots for SRR22959936
+Written 19577056 spots for SRR22959936
+Download complete.
+Downloading SRR code: SRR22959935
+Read 21076238 spots for SRR22959935
+Written 21076238 spots for SRR22959935
+Download complete.
+Finished on Sat Oct 26 10:24:04 EDT 2024.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+###########################
+New run started on Mon Oct 28 12:00:10 EDT 2024
+Downloading SRR code: SRR14267861
+Read 18003269 spots for SRR14267861
+Written 18003269 spots for SRR14267861
+Download complete.
+Downloading SRR code: SRR14267867
+Read 19681465 spots for SRR14267867
+Written 19681465 spots for SRR14267867
+Download complete.
+Downloading SRR code: SRR14267868
+Read 20030642 spots for SRR14267868
+Written 20030642 spots for SRR14267868
+Download complete.
+Downloading SRR code: SRR14267862
+Read 28899258 spots for SRR14267862
+Written 28899258 spots for SRR14267862
+Download complete.
+Downloading SRR code: SRR14267863
+Read 23150393 spots for SRR14267863
+Written 23150393 spots for SRR14267863
+Download complete.
+Downloading SRR code: SRR14267864
+Read 19281910 spots for SRR14267864
+Written 19281910 spots for SRR14267864
+Download complete.
+Downloading SRR code: SRR14267865
+Read 23345692 spots for SRR14267865
+Written 23345692 spots for SRR14267865
+Download complete.
+Downloading SRR code: SRR14267866
+Read 14399103 spots for SRR14267866
+Written 14399103 spots for SRR14267866
+Download complete.
+Downloading SRR code: SRR14267869
+Read 28247454 spots for SRR14267869
+Written 28247454 spots for SRR14267869
+Download complete.
+Downloading SRR code: SRR14267871
+Read 16282441 spots for SRR14267871
+Written 16282441 spots for SRR14267871
+Download complete.
+Downloading SRR code: SRR14267870
+Read 28425991 spots for SRR14267870
+Written 28425991 spots for SRR14267870
+Download complete.
+Downloading SRR code: SRR14267872
+Read 20616917 spots for SRR14267872
+Written 20616917 spots for SRR14267872
+Download complete.
+Finished on Mon Oct 28 12:39:55 EDT 2024.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+###########################
+New run started on Thu Apr  3 09:00:39 EDT 2025
+Downloading SRR code: SRR11004094
+Read 15866044 spots for SRR11004094
+Written 15866044 spots for SRR11004094
+Download complete.
+Downloading SRR code: SRR11004099
+Read 14061294 spots for SRR11004099
+Written 14061294 spots for SRR11004099
+Download complete.
+Downloading SRR code: SRR11004098
+Read 14885948 spots for SRR11004098
+Written 14885948 spots for SRR11004098
+Download complete.
+Downloading SRR code: SRR11004102
+Read 20331582 spots for SRR11004102
+Written 20331582 spots for SRR11004102
+Download complete.
+Downloading SRR code: SRR11004062
+Read 17845084 spots for SRR11004062
+Written 17845084 spots for SRR11004062
+Download complete.
+Downloading SRR code: SRR11004101
+Read 9701898 spots for SRR11004101
+Written 9701898 spots for SRR11004101
+Download complete.
+Downloading SRR code: SRR11004055
+Read 22594756 spots for SRR11004055
+Written 22594756 spots for SRR11004055
+Download complete.
+Downloading SRR code: SRR11004064
+Read 17070536 spots for SRR11004064
+Written 17070536 spots for SRR11004064
+Download complete.
+Downloading SRR code: SRR11004058
+Read 14345062 spots for SRR11004058
+Written 14345062 spots for SRR11004058
+Download complete.
+Downloading SRR code: SRR11004095
+Read 12636065 spots for SRR11004095
+Written 12636065 spots for SRR11004095
+Download complete.
+Downloading SRR code: SRR11004065
+Read 18136942 spots for SRR11004065
+Written 18136942 spots for SRR11004065
+Download complete.
+Downloading SRR code: SRR11004056
+Read 14830653 spots for SRR11004056
+Written 14830653 spots for SRR11004056
+Download complete.
+Downloading SRR code: SRR11004059
+Read 13920893 spots for SRR11004059
+Written 13920893 spots for SRR11004059
+Download complete.
+Downloading SRR code: SRR11004092
+Read 13568039 spots for SRR11004092
+Written 13568039 spots for SRR11004092
+Download complete.
+Downloading SRR code: SRR11004100
+Read 16441228 spots for SRR11004100
+Written 16441228 spots for SRR11004100
+Download complete.
+Downloading SRR code: SRR11004066
+Read 14990222 spots for SRR11004066
+Written 14990222 spots for SRR11004066
+Download complete.
+Downloading SRR code: SRR11004057
+Read 19122955 spots for SRR11004057
+Written 19122955 spots for SRR11004057
+Download complete.
+Downloading SRR code: SRR11004097
+Read 20904821 spots for SRR11004097
+Written 20904821 spots for SRR11004097
+Download complete.
+Downloading SRR code: SRR11004096
+Read 15826328 spots for SRR11004096
+Written 15826328 spots for SRR11004096
+Download complete.
+Downloading SRR code: SRR11004060
+Read 14792400 spots for SRR11004060
+Written 14792400 spots for SRR11004060
+Download complete.
+Downloading SRR code: SRR11004061
+Read 18896051 spots for SRR11004061
+Written 18896051 spots for SRR11004061
+Download complete.
+Downloading SRR code: SRR11004063
+Read 15925271 spots for SRR11004063
+Written 15925271 spots for SRR11004063
+Download complete.
+Downloading SRR code: SRR11004091
+Read 17287978 spots for SRR11004091
+Written 17287978 spots for SRR11004091
+Download complete.
+Downloading SRR code: SRR11004093
+Read 18891759 spots for SRR11004093
+Written 18891759 spots for SRR11004093
+Download complete.
+Downloading SRR code: SRR11004084
+Read 10574614 spots for SRR11004084
+Written 10574614 spots for SRR11004084
+Download complete.
+Downloading SRR code: SRR11004082
+Read 14485787 spots for SRR11004082
+Written 14485787 spots for SRR11004082
+Download complete.
+Downloading SRR code: SRR11004085
+Read 20501399 spots for SRR11004085
+Written 20501399 spots for SRR11004085
+Download complete.
+Downloading SRR code: SRR11004086
+Read 16091465 spots for SRR11004086
+Written 16091465 spots for SRR11004086
+Download complete.
+Downloading SRR code: SRR11004071
+Read 16904629 spots for SRR11004071
+Written 16904629 spots for SRR11004071
+Download complete.
+Downloading SRR code: SRR11004079
+Read 9286070 spots for SRR11004079
+Written 9286070 spots for SRR11004079
+Download complete.
+Downloading SRR code: SRR11004090
+Read 22182908 spots for SRR11004090
+Written 22182908 spots for SRR11004090
+Download complete.
+Downloading SRR code: SRR11004077
+Read 20033334 spots for SRR11004077
+Written 20033334 spots for SRR11004077
+Download complete.
+Downloading SRR code: SRR11004068
+Read 13021199 spots for SRR11004068
+Written 13021199 spots for SRR11004068
+Download complete.
+Downloading SRR code: SRR11004067
+Read 12210567 spots for SRR11004067
+Written 12210567 spots for SRR11004067
+Download complete.
+Downloading SRR code: SRR11004075
+Read 19258638 spots for SRR11004075
+Written 19258638 spots for SRR11004075
+Download complete.
+Downloading SRR code: SRR11004087
+Read 18539581 spots for SRR11004087
+Written 18539581 spots for SRR11004087
+Download complete.
+Downloading SRR code: SRR11004083
+Read 10255395 spots for SRR11004083
+Written 10255395 spots for SRR11004083
+Download complete.
+Downloading SRR code: SRR11004072
+Read 14309360 spots for SRR11004072
+Written 14309360 spots for SRR11004072
+Download complete.
+Downloading SRR code: SRR11004081
+Read 9080245 spots for SRR11004081
+Written 9080245 spots for SRR11004081
+Download complete.
+Downloading SRR code: SRR11004089
+Read 16751197 spots for SRR11004089
+Written 16751197 spots for SRR11004089
+Download complete.
+Downloading SRR code: SRR11004080
+Read 7498169 spots for SRR11004080
+Written 7498169 spots for SRR11004080
+Download complete.
+Downloading SRR code: SRR11004088
+Read 22112378 spots for SRR11004088
+Written 22112378 spots for SRR11004088
+Download complete.
+Downloading SRR code: SRR11004073
+Read 19729300 spots for SRR11004073
+Written 19729300 spots for SRR11004073
+Download complete.
+Downloading SRR code: SRR11004069
+Read 15344095 spots for SRR11004069
+Written 15344095 spots for SRR11004069
+Download complete.
+Downloading SRR code: SRR11004070
+Read 7009511 spots for SRR11004070
+Written 7009511 spots for SRR11004070
+Download complete.
+Downloading SRR code: SRR11004074
+Read 16733635 spots for SRR11004074
+Written 16733635 spots for SRR11004074
+Download complete.
+Downloading SRR code: SRR11004078
+Read 14755587 spots for SRR11004078
+Written 14755587 spots for SRR11004078
+Download complete.
+Downloading SRR code: SRR11004076
+Read 20078839 spots for SRR11004076
+Written 20078839 spots for SRR11004076
+Download complete.
+Finished on Thu Apr  3 10:13:36 EDT 2025.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+###########################
+New run started on Thu Apr  3 10:23:43 EDT 2025
+Downloading SRR code: SRR5462461
+Read 21432994 spots for SRR5462461
+Written 21432994 spots for SRR5462461
+Download complete.
+Downloading SRR code: SRR3622405
+Read 8788763 spots for SRR3622405
+Written 8788763 spots for SRR3622405
+Download complete.
+Downloading SRR code: SRR3622424
+Read 15346514 spots for SRR3622424
+Written 15346514 spots for SRR3622424
+Download complete.
+Downloading SRR code: SRR3622423
+Read 15955159 spots for SRR3622423
+Written 15955159 spots for SRR3622423
+Download complete.
+Downloading SRR code: SRR3622393
+Read 9397261 spots for SRR3622393
+Written 9397261 spots for SRR3622393
+Download complete.
+Downloading SRR code: SRR3622404
+Read 22366236 spots for SRR3622404
+Written 22366236 spots for SRR3622404
+Download complete.
+Downloading SRR code: SRR3622392
+Read 22574661 spots for SRR3622392
+Written 22574661 spots for SRR3622392
+Download complete.
+Downloading SRR code: SRR5462458
+Read 4260574 spots for SRR5462458
+Written 4260574 spots for SRR5462458
+Download complete.
+Downloading SRR code: SRR3622408
+Read 8731133 spots for SRR3622408
+Written 8731133 spots for SRR3622408
+Download complete.
+Downloading SRR code: SRR3622422
+Read 13436015 spots for SRR3622422
+Written 13436015 spots for SRR3622422
+Download complete.
+Downloading SRR code: SRR3622402
+Read 4358190 spots for SRR3622402
+Written 4358190 spots for SRR3622402
+Download complete.
+Downloading SRR code: SRR3622415
+Read 6763371 spots for SRR3622415
+Written 6763371 spots for SRR3622415
+Download complete.
+Downloading SRR code: SRR3622413
+Read 8196512 spots for SRR3622413
+Written 8196512 spots for SRR3622413
+Download complete.
+Downloading SRR code: SRR3622407
+Read 2551242 spots for SRR3622407
+Written 2551242 spots for SRR3622407
+Download complete.
+Downloading SRR code: SRR5462460
+Read 3410130 spots for SRR5462460
+Written 3410130 spots for SRR5462460
+Download complete.
+Downloading SRR code: SRR3622414
+Read 542257 spots for SRR3622414
+Written 542257 spots for SRR3622414
+Download complete.
+Downloading SRR code: SRR3622397
+###########################
+New run started on Thu Apr  3 10:41:22 EDT 2025
+Downloading SRR code: SRR5008105
+Read 8205953 spots for SRR3622397
+Written 8205953 spots for SRR3622397
+Download complete.
+Downloading SRR code: SRR3622403
+Read 9484557 spots for SRR3622403
+Written 9484557 spots for SRR3622403
+Download complete.
+Downloading SRR code: SRR3622406
+Read 7419678 spots for SRR3622406
+Written 7419678 spots for SRR3622406
+Download complete.
+Downloading SRR code: SRR3622395
+Read 24532019 spots for SRR5008105
+Written 24532019 spots for SRR5008105
+Download complete.
+Downloading SRR code: SRR5008106
+Read 13297748 spots for SRR3622395
+Written 13297748 spots for SRR3622395
+Download complete.
+Downloading SRR code: SRR3622409
+Read 25320289 spots for SRR3622409
+Written 25320289 spots for SRR3622409
+Download complete.
+Downloading SRR code: SRR3622396
+Read 26218696 spots for SRR5008106
+Written 26218696 spots for SRR5008106
+Download complete.
+Downloading SRR code: SRR5008097
+Read 6958838 spots for SRR3622396
+Written 6958838 spots for SRR3622396
+Download complete.
+Downloading SRR code: SRR3622399
+Read 13356068 spots for SRR3622399
+Written 13356068 spots for SRR3622399
+Download complete.
+Downloading SRR code: SRR3622398
+Read 17830811 spots for SRR5008097
+Written 17830811 spots for SRR5008097
+Download complete.
+Downloading SRR code: SRR5008083
+Read 10765252 spots for SRR3622398
+Written 10765252 spots for SRR3622398
+Download complete.
+Downloading SRR code: SRR5462462
+Read 13469805 spots for SRR5008083
+Written 13469805 spots for SRR5008083
+Download complete.
+Downloading SRR code: SRR5008086
+Read 18080932 spots for SRR5462462
+Written 18080932 spots for SRR5462462
+Download complete.
+Downloading SRR code: SRR3622416
+Read 18167713 spots for SRR5008086
+Written 18167713 spots for SRR5008086
+Download complete.
+Downloading SRR code: SRR5008090
+Read 19900832 spots for SRR3622416
+Written 19900832 spots for SRR3622416
+Download complete.
+Downloading SRR code: SRR3622400
+Read 8316653 spots for SRR5008090
+Written 8316653 spots for SRR5008090
+Download complete.
+Downloading SRR code: SRR5008096
+Read 3821998 spots for SRR3622400
+Written 3821998 spots for SRR3622400
+Download complete.
+Downloading SRR code: SRR3622394
+Read 7106532 spots for SRR3622394
+Written 7106532 spots for SRR3622394
+Download complete.
+Downloading SRR code: SRR3622401
+Read 19060630 spots for SRR5008096
+Written 19060630 spots for SRR5008096
+Download complete.
+Downloading SRR code: SRR5008088
+Read 11450623 spots for SRR3622401
+Written 11450623 spots for SRR3622401
+Download complete.
+Downloading SRR code: SRR5462459
+Read 3413559 spots for SRR5462459
+Written 3413559 spots for SRR5462459
+Download complete.
+Downloading SRR code: SRR3622412
+Read 22724061 spots for SRR5008088
+Written 22724061 spots for SRR5008088
+Download complete.
+Downloading SRR code: SRR5008093
+Read 17539172 spots for SRR3622412
+Written 17539172 spots for SRR3622412
+Download complete.
+Downloading SRR code: SRR3622425
+Read 14064172 spots for SRR3622425
+Written 14064172 spots for SRR3622425
+Download complete.
+Downloading SRR code: SRR3622417
+Read 16225542 spots for SRR5008093
+Written 16225542 spots for SRR5008093
+Download complete.
+Downloading SRR code: SRR5008107
+Read 8729443 spots for SRR3622417
+Written 8729443 spots for SRR3622417
+Download complete.
+Finished on Thu Apr  3 11:00:55 EDT 2025.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+Read 25771242 spots for SRR5008107
+Written 25771242 spots for SRR5008107
+Download complete.
+Downloading SRR code: SRR5008100
+Read 14245789 spots for SRR5008100
+Written 14245789 spots for SRR5008100
+Download complete.
+Downloading SRR code: SRR5008101
+Read 10668101 spots for SRR5008101
+Written 10668101 spots for SRR5008101
+Download complete.
+Downloading SRR code: SRR5008079
+Read 18153925 spots for SRR5008079
+Written 18153925 spots for SRR5008079
+Download complete.
+Downloading SRR code: SRR5008094
+Read 25058414 spots for SRR5008094
+Written 25058414 spots for SRR5008094
+Download complete.
+Downloading SRR code: SRR5008099
+Read 12254054 spots for SRR5008099
+Written 12254054 spots for SRR5008099
+Download complete.
+Downloading SRR code: SRR5008092
+Read 5860339 spots for SRR5008092
+Written 5860339 spots for SRR5008092
+Download complete.
+Downloading SRR code: SRR5008081
+Read 21768836 spots for SRR5008081
+Written 21768836 spots for SRR5008081
+Download complete.
+Downloading SRR code: SRR5008095
+Read 19142570 spots for SRR5008095
+Written 19142570 spots for SRR5008095
+Download complete.
+Downloading SRR code: SRR5008082
+Read 26338885 spots for SRR5008082
+Written 26338885 spots for SRR5008082
+Download complete.
+Downloading SRR code: SRR5008089
+Read 4580860 spots for SRR5008089
+Written 4580860 spots for SRR5008089
+Download complete.
+Downloading SRR code: SRR5008102
+Read 13793803 spots for SRR5008102
+Written 13793803 spots for SRR5008102
+Download complete.
+Downloading SRR code: SRR5008098
+Read 13832737 spots for SRR5008098
+Written 13832737 spots for SRR5008098
+Download complete.
+Downloading SRR code: SRR5008108
+Read 24945596 spots for SRR5008108
+Written 24945596 spots for SRR5008108
+Download complete.
+Downloading SRR code: SRR5008084
+Read 21090341 spots for SRR5008084
+Written 21090341 spots for SRR5008084
+Download complete.
+Downloading SRR code: SRR5008104
+Read 23777394 spots for SRR5008104
+Written 23777394 spots for SRR5008104
+Download complete.
+Downloading SRR code: SRR5008087
+Read 12315859 spots for SRR5008087
+Written 12315859 spots for SRR5008087
+Download complete.
+Downloading SRR code: SRR5008080
+Read 23862272 spots for SRR5008080
+Written 23862272 spots for SRR5008080
+Download complete.
+Downloading SRR code: SRR5008091
+Read 15430767 spots for SRR5008091
+Written 15430767 spots for SRR5008091
+Download complete.
+Downloading SRR code: SRR5008103
+Read 19847916 spots for SRR5008103
+Written 19847916 spots for SRR5008103
+Download complete.
+Downloading SRR code: SRR5008085
+Read 10697767 spots for SRR5008085
+Written 10697767 spots for SRR5008085
+Download complete.
+Finished on Thu Apr  3 11:46:13 EDT 2025.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+###########################
+New run started on Fri Apr 18 20:22:09 EDT 2025
+Downloading SRR code: SRR18050533
+Read 11726022 spots for SRR18050533
+Written 11726022 spots for SRR18050533
+Download complete.
+Downloading SRR code: SRR18050534
+Read 12790513 spots for SRR18050534
+Written 12790513 spots for SRR18050534
+Download complete.
+Downloading SRR code: SRR18050536
+Read 28357529 spots for SRR18050536
+Written 28357529 spots for SRR18050536
+Download complete.
+Downloading SRR code: SRR18050531
+Read 9203542 spots for SRR18050531
+Written 9203542 spots for SRR18050531
+Download complete.
+Downloading SRR code: SRR18050543
+Read 5887259 spots for SRR18050543
+Written 5887259 spots for SRR18050543
+Download complete.
+Downloading SRR code: SRR18050541
+Read 12888962 spots for SRR18050541
+Written 12888962 spots for SRR18050541
+Download complete.
+Downloading SRR code: SRR18050539
+Read 5772633 spots for SRR18050539
+Written 5772633 spots for SRR18050539
+Download complete.
+Downloading SRR code: SRR18050537
+Read 10407666 spots for SRR18050537
+Written 10407666 spots for SRR18050537
+Download complete.
+Downloading SRR code: SRR18050546
+Read 8368423 spots for SRR18050546
+Written 8368423 spots for SRR18050546
+Download complete.
+Downloading SRR code: SRR18050532
+Read 10163763 spots for SRR18050532
+Written 10163763 spots for SRR18050532
+Download complete.
+Downloading SRR code: SRR18050545
+Read 8366819 spots for SRR18050545
+Written 8366819 spots for SRR18050545
+Download complete.
+Downloading SRR code: SRR18050535
+Read 5298927 spots for SRR18050535
+Written 5298927 spots for SRR18050535
+Download complete.
+Downloading SRR code: SRR18050544
+Read 19233138 spots for SRR18050544
+Written 19233138 spots for SRR18050544
+Download complete.
+Downloading SRR code: SRR18050542
+Read 15171905 spots for SRR18050542
+Written 15171905 spots for SRR18050542
+Download complete.
+Downloading SRR code: SRR18050540
+Read 27103925 spots for SRR18050540
+Written 27103925 spots for SRR18050540
+Download complete.
+Downloading SRR code: SRR18050538
+Read 9685884 spots for SRR18050538
+Written 9685884 spots for SRR18050538
+Download complete.
+Finished on Fri Apr 18 20:50:30 EDT 2025.
+###########################
+mv: cannot stat '/grid/schorn/home/mpeacey/scripts/download_SRA/download_SRA_output.txt': No such file or directory
+###########################
+New run started on Sun Apr 20 07:05:55 EDT 2025
+Downloading SRR code: SRR18050531
+Read 9203542 spots for SRR18050531
+Written 9203542 spots for SRR18050531
+Download complete.
+Downloading SRR code: SRR19980198
+Read 13204014 spots for SRR19980198
+Written 13204014 spots for SRR19980198
+Download complete.
+Downloading SRR code: SRR18050542
+Read 15171905 spots for SRR18050542
+Written 15171905 spots for SRR18050542
+Download complete.
+Downloading SRR code: SRR18050546
+Read 8368423 spots for SRR18050546
+Written 8368423 spots for SRR18050546
+Download complete.
+Downloading SRR code: SRR18050545
+Read 8366819 spots for SRR18050545
+Written 8366819 spots for SRR18050545
+Download complete.
+Downloading SRR code: SRR18056634
+Read 12295823 spots for SRR18056634
+Written 12295823 spots for SRR18056634
+Download complete.
+Downloading SRR code: SRR18050537
+Read 10407666 spots for SRR18050537
+Written 10407666 spots for SRR18050537
+Download complete.
+Downloading SRR code: SRR19980200
+Read 18417404 spots for SRR19980200
+Written 18417404 spots for SRR19980200
+Download complete.
+Downloading SRR code: SRR18050543
+Read 5887259 spots for SRR18050543
+Written 5887259 spots for SRR18050543
+Download complete.
+Downloading SRR code: SRR18056641
+Read 8166921 spots for SRR18056641
+Written 8166921 spots for SRR18056641
+Download complete.
+Downloading SRR code: SRR19980205
+Read 16371012 spots for SRR19980205
+Written 16371012 spots for SRR19980205
+Download complete.
+Downloading SRR code: SRR19980196
+Failed to call external services.
+Download complete.
+Downloading SRR code: SRR18056640
+Read 8765262 spots for SRR18056640
+Written 8765262 spots for SRR18056640
+Download complete.
+Downloading SRR code: SRR18050532
+Read 10163763 spots for SRR18050532
+Written 10163763 spots for SRR18050532
+Download complete.
+Downloading SRR code: SRR18050535
+Read 5298927 spots for SRR18050535
+Written 5298927 spots for SRR18050535
+Download complete.
+Downloading SRR code: SRR18050544
+Read 19233138 spots for SRR18050544
+Written 19233138 spots for SRR18050544
+Download complete.
+Downloading SRR code: SRR19980207
