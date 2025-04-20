@@ -40,3 +40,4 @@ for SAMPLE in *_remap.fastq; do
 done
 
 mv /grid/schorn/home/mpeacey/scripts/small_RNA_seq/wrappers/align_remaining_wrapper_output.txt ${DATA_DIRECTORY}/alignment
+cp /grid/schorn/home/mpeacey/scripts/small_RNA_seq/3_align_remaining.sh  ${DATA_DIRECTORY}/scripts
