@@ -39,21 +39,26 @@ intersectBed -wb -sorted -s -a ${SAMPLE_NAME}_filtered.sorted.bed \
 -b /grid/schorn/home/mpeacey/annotations/${GENOME}/miRNA/${GENOME}_miRNA.sorted.bed \
 > ${DATA_DIRECTORY}/bed_intersect/${SAMPLE_NAME}_miRNAs.bed
 
-echo "Assigning piRNA reads..."
-
-echo "Assigning piRNA reads..."
+#echo "Assigning piRNA reads..."
 
 # Subtract miRNA reads from total filtered reads
+#bedtools subtract -A \
+#  -a ${SAMPLE_NAME}_filtered.sorted.bed \
+#  -b ${DATA_DIRECTORY}/bed_intersect/${SAMPLE_NAME}_miRNAs.bed \
+#  > ${SAMPLE_NAME}_no_miRNAs.bed
+
+# Intersect remaining reads with piRNA annotations
+#intersectBed -wb -sorted -s \
+#  -a ${SAMPLE_NAME}_no_miRNAs.bed \
+#  -b /grid/schorn/home/mpeacey/annotations/${GENOME}/piRNA/${GENOME}_piRNA.sorted.bed \
+#  > ${DATA_DIRECTORY}/bed_intersect/${SAMPLE_NAME}_piRNAs.bed
+
+echo "Return unassigned reads..."
+
 bedtools subtract -A \
   -a ${SAMPLE_NAME}_filtered.sorted.bed \
   -b ${DATA_DIRECTORY}/bed_intersect/${SAMPLE_NAME}_miRNAs.bed \
-  > ${SAMPLE_NAME}_no_miRNAs.bed
-
-# Intersect remaining reads with piRNA annotations
-intersectBed -wb -sorted -s \
-  -a ${SAMPLE_NAME}_no_miRNAs.bed \
-  -b /grid/schorn/home/mpeacey/annotations/${GENOME}/piRNA/${GENOME}_piRNA.sorted.bed \
-  > ${DATA_DIRECTORY}/bed_intersect/${SAMPLE_NAME}_piRNAs.bed
+  > ${DATA_DIRECTORY}/bed_intersect/${SAMPLE_NAME}_unassigned.bed
 
 echo "Finished run on $(date)"
 

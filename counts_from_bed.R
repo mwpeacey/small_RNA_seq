@@ -82,6 +82,25 @@ miRNAs = dplyr::rename(miRNAs, read_chromosome = V1, read_start = V2, read_end =
 
 miRNAs$sample = sample
 
+miRNA_counts = miRNAs %>%
+  group_by(ID, sample) %>%
+  summarise(n = n())
+
+################################################################################
+# Unassigned
+################################################################################
+
+unassigned = read.table(glue('{data}/bed_intersect/{sample}_unassigned.bed'), header=F)
+
+unassigned$ID = 'unassigned'
+unassigned$sample = sample
+
+unassigned_counts = unassigned %>%
+  group_by(ID, sample) %>%
+  summarise(n = n())
+
+head(unassigned_counts)
+
 ################################################################################
 # Build counts table
 ################################################################################
@@ -96,14 +115,7 @@ tRF_counts = tRFs %>%
   group_by(ID, sample) %>%
   summarise(n = n())
 
-miRNA_counts = miRNAs %>%
-  group_by(ID, sample) %>%
-  summarise(n = n())
-
-final_counts = bind_rows(tRF_counts, miRNA_counts)
-
-head(tRF_counts)
-head(miRNA_counts)
+final_counts = bind_rows(tRF_counts, miRNA_counts, unassigned_counts)
 
 saveRDS(object = final_counts, file = glue('{data}/bed_intersect/counts/{sample}_raw_counts.rds'))
 
