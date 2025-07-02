@@ -30,7 +30,9 @@ tRFs = dplyr::rename(tRFs, tRNA = V1, read_start = V2, read_end = V3, read = V4,
   mutate(class = case_when(class == 'other-tRF3' & (annotation_end - read_start) >= 14 & (annotation_end - read_start) < 20 ~ 'tRF3a',
                            class == 'other-tRF3' & read_length >= 20 & read_length < 24 ~ 'tRF3b',
                            T ~ class)) %>%
-  unite('ID', c('tRNA', 'class'), sep = '-', remove = F) %>%
+  separate('tRNA', into = c('A', 'B', 'C', 'D'), sep = '-') %>%
+  unite('tRNA', c('B', 'C'), sep = '-') %>%
+  unite('ID', c('tRNA', 'class'), sep = '_', remove = F) %>%
   select(c('tRNA', 'ID', 'read_start', 'read_end', 'read', 'annotation_start', 'annotation_end', 'read_length', 'class'))
 
 tRFs$sample = sample
