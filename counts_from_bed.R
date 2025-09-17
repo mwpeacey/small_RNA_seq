@@ -25,43 +25,37 @@ tRFs = read.table(glue('{data}/bed_intersect/{sample}_tRNA_intersect.bed'), head
 tRFs = dplyr::rename(tRFs, tRNA = V1, read_start = V2, read_end = V3, read = V4, annotation_start = V14, annotation_end = V15) %>%
   mutate(read_length = (read_end - read_start)) %>%
   mutate(class = case_when((annotation_end - read_end) <= 3 ~ 'other-tRF3',
-                          (read_start - annotation_start) <= 3 ~ 'tRF5', 
-                          T ~ 'internal-tRF')) %>%
+                           (read_start - annotation_start) <= 3 ~ 'tRF5', 
+                           T ~ 'internal-tRF')) %>%
   mutate(class = case_when(class == 'other-tRF3' & (annotation_end - read_start) >= 14 & (annotation_end - read_start) < 20 ~ 'tRF3a',
                            class == 'other-tRF3' & read_length >= 20 & read_length < 24 ~ 'tRF3b',
-                           T ~ class)) %>%
-  separate('tRNA', into = c('A', 'B', 'C', 'D'), sep = '-') %>%
-  unite('tRNA', c('B', 'C'), sep = '-') %>%
-  unite('ID', c('tRNA', 'class'), sep = '_', remove = F) %>%
-  select(c('tRNA', 'ID', 'read_start', 'read_end', 'read', 'annotation_start', 'annotation_end', 'read_length', 'class'))
+                           T ~ class)) 
 
 tRFs$sample = sample
 
-tRF3_counts = filter(tRFs, class == 'tRF3a' | class == 'tRF3b') %>%
-  group_by(class, tRNA, sample) %>%
-  summarise(n = n())
+all_tRFs = tRFs %>%
+  separate('tRNA', into = c('A', 'B', 'C', 'D'), sep = '-') %>%
+  unite('tRNA', c('B', 'C'), sep = '-') %>%
+  unite('ID', c('tRNA', 'class'), sep = '_', remove = F) %>%
+  select(c('tRNA', 'ID', 'read_start', 'read_end', 'read', 'annotation_start', 'annotation_end', 'read_length', 'class', 'sample'))
 
-tRF3a_counts = filter(tRF3_counts, class == 'tRF3a') %>%
+tRF3_counts = tRFs %>%
+  filter(class == "tRF3b" | class == "tRF3a") %>%
   rowwise() %>%
   mutate(
-    match_row = list(tRFa_info %>% 
-                       filter(str_detect(source_tRNAs, fixed(tRNA))) %>% 
-                       select(sequence, unique_name))
+    match_row = list(
+      tRFb_info %>%
+        filter(str_detect(source_tRNAs, fixed(tRNA))) %>%
+        select(sequence, unique_name)
+    )
   ) %>%
   unnest(cols = c(match_row)) %>%
   group_by(sample, unique_name, sequence) %>%
-  summarise(total_count = sum(n), .groups = 'drop')
+  summarise(total_count = n(), .groups = "drop") %>%
+  right_join(tRFb_info %>% select(sequence, unique_name), by = c("sequence","unique_name")) %>%
+  mutate(total_count = replace_na(total_count, 0))
 
-tRF3b_counts = filter(tRF3_counts, class == 'tRF3b') %>%
-  rowwise() %>%
-  mutate(
-    match_row = list(tRFb_info %>% 
-                       filter(str_detect(source_tRNAs, fixed(tRNA))) %>% 
-                       select(sequence, unique_name)) 
-  ) %>%
-  unnest(cols = c(match_row)) %>%
-  group_by(sample, unique_name, sequence) %>%
-  summarise(total_count = sum(n), .groups = 'drop')
+tRF3_counts$sample = sample
 
 ################################################################################
 # miRNAs
@@ -107,17 +101,12 @@ head(unassigned_counts)
 # Build counts table
 ################################################################################
 
-tRF3a_counts = tRF3a_counts %>%
-  mutate(class = "tRF3a")
-
-tRF3b_counts = tRF3b_counts %>%
-  mutate(class = "tRF3b")
- 
-tRF_counts = tRFs %>%
+tRF_counts = all_tRFs %>%
   group_by(ID, sample) %>%
   summarise(n = n())
 
 final_counts = bind_rows(tRF_counts, miRNA_counts, unassigned_counts)
 
-saveRDS(object = final_counts, file = glue('{data}/bed_intersect/counts/{sample}_raw_counts.rds'))
+saveRDS(object = final_counts, file = glue('{data}/bed_intersect/counts/{sample}_all_counts.rds'))
 
+saveRDS(object = tRF3_counts, file = glue('{data}/bed_intersect/counts/{sample}_tRF3_counts.rds'))
