@@ -26,7 +26,7 @@ echo "Aligning reads to tRNAs..."
 
 cd /grid/schorn/home/mpeacey/index/bowtie2/${GENOME}/${GENOME}_tRNA
 
-bowtie2 -q ${FASTQ_DIRECTORY}/${SAMPLE_NAME}_filtered.fastq \
+bowtie2 -q ${FASTQ_DIRECTORY}/${SAMPLE} \
 	-N 1 \
 	-p 4 \
 	-L 10 \

@@ -55,9 +55,14 @@ intersectBed -wb -sorted -s -a ${SAMPLE_NAME}_filtered.sorted.bed \
 
 echo "Return unassigned reads..."
 
-bedtools subtract -A \
+#bedtools subtract -A \
+#  -a ${SAMPLE_NAME}_filtered.sorted.bed \
+#  -b ${DATA_DIRECTORY}/bed_intersect/${SAMPLE_NAME}_miRNAs.bed \
+#  > ${DATA_DIRECTORY}/bed_intersect/${SAMPLE_NAME}_unassigned.bed
+
+bedtools intersect -v -s -sorted \
   -a ${SAMPLE_NAME}_filtered.sorted.bed \
-  -b ${DATA_DIRECTORY}/bed_intersect/${SAMPLE_NAME}_miRNAs.bed \
+  -b /grid/schorn/home/mpeacey/annotations/${GENOME}/miRNA/${GENOME}_miRNA.sorted.bed \
   > ${DATA_DIRECTORY}/bed_intersect/${SAMPLE_NAME}_unassigned.bed
 
 echo "Finished run on $(date)"

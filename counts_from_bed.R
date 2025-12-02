@@ -110,3 +110,5 @@ final_counts = bind_rows(tRF_counts, miRNA_counts, unassigned_counts)
 saveRDS(object = final_counts, file = glue('{data}/bed_intersect/counts/{sample}_all_counts.rds'))
 
 saveRDS(object = tRF3_counts, file = glue('{data}/bed_intersect/counts/{sample}_tRF3_counts.rds'))
+
+saveRDS(object = all_tRFs, file = glue('{data}/bed_intersect/{sample}_tRF_bed_intersect.rds'))
