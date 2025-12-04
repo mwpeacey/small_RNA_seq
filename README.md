@@ -1,18 +1,25 @@
 # small_RNA_seq
 Scripts for analysis of small RNA-seq data with a focus on tRNA-derived fragments, particularly CCA-terminating 3' tRFs.
 
-## Work flow for analysis of small RNA-seq data
+## Requirements
+
+1. Use index_generation/build_bowtie2_index.sh to build an index from the mature tRNA annotation, minus CCA, downloaded from GtRNAdb (https://gtrnadb.org).
+2. Use index_generation/build_bowtie2_index.sh to build an index from the genome, optionally with tRNA sequences masked. See index_generation/tRNA_mask_readme.txt for details. 
+3. tRNA, miRNA, and piRNA annotations.
+4. Install dependencies with conda env create -f small_RNA_seq.
+
+## Work flow
 
 Scripts should be executed in order using the corresponding wrapper script, which will loop through all samples in a directory
-and submit jobs to run in parallel.
+and submit jobs to run in parallel, except for steps 1 and 9, which are executed directly.
 
-1. If necessary, download fastq files using the metadata file downloaded from SRA explorer (0_download_sra.sh)
-2. Trim adapters and filter by size and quality (1_adapter_trim.sh)
-3. If necessary, remove spike-in reads for later quantification (1.5_remove-spike.sh)
-4. Align reads to the tRNA annotation (2_align_tRF.sh).
-5. Align unmapped reads from the previous step to the genome (3_align_remaining.sh).
-6. Count the total number of aligned reads (4_total_mapped.sh).
-7. Intersect reads with the tRNA, miRNA, and piRNA annotations (5_bed_intersect.sh).
-8. Count reads (6_counts_from_bed.sh).
+1. 0_download_sra.sh : if necessary, download fastq files using the metadata file downloaded from SRA explorer (https://sra-explorer.info) in tsv format.
+2. 1_adapter_trim.sh : trim adapters and filter by size and quality. Requires one or more adapter sequences in the fastq directory under "adapter.fa".
+3. 1.5_remove-spike.sh : if necessary, remove spike-in reads for later quantification.
+4. 2_align_tRF.sh : align reads to the tRNA annotation.
+5. 3_align_remaining.sh : align unmapped reads from the previous step to the genome.
+6. 4_total_mapped.sh : count the total number of aligned reads for later normalization.
+7. 5_bed_intersect.sh : intersect reads with the tRNA, miRNA, and piRNA annotations.
+8. 6_counts_from_bed.sh : classify and count reads. The normalization and count files should be moved to a local folder for further analysis (step 9).
+9. 7_annnotate_counts.R : pool reads from across samples, normalize to total mapped or spike-in reads, and export for differential expression analysis.
 
-The normalization and count files should be moved to a local folder for further analysis in R.

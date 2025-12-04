@@ -1,0 +1,18 @@
+name: small_RNA_seq
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - fastx_toolkit
+  - cutadapt
+  - fastqc
+  - bioconda::samtools
+  - bioconda::bamtools
+  - bioconda::bedtools
+  - bioconda::agat
+  - bioconda::seqkit
+  - bioconda::bowtie2
+  - bioconda::picard
+  - bioconda::bbmap
+prefix: /grid/schorn/home/mpeacey/anaconda3/envs/small_RNA_seq
