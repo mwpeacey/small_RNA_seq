@@ -1,5 +1,6 @@
 # small_RNA_seq
-Scripts for analysis of small RNA-seq data with a focus on tRNA-derived fragments, particularly CCA-terminating 3' tRFs.
+Scripts for analysis of small RNA-seq data with a focus on tRNA-derived fragments, particularly CCA-terminating 3' tRFs. These scripts contain absolute file paths from my computing environment at CSHL, provided for reproducibility. 
+Users will need to adjust the paths to match their own system.
 
 ## Requirements
 
