@@ -5,7 +5,7 @@ Scripts for analysis of small RNA-seq data with a focus on tRNA-derived fragment
 
 1. Use index_generation/build_bowtie2_index.sh to build an index from the mature tRNA annotation, minus CCA, downloaded from GtRNAdb (https://gtrnadb.org).
 2. Use index_generation/build_bowtie2_index.sh to build an index from the genome, optionally with tRNA sequences masked. See index_generation/tRNA_mask_readme.txt for details. 
-3. tRNA, miRNA, and piRNA annotations.
+3. miRNA annotation. See index_generation/small_RNA_annotation_readme.txt for details. Can be modified to include piRNAs if necessary.
 4. Install dependencies with conda env create -f small_RNA_seq.
 
 ## Work flow
