@@ -26,35 +26,60 @@ FASTQ_DIRECTORY=$4
 TRIM=$5
 POLY_A=$6
 
-cd ${FASTQ_DIRECTORY}
+cd "${FASTQ_DIRECTORY}"
 
 echo "Processing sample ${SAMPLE_NAME}"
 
-if [ ${POLY_A} == "T" ]; then
+###############################################################################
+# Detect adapter/adaptor fasta/fa file
+###############################################################################
 
-	cutadapt -a file:adapter.fasta -u ${TRIM} -m 14 -M 50 \
-		 --rename='{id}_{cut_prefix}' \
-         	-o cutadapt_processed/${SAMPLE_NAME}_cut.fastq \
- 	 	--poly-a \
-		${SAMPLE}
+ADAPTER_FILE=""
+
+for base in adapter adaptor; do
+  for ext in fasta fa; do
+    cand="${base}.${ext}"
+    if [[ -f "${cand}" ]]; then
+      ADAPTER_FILE="${cand}"
+      break 2   # break out of both loops
+    fi
+  done
+done
+
+if [[ -z "${ADAPTER_FILE}" ]]; then
+  echo "ERROR: No adapter/adaptor file found (tried adapter/adaptor with .fasta/.fa) in ${FASTQ_DIRECTORY}" >&2
+  exit 1
+fi
+
+echo "Using adapter file: ${ADAPTER_FILE}"
+
+###############################################################################
+
+if [[ "${POLY_A}" == "T" ]]; then
+
+    cutadapt -a "file:${ADAPTER_FILE}" -u "${TRIM}" -m 14 -M 50 \
+             --rename='{id}_{cut_prefix}' \
+             -o "cutadapt_processed/${SAMPLE_NAME}_cut.fastq" \
+             --poly-a \
+             "${SAMPLE}"
 
 else
 
-	cutadapt -a file:adapter.fasta -u ${TRIM} -m 14 -M 50 \
-                 --rename='{id}_{cut_prefix}' \
-                -o cutadapt_processed/${SAMPLE_NAME}_cut.fastq \
-                ${SAMPLE}
+    cutadapt -a "file:${ADAPTER_FILE}" -u "${TRIM}" -m 14 -M 50 \
+             --rename='{id}_{cut_prefix}' \
+             -o "cutadapt_processed/${SAMPLE_NAME}_cut.fastq" \
+             "${SAMPLE}"
 
 fi
 
-fastqc cutadapt_processed/${SAMPLE_NAME}_cut.fastq -o fastqc
+fastqc "cutadapt_processed/${SAMPLE_NAME}_cut.fastq" -o fastqc
 
-fastq_quality_filter -i cutadapt_processed/${SAMPLE_NAME}_cut.fastq \
-		     -o quality_filtered/${SAMPLE_NAME}_filtered.fastq \
-		     -Q33 -q 20 -p 95
+fastq_quality_filter -i "cutadapt_processed/${SAMPLE_NAME}_cut.fastq" \
+                     -o "quality_filtered/${SAMPLE_NAME}_filtered.fastq" \
+                     -Q33 -q 20 -p 95
 
-fastqc quality_filtered/${SAMPLE_NAME}_filtered.fastq -o fastqc
+fastqc "quality_filtered/${SAMPLE_NAME}_filtered.fastq" -o fastqc
 
-cp /grid/schorn/home/mpeacey/scripts/small_RNA_seq/1_adapter_trim.sh ${HOME_DIRECTORY}/scripts
+cp /grid/schorn/home/mpeacey/scripts/small_RNA_seq/1_adapter_trim.sh "${HOME_DIRECTORY}/scripts"
 
 echo "Finished run on $(date)"

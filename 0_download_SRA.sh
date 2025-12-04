@@ -36,5 +36,5 @@ done
 echo "Finished on $(date)."
 echo "###########################"
 
-mv /grid/schorn/home/mpeacey/scripts/small_RNA_seq/download_SRA_output.txt $2/scripts
+mv /grid/schorn/home/mpeacey/scripts/small_RNA_seq/download_SRA_output.txt $2/fastq
 cp /grid/schorn/home/mpeacey/scripts/small_RNA_seq/0_download_SRA.sh $2/scripts

@@ -18,11 +18,12 @@
 # FASTX toolkit v0.0.14
 
 # Inputs
-# 1 : home directory
+# 1 : home directory.
 # 2 : directory containing untrimmed reads in fastq format.
 # 3 : fixed number of bases to trim from the 5' end.
-# 4 : enables polyA trimming 
-# 5 : Note that the 3' adapter sequence(s) must be in a fasta file named adapter.fasta, located in the fastq directory (input 1).
+# 4 : enables polyA trimming. 
+# 5 : Note that the 3' adapter sequence(s) must be in a fasta file named adapter.fasta, adapter.fa, 
+#     adaptor.fasta, or adaptor.fa, located in the fastq directory (input 1).
 
 DATA_DIRECTORY=$1
 FASTQ_DIRECTORY=$2
