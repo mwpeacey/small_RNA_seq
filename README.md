@@ -1,4 +1,7 @@
 # small_RNA_seq
+[![bioRxiv](https://img.shields.io/badge/bioRxiv-10.64898%2F2026.01.22.698655-B31B1B.svg)](https://doi.org/10.64898/2026.01.22.698655)
+[![DOI](https://zenodo.org/badge/927843426.svg)](https://doi.org/10.5281/zenodo.18601791)
+
 Scripts for analysis of small RNA-seq data with a focus on tRNA-derived fragments, particularly CCA-terminating 3' tRFs. These scripts contain absolute file paths from my computing environment at CSHL, provided for reproducibility. 
 Users will need to adjust the paths to match their own system.
 
