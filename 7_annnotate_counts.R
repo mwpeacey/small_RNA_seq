@@ -1,7 +1,7 @@
 library(tidyverse)
 library(glue)
 
-data_directory = ''
+data_directory = '~/RNA-seq/Mus_musculus/Pessina_2025_GSE304267/'
 
 ################################################################################
 # Import data
@@ -39,7 +39,20 @@ samples = read_csv(glue('{data_directory}/sample_info.csv'))
 # Reformat counts
 ################################################################################
 
-wide_counts = pivot_wider(counts, values_from = n, names_from = sample)
+wide_counts =
+  counts %>%
+  mutate(
+    ID_clean = if_else(
+      # only touch miRNAs with a MIMAT ID that has a numeric suffix, e.g. "MIMAT0000533_1"
+      grepl("^MIMAT\\d+_\\d+$", ID),
+      sub("(_\\d+)$", "", ID),  # strip the trailing "_<number>"
+      ID                        # leave everything else unchanged (tRFs etc.)
+    )
+  ) %>%
+  group_by(ID = ID_clean, sample) %>%
+  summarise(counts = sum(n), .groups = "drop")
+
+wide_counts = pivot_wider(wide_counts, values_from = counts, names_from = sample)
 
 wide_counts = as.data.frame(wide_counts)
 
@@ -48,6 +61,8 @@ row.names(wide_counts) = wide_counts$ID
 wide_counts = dplyr::select(wide_counts, -c('ID'))
 
 wide_counts[is.na(wide_counts)] = 0
+
+saveRDS(object = wide_counts, file = glue('{data_directory}/wide_counts.rds'))
 
 ################################################################################
 # RPM
@@ -97,7 +112,7 @@ long_counts = pivot_longer(rpm, cols = colnames(wide_counts)) %>%
   merge(samples)
 
 long_counts = long_counts %>%
-  dplyr::filter(Geneid != 'unassigned', omit == F) %>%
+  dplyr::filter(Geneid != 'unassigned') %>%
   mutate(type = case_when(grepl('MIMAT', Geneid) ~ 'miRNA',
                           grepl('other-tRF3', Geneid) ~ 'other-tRF3',
                           grepl('tRF5', Geneid) ~ 'tRF5',
