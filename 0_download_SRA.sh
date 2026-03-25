@@ -1,10 +1,10 @@
 #!/bin/bash
-#$ -cwd
-#$ -pe threads 1
-#$ -l m_mem_free=16G
-#$ -N download_SRA
-#$ -o download_SRA_output.txt
-#$ -e download_SRA_output.txt
+#SBATCH --job-name=download_SRA
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=16G
+#SBATCH --time=48:00:00
+#SBATCH --output=download_SRA_output.txt
+#SBATCH --error=download_SRA_output.txt
 
 ## Description
 ## Downloads selected fastq files input from an SRA explorer tsv file (https://sra-explorer.info)
@@ -37,4 +37,4 @@ echo "Finished on $(date)."
 echo "###########################"
 
 mv /grid/schorn/home/mpeacey/scripts/small_RNA_seq/download_SRA_output.txt $2/fastq
-cp /grid/schorn/home/mpeacey/scripts/small_RNA_seq/0_download_SRA.sh $2/scripts
+cp /grid/schorn/home/mpeacey/scripts/small_RNA_seq/0_download_SRA.sh $2/scripts/0_download_SRA.sh
