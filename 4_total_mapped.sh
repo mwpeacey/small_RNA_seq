@@ -1,10 +1,10 @@
 #!/bin/bash
-#$ -cwd
-#$ -pe threads 1
-#$ -l m_mem_free=8G
-#$ -N total_mapped
-#$ -o total_mapped_output.txt
-#$ -e total_mapped_output.txt
+#SBATCH --job-name=total_mapped
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=8G
+#SBATCH --time=48:00:00
+#SBATCH --output=total_mapped_output.txt
+#SBATCH --error=total_mapped_output.txt
 
 ## Calculates total mapped reads.
 
@@ -14,6 +14,8 @@
 echo "#####################################"
 echo "New run started on $(date)"
 echo "#####################################"
+
+SUBMIT_DIR="${SLURM_SUBMIT_DIR:-$PWD}"
 
 DATA_DIRECTORY=$1
 FASTQ_DIRECTORY=$2
@@ -37,5 +39,4 @@ done
 
 echo "Finished run on $(date)"
 
-mv /grid/schorn/home/mpeacey/scripts/small_RNA_seq/total_mapped_output.txt ${DATA_DIRECTORY}
-
+mv "${SUBMIT_DIR}/total_mapped_output.txt" "${DATA_DIRECTORY}"

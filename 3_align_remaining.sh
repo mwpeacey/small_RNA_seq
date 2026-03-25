@@ -1,7 +1,10 @@
 #!/bin/bash
-#$ -cwd
-#$ -pe threads 4
-#$ -l m_mem_free=32G
+#SBATCH --job-name=align_remaining
+#SBATCH --cpus-per-task=4
+#SBATCH --mem=32G
+#SBATCH --time=48:00:00
+#SBATCH --output=align_remaining_output.txt
+#SBATCH --error=align_remaining_output.txt
 
 echo "########################################"
 echo "New run started on $(date)"
@@ -39,4 +42,3 @@ samtools view -b -o ${SAMPLE_NAME}.bam ${SAMPLE_NAME}.sam
 bamtools filter -tag XM:"<=2" -in ${SAMPLE_NAME}.bam -out ${SAMPLE_NAME}_filtered.bam 
 
 echo "Finished run on $(date)"
-

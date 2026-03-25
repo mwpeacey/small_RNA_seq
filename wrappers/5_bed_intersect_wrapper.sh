@@ -1,10 +1,10 @@
 #!/bin/bash
-#$ -cwd
-#$ -pe threads 1
-#$ -l m_mem_free=4G
-#$ -N bed_intersect_wrapper
-#$ -o bed_intersect_wrapper_output.txt
-#$ -e bed_intersect_wrapper_output.txt
+#SBATCH --job-name=bed_intersect_wrapper
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=4G
+#SBATCH --time=48:00:00
+#SBATCH --output=bed_intersect_wrapper_output.txt
+#SBATCH --error=bed_intersect_wrapper_output.txt
 
 ## Description
 
@@ -27,9 +27,9 @@ for SAMPLE in *.sam; do
 
 	SAMPLE_NAME=`echo ${SAMPLE} | cut -d'.' -f 1`
 
-	qsub -N ${SAMPLE_NAME}_bed_intersect \
-	-o ${DATA_DIRECTORY}/bed_intersect/${SAMPLE_NAME}_bed_intersect_output.txt \
-	-e ${DATA_DIRECTORY}/bed_intersect/${SAMPLE_NAME}_bed_intersect_output.txt \
+	sbatch --job-name=${SAMPLE_NAME}_bed_intersect \
+	--output=${DATA_DIRECTORY}/bed_intersect/${SAMPLE_NAME}_bed_intersect_output.txt \
+	--error=${DATA_DIRECTORY}/bed_intersect/${SAMPLE_NAME}_bed_intersect_output.txt \
 	/grid/schorn/home/mpeacey/scripts/small_RNA_seq/5_bed_intersect.sh \
 	${SAMPLE_NAME} ${DATA_DIRECTORY} ${GENOME}
 

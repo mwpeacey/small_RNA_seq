@@ -1,10 +1,12 @@
 #!/bin/bash
-#$ -cwd
-#$ -pe threads 1
-#$ -l m_mem_free=4G
-#$ -N align_tRF_wrapper 
-#$ -o align_tRF_wrapper_output.txt
-#$ -e align_tRF_wrapper_output.txt
+#SBATCH --job-name=align_tRF_wrapper
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=4G
+#SBATCH --time=48:00:00
+#SBATCH --output=align_tRF_wrapper_output.txt
+#SBATCH --error=align_tRF_wrapper_output.txt
+
+SUBMIT_DIR="${SLURM_SUBMIT_DIR:-$PWD}"
 
 DATA_DIRECTORY=$1
 FASTQ_DIRECTORY=$2
@@ -21,14 +23,14 @@ for SAMPLE in *.fastq; do
 
 	SAMPLE_NAME=`echo ${SAMPLE} | cut -d'_' -f 1`
 
-	qsub -N ${SAMPLE_NAME}_align_tRF \
-	-o ${DATA_DIRECTORY}/alignment/${SAMPLE_NAME}_align_tRF_output.txt \
-	-e ${DATA_DIRECTORY}/alignment/${SAMPLE_NAME}_align_tRF_output.txt \
+	sbatch --job-name=${SAMPLE_NAME}_align_tRF \
+	--output=${DATA_DIRECTORY}/alignment/${SAMPLE_NAME}_align_tRF_output.txt \
+	--error=${DATA_DIRECTORY}/alignment/${SAMPLE_NAME}_align_tRF_output.txt \
 	/grid/schorn/home/mpeacey/scripts/small_RNA_seq/2_align_tRF.sh \
 	${SAMPLE} ${SAMPLE_NAME} \
 	${DATA_DIRECTORY} ${FASTQ_DIRECTORY} ${GENOME}
 
 done
 
-mv /grid/schorn/home/mpeacey/scripts/small_RNA_seq/wrappers/align_tRF_wrapper_output.txt ${DATA_DIRECTORY}/alignment/
+mv "${SUBMIT_DIR}/align_tRF_wrapper_output.txt" "${DATA_DIRECTORY}/alignment/"
 cp /grid/schorn/home/mpeacey/scripts/small_RNA_seq/2_align_tRF.sh  ${DATA_DIRECTORY}/scripts/2_align_tRF.sh

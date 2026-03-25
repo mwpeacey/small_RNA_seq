@@ -1,7 +1,10 @@
 #!/bin/bash
-#$ -cwd
-#$ -pe threads 1
-#$ -l m_mem_free=8G
+#SBATCH --job-name=bed_intersect
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=8G
+#SBATCH --time=48:00:00
+#SBATCH --output=bed_intersect_output.txt
+#SBATCH --error=bed_intersect_output.txt
 
 ## Assigns mapped reads to genomic features. tRNA-mapped reads (CCA and non-CCA) are intersected with a tRNA annotation,
 ## and the remaining reads are intersected with a custom small RNA annotation including miRNAs and piRNAs.
@@ -66,4 +69,3 @@ bedtools intersect -v -s -sorted \
   > ${DATA_DIRECTORY}/bed_intersect/${SAMPLE_NAME}_unassigned.bed
 
 echo "Finished run on $(date)"
-

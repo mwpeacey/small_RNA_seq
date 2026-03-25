@@ -1,7 +1,10 @@
 #!/bin/bash
-#$ -cwd
-#$ -pe threads 4
-#$ -l m_mem_free=32G
+#SBATCH --job-name=align_tRF
+#SBATCH --cpus-per-task=4
+#SBATCH --mem=32G
+#SBATCH --time=48:00:00
+#SBATCH --output=align_tRF_output.txt
+#SBATCH --error=align_tRF_output.txt
 
 ## Aligns CCA and non-CCA reads to a tRNA-masked genome.
 
@@ -57,4 +60,3 @@ echo "Extracting reads that align with 2 or fewer mismatches..."
 bamtools filter -tag XM:"<=2" -in ${SAMPLE_NAME}.bam -out ${SAMPLE_NAME}_filtered.bam
 
 echo "Finished run on $(date)"
-

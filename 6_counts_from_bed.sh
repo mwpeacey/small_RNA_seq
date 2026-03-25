@@ -1,7 +1,10 @@
 #!/bin/bash
-#$ -cwd
-#$ -pe threads 1
-#$ -l m_mem_free=16G
+#SBATCH --job-name=counts_from_bed
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=16G
+#SBATCH --time=48:00:00
+#SBATCH --output=counts_from_bed_output.txt
+#SBATCH --error=counts_from_bed_output.txt
 
 DATA_DIRECTORY=$1
 SAMPLE_NAME=$2

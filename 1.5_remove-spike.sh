@@ -1,10 +1,10 @@
 #!/bin/bash
-#$ -cwd
-#$ -pe threads 1
-#$ -l m_mem_free=16G
-#$ -N remove-spike
-#$ -o remove-spike_output.txt
-#$ -e remove-spike_output.txt
+#SBATCH --job-name=remove-spike
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=16G
+#SBATCH --time=48:00:00
+#SBATCH --output=remove-spike_output.txt
+#SBATCH --error=remove-spike_output.txt
 
 ## Extracts and quantifies spike-in reads for later normalizatiom
 
@@ -15,6 +15,8 @@
 ## $1: directory containing data
 
 echo "New run started on $(date)"
+
+SUBMIT_DIR="${SLURM_SUBMIT_DIR:-$PWD}"
 
 FASTQ_DIRECTORY=$1
 SPIKE_FASTA=$2
@@ -51,6 +53,5 @@ for i in *stats.txt; do
 
 done
 
-mv /grid/schorn/home/mpeacey/scripts/small_RNA_seq/remove_spike_output.txt ${FASTQ_DIRECTORY}/spike_depleted
-
+mv "${SUBMIT_DIR}/remove-spike_output.txt" "${FASTQ_DIRECTORY}/spike_depleted"
 

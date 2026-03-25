@@ -1,7 +1,10 @@
 #!/bin/bash
-#$ -cwd
-#$ -pe threads 1
-#$ -l m_mem_free=10G
+#SBATCH --job-name=adapter_trim
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=10G
+#SBATCH --time=48:00:00
+#SBATCH --output=adapter_trim_output.txt
+#SBATCH --error=adapter_trim_output.txt
 
 # Description
 #

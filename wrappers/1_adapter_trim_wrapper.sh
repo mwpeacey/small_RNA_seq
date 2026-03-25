@@ -1,10 +1,10 @@
 #!/bin/bash
-#$ -cwd
-#$ -pe threads 1
-#$ -l m_mem_free=4G
-#$ -N adapter_trim_wrapper 
-#$ -o adapter_trim_wrapper_output.txt
-#$ -e adapter_trim_wrapper_output.txt
+#SBATCH --job-name=adapter_trim_wrapper
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=4G
+#SBATCH --time=48:00:00
+#SBATCH --output=adapter_trim_wrapper_output.txt
+#SBATCH --error=adapter_trim_wrapper_output.txt
 
 # Description
 #
@@ -40,8 +40,8 @@ for SAMPLE in *.fastq; do
 
 	SAMPLE_NAME=`echo ${SAMPLE} | cut -d'.' -f 1`
 
-	qsub -N ${SAMPLE_NAME}_adapter_trim \
-	-o ${SAMPLE_NAME}_adapter_trim_output.txt -e ${SAMPLE_NAME}_adapter_trim_output.txt \
+	sbatch --job-name=${SAMPLE_NAME}_adapter_trim \
+	--output=${SAMPLE_NAME}_adapter_trim_output.txt --error=${SAMPLE_NAME}_adapter_trim_output.txt \
 	/grid/schorn/home/mpeacey/scripts/small_RNA_seq/1_adapter_trim.sh \
 	${SAMPLE} ${SAMPLE_NAME} \
 	${DATA_DIRECTORY} ${FASTQ_DIRECTORY} ${TRIM} ${POLY_A}
