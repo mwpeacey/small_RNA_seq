@@ -5,10 +5,11 @@
 ##
 ## Additional outputs (in {data}/bed_intersect/counts/):
 ##   {sample}_tRF3b_sequence_counts.rds : one row per unique tRF3b sequence in
-##       {genome}_tRF3b.csv (unique_name, sequence, source_tRNAs, total_count),
+##       {genome}_tRF3b.csv (unique_name, tDRNamer_ID, sequence, source_tRNAs,
+##       total_count),
 ##       zero-filled.
 ##   {sample}_tRF3b_tRNA_counts.rds : one row per full tRNA name (e.g.
-##       Mus_musculus_tRNA-Arg-TCT-1-1), zero-filled for tRNAs in source_tRNAs.
+##       tRNA-Arg-TCT-1-1, as written in source_tRNAs), zero-filled.
 
 library(tidyverse)
 library(glue)
@@ -75,16 +76,24 @@ tRF3_counts$sample = sample
 
 print('Counting tRF3b reads...')
 
+# tDRNamer ID column in {genome}_tRF3b.csv (matched by name, case-insensitive)
+tDR_col = grep('tdr', names(tRFb_info), ignore.case = TRUE, value = TRUE)
+if (length(tDR_col) != 1) {
+  stop(glue('Expected exactly one tDRNamer column (name containing "tDR") in {genome}_tRF3b.csv, ',
+            'found {length(tDR_col)}. Columns: {paste(names(tRFb_info), collapse = ", ")}'))
+}
+
 # Strip any prefix up to and including "tRNA-" (e.g. "Mus_musculus_tRNA-"),
 # so names match whether or not the species prefix is present.
 normalise_tRNA = function(x) str_remove(str_trim(x), '^.*?tRNA-')
 
-# One row per (tRF3b sequence, source tRNA). source_tRNAs is split into
-# individual names so matching is exact: a substring match would let
-# tRNA-Arg-TCT-1-1 also match tRNA-Arg-TCT-1-10, -1-11, etc.
+# One row per (tRF3b sequence, source tRNA). source_tRNAs (e.g.
+# "tRNA-Ala-AGC-10-1_tRNA-Ala-AGC-5-1") is split at each "_" that precedes
+# "tRNA-" so matching is exact: a substring match would let tRNA-Glu-CTC-1-1
+# also match tRNA-Glu-CTC-1-10, -1-11, etc.
 tRNA_lookup = tRFb_info %>%
   select(unique_name, sequence, source_tRNAs) %>%
-  mutate(tRNA_name = str_split(source_tRNAs, '[,;|/[:space:]]+')) %>%
+  mutate(tRNA_name = str_split(source_tRNAs, '_(?=tRNA-)|[,;|[:space:]]+')) %>%
   unnest(tRNA_name) %>%
   filter(tRNA_name != '') %>%
   mutate(tRNA_key = normalise_tRNA(tRNA_name)) %>%
@@ -107,7 +116,7 @@ print(glue('{nrow(tRF3b)} tRF3b reads from {n_distinct(tRF3b$tRNA)} tRNAs'))
 tRF3b_tRNA_counts = tRF3b %>%
   count(tRNA, tRNA_key, name = 'total_count') %>%
   full_join(tRNA_lookup %>% distinct(tRNA_key, tRNA_name), by = 'tRNA_key') %>%
-  mutate(tRNA = coalesce(tRNA, tRNA_name),
+  mutate(tRNA = coalesce(tRNA_name, tRNA),
          total_count = replace_na(total_count, 0L),
          sample = sample) %>%
   select(sample, tRNA, total_count) %>%
@@ -130,10 +139,11 @@ if (n_unmatched > 0) {
 tRF3b_sequence_counts = tRF3b %>%
   inner_join(tRNA_lookup %>% select(-tRNA_name), by = 'tRNA_key') %>%
   count(unique_name, sequence, name = 'total_count') %>%
-  right_join(tRFb_info %>% select(unique_name, sequence, source_tRNAs), by = c('unique_name', 'sequence')) %>%
+  right_join(tRFb_info %>% select(unique_name, tDRNamer_ID = !!sym(tDR_col), sequence, source_tRNAs),
+             by = c('unique_name', 'sequence')) %>%
   mutate(total_count = replace_na(total_count, 0L),
          sample = sample) %>%
-  select(sample, unique_name, sequence, source_tRNAs, total_count) %>%
+  select(sample, unique_name, tDRNamer_ID, sequence, source_tRNAs, total_count) %>%
   arrange(desc(total_count), unique_name)
 
 ################################################################################
